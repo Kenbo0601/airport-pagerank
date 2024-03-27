@@ -1,3 +1,1 @@
-# airport-pagerank
-
-## Analysis of airports using Pagerank algorithm 
+# Analysis of airports using Pagerank algorithm 
