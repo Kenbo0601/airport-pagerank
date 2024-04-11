@@ -8,13 +8,19 @@ def airportLookup():
     with open(path, encoding="utf8") as filedata:
         for line in filedata.readlines():
             line = line.split(',')
-            key = line[1].strip('"')
-            value = line[4].strip('"')
+            key = line[4].strip('"')
+            value = line[1].strip('"')
             if key in mydict:
                 mydict[key].append(value)
             else:
                 mydict[key] = [value]
     return mydict
 
+dict = airportLookup()
+print(dict['PEK'])
+print(dict['CTU'])
+print(dict['XIY'])
+print(dict['PVG'])
+print(dict['CAN'])
 
 

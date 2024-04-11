@@ -3,6 +3,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 import math
+import copy
 
 # remove whitespaces, and newlines
 def format_string(a,b):
@@ -15,30 +16,39 @@ def main():
     G = nx.DiGraph() # create a directed graph 
     testG = nx.DiGraph()
     pagerank = {}
+    new_pagerank = {}
+    edges = {}
     nodes = set()
 
     count = 0
     with open("source-dest.txt", encoding='utf-8') as f:
         for line in f.readlines():
             line = line.split('-')
-            l = format_string(line[0], line[1])
-            G.add_edges_from([(l[0],l[1])])
-            nodes.add(l[0])
-            nodes.add(l[1])
+            node = format_string(line[0], line[1])
+            source = node[0]
+            dest = node[1]
+            #if count < 20:
+            G.add_edges_from([(source, dest)])
+            nodes.add(source)
+            nodes.add(dest)
 
-            # for testing
-            if count < 20:
-                testG.add_edges_from([(l[0],l[1])])
+            # save incoming nodes for each source node 
+            if dest not in edges:
+                edges[dest] = [source]
+            else:
+                edges[dest].append(source)
+
             count += 1
 
     print("Total number of nodes: ", int(G.number_of_nodes())) 
     print("Total number of edges: ", int(G.number_of_edges())) 
 
     #print(testG.out_degree('DME'))
+    #print(edges)
     print(len(nodes))
 
     plt.figure(figsize=(10,10))
-    nx.draw_networkx(testG, with_labels=True, node_color='lightblue')
+    nx.draw_networkx(G, with_labels=True, node_color='lightblue')
     plt.savefig("testGraph.png")
 
 
@@ -51,8 +61,25 @@ def main():
     for node in nodes:
         pagerank[node] = 1.0 / n
 
-    print(pagerank)
+    for i in range(num_iter):
+        print("Iteration ", i)
+        for node in nodes:
+            sum = 0
+            if node in edges:
+                for j in edges[node]:
+                    sum += pagerank[j] / G.out_degree(j)
+            new_pagerank[node] = ((1 - espilon) * sum) + (espilon/n)
 
+        pagerank = copy.deepcopy(new_pagerank)
+        new_pagerank.clear()
+
+    sorted_pagerank = sorted(pagerank.items(), key=lambda item: item[1], reverse=True) 
+
+    with open("result.txt", "w") as out:
+        for i in sorted_pagerank:
+            L = [i[0], ":", str(i[1]), "\n"]
+            out.writelines(L)
+    out.close()
     return 
 
 if __name__ == "__main__":
