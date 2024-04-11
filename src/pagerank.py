@@ -4,6 +4,8 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import math
 import copy
+#from pyvis.network import Network
+
 
 # remove whitespaces, and newlines
 def format_string(a,b):
@@ -45,12 +47,19 @@ def main():
 
     #print(testG.out_degree('DME'))
     #print(edges)
-    print(len(nodes))
+    print(G.in_degree('PEK'))
+    print(G.in_degree('CTU'))
+    print(G.in_degree('XIY'))
+    print(G.in_degree('PVG'))
+    print(G.in_degree('CAN'))
 
-    plt.figure(figsize=(10,10))
-    nx.draw_networkx(G, with_labels=True, node_color='lightblue')
+    plt.figure(figsize=(100,100))
+    nx.draw_random(G, with_labels=True, node_color='lightblue')
     plt.savefig("testGraph.png")
 
+    #net = Network(notebook=True)
+    #net.from_nx(G)
+    #net.show("test.html")
 
     espilon = 0.15
     avg_error = 0.00001
@@ -80,6 +89,8 @@ def main():
             L = [i[0], ":", str(i[1]), "\n"]
             out.writelines(L)
     out.close()
+
+
     return 
 
 if __name__ == "__main__":

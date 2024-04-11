@@ -22,5 +22,6 @@ print(dict['CTU'])
 print(dict['XIY'])
 print(dict['PVG'])
 print(dict['CAN'])
+print(dict['SXX'])
 
 
