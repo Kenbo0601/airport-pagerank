@@ -4,7 +4,6 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import math
 import copy
-#from pyvis.network import Network
 
 
 # remove whitespaces, and newlines
@@ -47,21 +46,18 @@ def main():
 
     #print(testG.out_degree('DME'))
     #print(edges)
-    print(G.in_degree('PEK'))
-    print(G.in_degree('CTU'))
-    print(G.in_degree('XIY'))
-    print(G.in_degree('PVG'))
-    print(G.in_degree('CAN'))
+    
+    #plt.figure(figsize=(10,10))
+    #pos = nx.kamada_kawai_layout(G)
+    #node_options = {"node_color": "lightblue", "node_size":30}
+    #edge_options = {"width": .50, "alpha":.5, "edge_color": "black"}
+    #nx.draw_networkx_nodes(G, pos, **node_options)
+    #nx.draw_networkx_edges(G, pos, **edge_options)
+    #plt.savefig("testGraph.png")
 
-    plt.figure(figsize=(100,100))
-    nx.draw_random(G, with_labels=True, node_color='lightblue')
-    plt.savefig("testGraph.png")
 
-    #net = Network(notebook=True)
-    #net.from_nx(G)
-    #net.show("test.html")
-
-    espilon = 0.15
+    #espilon = 0.15
+    espilon = 0.85
     avg_error = 0.00001
     n = len(nodes)
     num_iter = int(math.log(avg_error) / math.log(1 - espilon))
@@ -78,7 +74,7 @@ def main():
                 for j in edges[node]:
                     sum += pagerank[j] / G.out_degree(j)
             new_pagerank[node] = ((1 - espilon) * sum) + (espilon/n)
-            print("node: ", node, " - pagerank: ",new_pagerank[node])
+            #print("node: ", node, " - pagerank: ",new_pagerank[node])
 
         pagerank = copy.deepcopy(new_pagerank)
         new_pagerank.clear()
