@@ -78,6 +78,7 @@ def main():
                 for j in edges[node]:
                     sum += pagerank[j] / G.out_degree(j)
             new_pagerank[node] = ((1 - espilon) * sum) + (espilon/n)
+            print("node: ", node, " - pagerank: ",new_pagerank[node])
 
         pagerank = copy.deepcopy(new_pagerank)
         new_pagerank.clear()
