@@ -1,3425 +1,3425 @@
-node: ATL, pagerank: 0.00467975
-node: IST, pagerank: 0.00441265
-node: ORD, pagerank: 0.00429125
-node: DEN, pagerank: 0.00426092
-node: DFW, pagerank: 0.00418953
-node: DME, pagerank: 0.00413453
-node: CDG, pagerank: 0.00396359
-node: FRA, pagerank: 0.00385721
-node: PEK, pagerank: 0.00382948
-node: AMS, pagerank: 0.00365858
-node: DXB, pagerank: 0.00364487
-node: IAH, pagerank: 0.00352955
-node: LAX, pagerank: 0.00334245
-node: SYD, pagerank: 0.00312532
-node: YYZ, pagerank: 0.00303111
-node: JFK, pagerank: 0.00302863
-node: PVG, pagerank: 0.00290782
-node: LHR, pagerank: 0.00290404
-node: MSP, pagerank: 0.00288791
-node: BOG, pagerank: 0.00288035
-node: CAN, pagerank: 0.00285959
-node: SIN, pagerank: 0.00284805
-node: CLT, pagerank: 0.00280935
-node: MUC, pagerank: 0.0027912
-node: MIA, pagerank: 0.00277355
-node: EWR, pagerank: 0.00274145
-node: LAS, pagerank: 0.00271239
-node: DTW, pagerank: 0.00268663
-node: HKG, pagerank: 0.00268561
-node: JNB, pagerank: 0.00263463
-node: MAD, pagerank: 0.00263263
-node: ICN, pagerank: 0.00262961
-node: KUL, pagerank: 0.00260609
-node: BKK, pagerank: 0.00260558
-node: SVO, pagerank: 0.00257863
-node: MEX, pagerank: 0.0025347
-node: MNL, pagerank: 0.00251152
-node: LGW, pagerank: 0.00247414
-node: BCN, pagerank: 0.00246039
-node: FCO, pagerank: 0.00245425
-node: ARN, pagerank: 0.00243376
-node: IAD, pagerank: 0.00241344
-node: AEP, pagerank: 0.00237308
-node: BET, pagerank: 0.00233416
-node: DEL, pagerank: 0.00233307
-node: GRU, pagerank: 0.00230815
-node: HND, pagerank: 0.00230292
-node: PHL, pagerank: 0.00227758
-node: BNE, pagerank: 0.00227719
-node: ORY, pagerank: 0.00225427
-node: STN, pagerank: 0.00225386
-node: SEA, pagerank: 0.00225212
-node: BRU, pagerank: 0.00224662
-node: DOH, pagerank: 0.00221345
-node: ANC, pagerank: 0.00220944
-node: LED, pagerank: 0.00217789
-node: SFO, pagerank: 0.00216324
-node: SLC, pagerank: 0.00215961
-node: DUS, pagerank: 0.00215953
-node: BOS, pagerank: 0.00215615
-node: JED, pagerank: 0.00214892
-node: NRT, pagerank: 0.00213774
-node: YVR, pagerank: 0.00211498
-node: MAN, pagerank: 0.00210075
-node: BOM, pagerank: 0.00210043
-node: YUL, pagerank: 0.00210033
-node: CTU, pagerank: 0.00205506
-node: VIE, pagerank: 0.00204261
-node: AKL, pagerank: 0.00204138
-node: ZRH, pagerank: 0.00203066
-node: FLL, pagerank: 0.00201626
-node: DUB, pagerank: 0.0019997
-node: ADD, pagerank: 0.00199622
-node: LIM, pagerank: 0.00198872
-node: ATH, pagerank: 0.00196966
-node: MCO, pagerank: 0.00195661
-node: TPE, pagerank: 0.00193222
-node: KMG, pagerank: 0.00192853
-node: PPT, pagerank: 0.00192377
-node: CPH, pagerank: 0.00191917
-node: PHX, pagerank: 0.00190851
-node: OSL, pagerank: 0.00190282
-node: HEL, pagerank: 0.00188702
-node: FAI, pagerank: 0.00186152
-node: CGK, pagerank: 0.00182048
-node: PMI, pagerank: 0.00180708
-node: RUH, pagerank: 0.00179375
-node: MEL, pagerank: 0.00178801
-node: SAW, pagerank: 0.00178154
-node: VCP, pagerank: 0.00177763
-node: LIS, pagerank: 0.00176754
-node: PTY, pagerank: 0.00171445
-node: NBO, pagerank: 0.00170361
-node: AUH, pagerank: 0.00170052
-node: CMN, pagerank: 0.00169266
-node: DCA, pagerank: 0.00166953
-node: MXP, pagerank: 0.00166178
-node: POM, pagerank: 0.00165241
-node: THR, pagerank: 0.00165097
-node: DMK, pagerank: 0.00160893
-node: YYC, pagerank: 0.00160546
-node: CKG, pagerank: 0.00160359
-node: TXL, pagerank: 0.00159507
-node: SHJ, pagerank: 0.00158664
-node: AGP, pagerank: 0.00158616
-node: CAI, pagerank: 0.00157021
-node: XIY, pagerank: 0.0015656
-node: CUN, pagerank: 0.0015417
-node: ALG, pagerank: 0.00153645
-node: CCS, pagerank: 0.0015308
-node: SZX, pagerank: 0.00150911
-node: VKO, pagerank: 0.00148229
-node: PER, pagerank: 0.00146929
-node: HIR, pagerank: 0.00145945
-node: BSB, pagerank: 0.00143965
-node: GVA, pagerank: 0.00143569
-node: ALC, pagerank: 0.00142319
-node: MDW, pagerank: 0.00142252
-node: MRS, pagerank: 0.00140655
-node: SGN, pagerank: 0.00140245
-node: BWI, pagerank: 0.001377
-node: STL, pagerank: 0.00135972
-node: PRG, pagerank: 0.00135036
-node: SVX, pagerank: 0.00134943
-node: NCE, pagerank: 0.00134734
-node: SCL, pagerank: 0.00132838
-node: KTN, pagerank: 0.00132824
-node: HNL, pagerank: 0.00132474
-node: CNS, pagerank: 0.00131755
-node: DPS, pagerank: 0.00130907
-node: JNU, pagerank: 0.00130341
-node: SJO, pagerank: 0.00130231
-node: CGN, pagerank: 0.00129162
-node: VLI, pagerank: 0.0012861
-node: TLV, pagerank: 0.00127951
-node: LYS, pagerank: 0.00127561
-node: EDI, pagerank: 0.00125996
-node: HGH, pagerank: 0.00125987
-node: GIG, pagerank: 0.00125715
-node: URC, pagerank: 0.00125488
-node: LGA, pagerank: 0.00125155
-node: XMN, pagerank: 0.00124714
-node: PDX, pagerank: 0.00124505
-node: LPA, pagerank: 0.00123149
-node: LTN, pagerank: 0.00120892
-node: SHA, pagerank: 0.00120777
-node: HAM, pagerank: 0.00120749
-node: UPG, pagerank: 0.00120184
-node: TPA, pagerank: 0.0011992
-node: CSX, pagerank: 0.00119271
-node: LAD, pagerank: 0.00118994
-node: NAS, pagerank: 0.00118087
-node: BHX, pagerank: 0.00117333
-node: BGY, pagerank: 0.00116874
-node: OME, pagerank: 0.00116751
-node: CRL, pagerank: 0.00115815
-node: CLE, pagerank: 0.00115374
-node: OTZ, pagerank: 0.0011434
-node: KIX, pagerank: 0.0011433
-node: WUH, pagerank: 0.00114261
-node: HAN, pagerank: 0.00114039
-node: SFB, pagerank: 0.00113954
-node: TFS, pagerank: 0.00112971
-node: ADL, pagerank: 0.00112279
-node: WAW, pagerank: 0.00111816
-node: KWI, pagerank: 0.00111457
-node: STR, pagerank: 0.00111151
-node: HRB, pagerank: 0.00110022
-node: LOS, pagerank: 0.00110004
-node: YZF, pagerank: 0.00109884
-node: MHD, pagerank: 0.00109855
-node: MCT, pagerank: 0.00109638
-node: GLA, pagerank: 0.00109528
-node: EZE, pagerank: 0.00109236
-node: ESB, pagerank: 0.0010892
-node: TUN, pagerank: 0.00108508
-node: TAS, pagerank: 0.00108291
-node: SHE, pagerank: 0.00108225
-node: SAN, pagerank: 0.00108119
-node: SJU, pagerank: 0.00107401
-node: BUD, pagerank: 0.00107318
-node: CEB, pagerank: 0.00106844
-node: MLA, pagerank: 0.00106792
-node: OTP, pagerank: 0.00106602
-node: VCE, pagerank: 0.00106101
-node: DLC, pagerank: 0.0010608
-node: GEA, pagerank: 0.00105906
-node: WLG, pagerank: 0.00105583
-node: KTM, pagerank: 0.00105336
-node: AMM, pagerank: 0.0010492
-node: OVB, pagerank: 0.0010436
-node: CCU, pagerank: 0.00102747
-node: CNF, pagerank: 0.00102716
-node: NAN, pagerank: 0.00101909
-node: YEG, pagerank: 0.0010079
-node: KBP, pagerank: 0.000999222
-node: DMM, pagerank: 0.000995034
-node: RIX, pagerank: 0.000993319
-node: BRS, pagerank: 0.000982411
-node: PAC, pagerank: 0.000980616
-node: WIL, pagerank: 0.000971574
-node: AYT, pagerank: 0.000968856
-node: TAO, pagerank: 0.000965888
-node: OPO, pagerank: 0.000959341
-node: CHC, pagerank: 0.000959271
-node: KHI, pagerank: 0.000955665
-node: MED, pagerank: 0.00095263
-node: SSA, pagerank: 0.000948181
-node: DAC, pagerank: 0.000945844
-node: YXL, pagerank: 0.000944439
-node: SXF, pagerank: 0.000944136
-node: ALA, pagerank: 0.000942096
-node: BLR, pagerank: 0.000940735
-node: NGO, pagerank: 0.000934983
-node: CMB, pagerank: 0.000932384
-node: CGO, pagerank: 0.000921235
-node: ABV, pagerank: 0.000916988
-node: NKG, pagerank: 0.000910528
-node: RGN, pagerank: 0.000909776
-node: JUV, pagerank: 0.000908904
-node: POA, pagerank: 0.000902794
-node: CTS, pagerank: 0.000897504
-node: TSN, pagerank: 0.000888632
-node: GDL, pagerank: 0.000888255
-node: YWG, pagerank: 0.000883449
-node: BSL, pagerank: 0.00088244
-node: BNA, pagerank: 0.000878663
-node: BGO, pagerank: 0.000877054
-node: UIO, pagerank: 0.000876354
-node: BLQ, pagerank: 0.000874493
-node: PSA, pagerank: 0.000872731
-node: CVG, pagerank: 0.000868513
-node: BKI, pagerank: 0.000867882
-node: HOU, pagerank: 0.000866313
-node: AKN, pagerank: 0.000865945
-node: CGH, pagerank: 0.000848666
-node: FAO, pagerank: 0.000839186
-node: MAA, pagerank: 0.000837319
-node: KWE, pagerank: 0.0008371
-node: MCI, pagerank: 0.000836842
-node: EIN, pagerank: 0.000833407
-node: FUK, pagerank: 0.000832074
-node: NAY, pagerank: 0.000829684
-node: MYY, pagerank: 0.000826324
-node: AZA, pagerank: 0.000824561
-node: SKG, pagerank: 0.0008231
-node: YHZ, pagerank: 0.000819306
-node: PUJ, pagerank: 0.000818494
-node: FIH, pagerank: 0.00081815
-node: HER, pagerank: 0.000814165
-node: MAO, pagerank: 0.000814149
-node: ISB, pagerank: 0.000810846
-node: LCA, pagerank: 0.00080948
-node: LPB, pagerank: 0.000805964
-node: DRW, pagerank: 0.000803678
-node: FOC, pagerank: 0.000801344
-node: CWB, pagerank: 0.000799134
-node: BVA, pagerank: 0.000796079
-node: IKT, pagerank: 0.000795478
-node: NTE, pagerank: 0.000794643
-node: TLS, pagerank: 0.000788143
-node: CJU, pagerank: 0.000787869
-node: VLC, pagerank: 0.000784231
-node: BEG, pagerank: 0.000783642
-node: CGB, pagerank: 0.000783062
-node: EMA, pagerank: 0.000782824
-node: BAH, pagerank: 0.000782232
-node: NNG, pagerank: 0.000782149
-node: SUB, pagerank: 0.000781111
-node: TYN, pagerank: 0.000779805
-node: ANI, pagerank: 0.000777772
-node: RHO, pagerank: 0.000777728
-node: UMD, pagerank: 0.000776595
-node: TIJ, pagerank: 0.000775148
-node: BEY, pagerank: 0.000774329
-node: IBZ, pagerank: 0.00077337
-node: SXM, pagerank: 0.000771213
-node: IKA, pagerank: 0.000768986
-node: SON, pagerank: 0.000767921
-node: LUX, pagerank: 0.000764791
-node: AUS, pagerank: 0.000762544
-node: YFB, pagerank: 0.000761998
-node: TNR, pagerank: 0.00076037
-node: ACE, pagerank: 0.000758679
-node: YKS, pagerank: 0.000756126
-node: HYD, pagerank: 0.000755773
-node: ACC, pagerank: 0.000754787
-node: SYZ, pagerank: 0.000750626
-node: ADB, pagerank: 0.000744127
-node: OKA, pagerank: 0.000741464
-node: CPT, pagerank: 0.000738265
-node: TSE, pagerank: 0.000737725
-node: KJA, pagerank: 0.000734552
-node: HET, pagerank: 0.000720448
-node: TOS, pagerank: 0.000713521
-node: SAL, pagerank: 0.00071347
-node: MSY, pagerank: 0.000711881
-node: YEV, pagerank: 0.000711868
-node: KRK, pagerank: 0.000708744
-node: MTY, pagerank: 0.000708148
-node: PUS, pagerank: 0.000707609
-node: RDU, pagerank: 0.0007075
-node: MFM, pagerank: 0.000707343
-node: JJU, pagerank: 0.00070553
-node: HAV, pagerank: 0.000703065
-node: BOD, pagerank: 0.000701754
-node: LBA, pagerank: 0.000701246
-node: DWC, pagerank: 0.00069704
-node: GYD, pagerank: 0.000695467
-node: TNA, pagerank: 0.000694993
-node: PIE, pagerank: 0.000694658
-node: NAP, pagerank: 0.000693753
-node: CTA, pagerank: 0.000691917
-node: RAK, pagerank: 0.000690852
-node: GRO, pagerank: 0.000690778
-node: FUE, pagerank: 0.000690412
-node: HAJ, pagerank: 0.000687697
-node: HKT, pagerank: 0.000684747
-node: GDN, pagerank: 0.000681036
-node: OAK, pagerank: 0.000680991
-node: KHH, pagerank: 0.000679706
-node: SUV, pagerank: 0.000677688
-node: VNO, pagerank: 0.000674548
-node: SYX, pagerank: 0.000674206
-node: MLE, pagerank: 0.000672464
-node: LPL, pagerank: 0.000672123
-node: CNX, pagerank: 0.000671987
-node: KWL, pagerank: 0.000667627
-node: PIT, pagerank: 0.00066751
-node: SAT, pagerank: 0.000666397
-node: CLO, pagerank: 0.000664754
-node: CIA, pagerank: 0.000663318
-node: NCL, pagerank: 0.000662302
-node: HHN, pagerank: 0.000661128
-node: DKR, pagerank: 0.000660005
-node: NGB, pagerank: 0.000656868
-node: YOW, pagerank: 0.000654237
-node: MSQ, pagerank: 0.000652181
-node: AGM, pagerank: 0.000646796
-node: IND, pagerank: 0.000644627
-node: KHN, pagerank: 0.00064383
-node: GYE, pagerank: 0.00064378
-node: LHE, pagerank: 0.0006412
-node: MEM, pagerank: 0.000630495
-node: SJW, pagerank: 0.000630344
-node: TIP, pagerank: 0.000630015
-node: TRD, pagerank: 0.000629606
-node: ITM, pagerank: 0.000629075
-node: DAR, pagerank: 0.000624148
-node: RAR, pagerank: 0.000622796
-node: BEL, pagerank: 0.000621058
-node: HAK, pagerank: 0.000618017
-node: BTH, pagerank: 0.000617464
-node: LCY, pagerank: 0.000617448
-node: RSW, pagerank: 0.000610803
-node: LHW, pagerank: 0.000610214
-node: GOH, pagerank: 0.000610212
-node: KRT, pagerank: 0.000609567
-node: ULN, pagerank: 0.000609564
-node: SJC, pagerank: 0.00060929
-node: YQT, pagerank: 0.00060927
-node: KHV, pagerank: 0.000609132
-node: KRR, pagerank: 0.000608855
-node: MRU, pagerank: 0.000606861
-node: SDQ, pagerank: 0.000606071
-node: BZE, pagerank: 0.000602922
-node: YVP, pagerank: 0.000602222
-node: LUN, pagerank: 0.000600832
-node: YRT, pagerank: 0.000600032
-node: SMF, pagerank: 0.00059915
-node: SDU, pagerank: 0.000597543
-node: KEF, pagerank: 0.000596991
-node: BRE, pagerank: 0.000596739
-node: DYU, pagerank: 0.000596584
-node: CMH, pagerank: 0.000593433
-node: SAH, pagerank: 0.000593169
-node: DBV, pagerank: 0.000590983
-node: EVN, pagerank: 0.000585032
-node: SOF, pagerank: 0.000582865
-node: HFE, pagerank: 0.000582081
-node: FYU, pagerank: 0.000579829
-node: BLL, pagerank: 0.000579666
-node: SVG, pagerank: 0.000579041
-node: YYR, pagerank: 0.00057545
-node: OGG, pagerank: 0.000574447
-node: VTE, pagerank: 0.000572482
-node: DJJ, pagerank: 0.000566561
-node: WNZ, pagerank: 0.000565663
-node: DUT, pagerank: 0.000565561
-node: MKE, pagerank: 0.00056389
-node: AUA, pagerank: 0.0005617
-node: PLU, pagerank: 0.000560071
-node: PMO, pagerank: 0.000556768
-node: MDC, pagerank: 0.000553809
-node: BRI, pagerank: 0.000553311
-node: TFF, pagerank: 0.000552057
-node: YQB, pagerank: 0.00055142
-node: TDD, pagerank: 0.000549463
-node: ABZ, pagerank: 0.000546714
-node: FOR, pagerank: 0.000543894
-node: GOT, pagerank: 0.000542646
-node: MPM, pagerank: 0.000541758
-node: EBB, pagerank: 0.000539508
-node: BOO, pagerank: 0.000535867
-node: INC, pagerank: 0.000535386
-node: SPU, pagerank: 0.000533365
-node: CHQ, pagerank: 0.000532698
-node: PEN, pagerank: 0.000532684
-node: SVQ, pagerank: 0.000532218
-node: BIL, pagerank: 0.000532054
-node: MYR, pagerank: 0.000531841
-node: CAG, pagerank: 0.000531464
-node: ABQ, pagerank: 0.000528142
-node: NRN, pagerank: 0.000525905
-node: CFU, pagerank: 0.000525567
-node: MDE, pagerank: 0.000524026
-node: TLL, pagerank: 0.000522586
-node: YRL, pagerank: 0.000519688
-node: SFJ, pagerank: 0.000517698
-node: TSF, pagerank: 0.000517269
-node: RKV, pagerank: 0.000517213
-node: YZV, pagerank: 0.000517058
-node: ZUH, pagerank: 0.000515605
-node: PLS, pagerank: 0.000514374
-node: GUM, pagerank: 0.000512848
-node: ORN, pagerank: 0.000512426
-node: BIO, pagerank: 0.000512151
-node: PMV, pagerank: 0.000509219
-node: CGQ, pagerank: 0.000503491
-node: GUA, pagerank: 0.00050154
-node: MBJ, pagerank: 0.000500669
-node: REC, pagerank: 0.00049828
-node: ISA, pagerank: 0.00049817
-node: KOI, pagerank: 0.000491617
-node: BDL, pagerank: 0.000491211
-node: EOH, pagerank: 0.000490443
-node: GZO, pagerank: 0.000490319
-node: JAX, pagerank: 0.000490252
-node: DLA, pagerank: 0.000489568
-node: JNN, pagerank: 0.000489132
-node: LJG, pagerank: 0.000488983
-node: LAE, pagerank: 0.000487659
-node: POS, pagerank: 0.00048685
-node: KCH, pagerank: 0.000486791
-node: COK, pagerank: 0.000486337
-node: LIN, pagerank: 0.000485979
-node: REP, pagerank: 0.000482236
-node: RYG, pagerank: 0.000481744
-node: BPN, pagerank: 0.000480657
-node: TSV, pagerank: 0.00047706
-node: KGL, pagerank: 0.000475032
-node: ANU, pagerank: 0.000473997
-node: AMQ, pagerank: 0.000473762
-node: CUR, pagerank: 0.000472546
-node: HGU, pagerank: 0.000471911
-node: RGI, pagerank: 0.000469627
-node: WDH, pagerank: 0.000469418
-node: SJD, pagerank: 0.000469267
-node: BRW, pagerank: 0.000468348
-node: DAD, pagerank: 0.000468203
-node: DAL, pagerank: 0.000466328
-node: COO, pagerank: 0.0004656
-node: GCM, pagerank: 0.000463508
-node: CDB, pagerank: 0.000463149
-node: PDL, pagerank: 0.000462442
-node: KUS, pagerank: 0.000461328
-node: PBI, pagerank: 0.000461035
-node: BMA, pagerank: 0.000460201
-node: ZAG, pagerank: 0.000459552
-node: BFI, pagerank: 0.000456174
-node: SNA, pagerank: 0.000454952
-node: PVR, pagerank: 0.000454159
-node: HRE, pagerank: 0.000453258
-node: OLB, pagerank: 0.000453052
-node: AJA, pagerank: 0.000452467
-node: MCG, pagerank: 0.000452038
-node: TAH, pagerank: 0.000449887
-node: DUR, pagerank: 0.000449885
-node: FRU, pagerank: 0.000449426
-node: FNC, pagerank: 0.000448529
-node: LIL, pagerank: 0.000447831
-node: RMQ, pagerank: 0.000446597
-node: OOL, pagerank: 0.00044509
-node: AHO, pagerank: 0.000444779
-node: KGS, pagerank: 0.000443895
-node: ABJ, pagerank: 0.000442402
-node: RAB, pagerank: 0.00044156
-node: TRF, pagerank: 0.000440863
-node: DTM, pagerank: 0.00044008
-node: ALB, pagerank: 0.000438674
-node: BGI, pagerank: 0.000438558
-node: RAI, pagerank: 0.00043775
-node: FLN, pagerank: 0.000437676
-node: OKC, pagerank: 0.00043685
-node: CBB, pagerank: 0.000436471
-node: SDF, pagerank: 0.000436007
-node: TBS, pagerank: 0.000435084
-node: COR, pagerank: 0.000434475
-node: STT, pagerank: 0.000433741
-node: NUE, pagerank: 0.000433053
-node: ERS, pagerank: 0.000432353
-node: JER, pagerank: 0.000432335
-node: NYO, pagerank: 0.000431596
-node: TJM, pagerank: 0.000430999
-node: RTM, pagerank: 0.000430699
-node: TRN, pagerank: 0.000429245
-node: WRO, pagerank: 0.000427003
-node: UUS, pagerank: 0.000422553
-node: LBV, pagerank: 0.000421925
-node: SZB, pagerank: 0.000421659
-node: VVI, pagerank: 0.000420618
-node: XNN, pagerank: 0.000419915
-node: ORK, pagerank: 0.000419414
-node: TPS, pagerank: 0.00041898
-node: TSA, pagerank: 0.000418526
-node: UNK, pagerank: 0.000418017
-node: SWA, pagerank: 0.000414149
-node: SCC, pagerank: 0.000413453
-node: RUN, pagerank: 0.000413101
-node: PEW, pagerank: 0.000411931
-node: YKQ, pagerank: 0.000411786
-node: KIN, pagerank: 0.00041064
-node: IFN, pagerank: 0.000410435
-node: GAL, pagerank: 0.000410285
-node: DLM, pagerank: 0.000409775
-node: KZN, pagerank: 0.000406196
-node: YTZ, pagerank: 0.000401252
-node: GAU, pagerank: 0.000400072
-node: YNT, pagerank: 0.000399367
-node: GRR, pagerank: 0.000399065
-node: HFT, pagerank: 0.000398642
-node: KTW, pagerank: 0.000397409
-node: LEJ, pagerank: 0.000396702
-node: SXB, pagerank: 0.000396247
-node: JOG, pagerank: 0.000395785
-node: JAV, pagerank: 0.000395039
-node: MUR, pagerank: 0.000394152
-node: ROV, pagerank: 0.000391639
-node: KIV, pagerank: 0.000389952
-node: HRG, pagerank: 0.00038915
-node: NAQ, pagerank: 0.000389115
-node: HBE, pagerank: 0.000388875
-node: NUS, pagerank: 0.000388723
-node: LIR, pagerank: 0.000387983
-node: NOU, pagerank: 0.000387789
-node: LBD, pagerank: 0.000387326
-node: BHM, pagerank: 0.000386848
-node: LXA, pagerank: 0.000385435
-node: GSP, pagerank: 0.000384714
-node: GMP, pagerank: 0.00038431
-node: PGD, pagerank: 0.000384121
-node: YTL, pagerank: 0.000383765
-node: RAO, pagerank: 0.00038325
-node: YYT, pagerank: 0.000383132
-node: AMD, pagerank: 0.000382857
-node: ADQ, pagerank: 0.000382542
-node: OMA, pagerank: 0.000382246
-node: LIF, pagerank: 0.000381943
-node: FLR, pagerank: 0.000381599
-node: PFO, pagerank: 0.000381589
-node: TRV, pagerank: 0.000381397
-node: BFS, pagerank: 0.000381059
-node: YGW, pagerank: 0.000379806
-node: PSP, pagerank: 0.000379508
-node: LET, pagerank: 0.000379316
-node: BUF, pagerank: 0.00037907
-node: SCO, pagerank: 0.00037904
-node: CGA, pagerank: 0.000378312
-node: SNN, pagerank: 0.000378101
-node: YWK, pagerank: 0.000377697
-node: UFA, pagerank: 0.00037762
-node: NSI, pagerank: 0.000377326
-node: SOU, pagerank: 0.000375393
-node: MAG, pagerank: 0.000374694
-node: KSM, pagerank: 0.000373988
-node: SOQ, pagerank: 0.000373083
-node: AWZ, pagerank: 0.000372919
-node: JRO, pagerank: 0.000372588
-node: IEV, pagerank: 0.000371455
-node: BND, pagerank: 0.000371405
-node: BZV, pagerank: 0.000370496
-node: JHB, pagerank: 0.000369696
-node: RIC, pagerank: 0.000369442
-node: ORF, pagerank: 0.000369314
-node: KUF, pagerank: 0.000369111
-node: CGR, pagerank: 0.000368772
-node: WAA, pagerank: 0.000368438
-node: UAK, pagerank: 0.000366764
-node: HPN, pagerank: 0.000365791
-node: TUL, pagerank: 0.000365717
-node: NBE, pagerank: 0.000365378
-node: JIB, pagerank: 0.000361974
-node: CHS, pagerank: 0.00036124
-node: VVO, pagerank: 0.000360623
-node: BIA, pagerank: 0.000360053
-node: MDZ, pagerank: 0.000359
-node: WMI, pagerank: 0.000358915
-node: GYN, pagerank: 0.000358854
-node: KWN, pagerank: 0.000358651
-node: SPR, pagerank: 0.000358525
-node: SAP, pagerank: 0.000356603
-node: SKP, pagerank: 0.000356249
-node: BOI, pagerank: 0.000355085
-node: PLJ, pagerank: 0.000354733
-node: EBL, pagerank: 0.000354038
-node: MAH, pagerank: 0.000353152
-node: YVQ, pagerank: 0.000352963
-node: MVD, pagerank: 0.00035285
-node: MUA, pagerank: 0.000352616
-node: CCJ, pagerank: 0.000352311
-node: DJE, pagerank: 0.000350879
-node: AGA, pagerank: 0.000350747
-node: BKO, pagerank: 0.000349686
-node: ZAD, pagerank: 0.000348114
-node: PNH, pagerank: 0.000347781
-node: MSA, pagerank: 0.000346311
-node: DSM, pagerank: 0.000345684
-node: NGS, pagerank: 0.000345188
-node: AER, pagerank: 0.000344968
-node: TYS, pagerank: 0.000344001
-node: ROC, pagerank: 0.000343767
-node: LJU, pagerank: 0.000343115
-node: XBE, pagerank: 0.00034168
-node: ADE, pagerank: 0.000341638
-node: WUX, pagerank: 0.000341156
-node: DSN, pagerank: 0.000341036
-node: ZGS, pagerank: 0.000340942
-node: SDJ, pagerank: 0.000340793
-node: LOP, pagerank: 0.000340477
-node: EXT, pagerank: 0.000339322
-node: TFN, pagerank: 0.00033878
-node: YTH, pagerank: 0.000338705
-node: DVO, pagerank: 0.00033602
-node: LFW, pagerank: 0.000335925
-node: VVC, pagerank: 0.000334127
-node: TER, pagerank: 0.000331739
-node: CRD, pagerank: 0.00033172
-node: RBY, pagerank: 0.000331716
-node: BWN, pagerank: 0.000331619
-node: LST, pagerank: 0.000330948
-node: YLW, pagerank: 0.00033055
-node: DZA, pagerank: 0.000330308
-node: HMO, pagerank: 0.000329066
-node: SSH, pagerank: 0.000328833
-node: OUA, pagerank: 0.000326299
-node: VRN, pagerank: 0.000325724
-node: ASU, pagerank: 0.000325649
-node: JJN, pagerank: 0.000325376
-node: XUZ, pagerank: 0.000324985
-node: TAL, pagerank: 0.000324124
-node: WSX, pagerank: 0.000323908
-node: YCU, pagerank: 0.000323585
-node: PVD, pagerank: 0.000322618
-node: TUS, pagerank: 0.000322547
-node: LIT, pagerank: 0.000322185
-node: CWL, pagerank: 0.00032215
-node: ONT, pagerank: 0.000321968
-node: CZX, pagerank: 0.000321537
-node: PNP, pagerank: 0.000320946
-node: VEE, pagerank: 0.000320941
-node: TXN, pagerank: 0.000319413
-node: REL, pagerank: 0.000318641
-node: KPN, pagerank: 0.000318559
-node: ASP, pagerank: 0.000317944
-node: GSE, pagerank: 0.000317277
-node: DAY, pagerank: 0.00031669
-node: LUV, pagerank: 0.000316466
-node: SYR, pagerank: 0.000315228
-node: BOB, pagerank: 0.000314489
-node: MRV, pagerank: 0.000313122
-node: MDK, pagerank: 0.000312759
-node: ADZ, pagerank: 0.00031256
-node: YPX, pagerank: 0.000312339
-node: PMC, pagerank: 0.000311939
-node: BJV, pagerank: 0.000311389
-node: TTN, pagerank: 0.000311254
-node: YAT, pagerank: 0.00031091
-node: BAV, pagerank: 0.000310631
-node: MPL, pagerank: 0.000310552
-node: PTP, pagerank: 0.000309692
-node: SCQ, pagerank: 0.000309478
-node: KLG, pagerank: 0.000309121
-node: YXS, pagerank: 0.000309053
-node: TMM, pagerank: 0.000308917
-node: FBM, pagerank: 0.000306337
-node: YHR, pagerank: 0.000306286
-node: PAP, pagerank: 0.000306184
-node: FMM, pagerank: 0.000306159
-node: PZO, pagerank: 0.000305921
-node: YIF, pagerank: 0.000305131
-node: NHV, pagerank: 0.000304718
-node: AUQ, pagerank: 0.000304718
-node: EMK, pagerank: 0.000304604
-node: PIK, pagerank: 0.000303943
-node: KBL, pagerank: 0.000303919
-node: UDI, pagerank: 0.000303662
-node: VPE, pagerank: 0.000303595
-node: MGQ, pagerank: 0.000303583
-node: MKW, pagerank: 0.00030269
-node: BTT, pagerank: 0.000302523
-node: GBE, pagerank: 0.000302488
-node: OMS, pagerank: 0.000302313
-node: SUF, pagerank: 0.000302288
-node: YFH, pagerank: 0.000301682
-node: STM, pagerank: 0.000301397
-node: RNO, pagerank: 0.000301203
-node: THU, pagerank: 0.000300645
-node: HYL, pagerank: 0.000299413
-node: SZG, pagerank: 0.000299322
-node: PQS, pagerank: 0.00029788
-node: CCV, pagerank: 0.000297783
-node: PNQ, pagerank: 0.00029772
-node: ZSJ, pagerank: 0.000297364
-node: TGU, pagerank: 0.000296985
-node: MNG, pagerank: 0.000296184
-node: MDL, pagerank: 0.000296152
-node: LRE, pagerank: 0.000295947
-node: VIX, pagerank: 0.000294789
-node: GCW, pagerank: 0.000294731
-node: SPB, pagerank: 0.000294731
-node: TKJ, pagerank: 0.000294731
-node: SSB, pagerank: 0.000294731
-node: BLD, pagerank: 0.000294731
-node: CKX, pagerank: 0.000294731
-node: AZI, pagerank: 0.000294725
-node: DHB, pagerank: 0.000294373
-node: XNA, pagerank: 0.000293512
-node: RFP, pagerank: 0.000290868
-node: KTS, pagerank: 0.000290789
-node: TJA, pagerank: 0.000290263
-node: MPA, pagerank: 0.00028993
-node: NDU, pagerank: 0.00028993
-node: GOJ, pagerank: 0.000289219
-node: GSO, pagerank: 0.000289022
-node: YHI, pagerank: 0.000288704
-node: YCB, pagerank: 0.000288285
-node: BRC, pagerank: 0.000286756
-node: BHD, pagerank: 0.000286678
-node: GUR, pagerank: 0.000286543
-node: YTS, pagerank: 0.000285855
-node: MMX, pagerank: 0.000284272
-node: AKP, pagerank: 0.000283996
-node: RSH, pagerank: 0.000283355
-node: KOA, pagerank: 0.00028314
-node: BDJ, pagerank: 0.000282732
-node: KUN, pagerank: 0.000282413
-node: EGM, pagerank: 0.000282406
-node: SRG, pagerank: 0.000282401
-node: XMH, pagerank: 0.000282283
-node: MIG, pagerank: 0.000282283
-node: BUR, pagerank: 0.000282059
-node: BME, pagerank: 0.000280938
-node: CZL, pagerank: 0.00028087
-node: TIA, pagerank: 0.000280815
-node: KOJ, pagerank: 0.000280166
-node: OSS, pagerank: 0.0002797
-node: YRB, pagerank: 0.000279627
-node: MGF, pagerank: 0.00027924
-node: POZ, pagerank: 0.000279134
-node: KOE, pagerank: 0.000278892
-node: SCW, pagerank: 0.000277962
-node: PHO, pagerank: 0.000277386
-node: APL, pagerank: 0.000276625
-node: BDO, pagerank: 0.000276126
-node: PNR, pagerank: 0.000276122
-node: YGT, pagerank: 0.000276064
-node: BHY, pagerank: 0.000275578
-node: YNA, pagerank: 0.000275515
-node: CEK, pagerank: 0.000275332
-node: LEX, pagerank: 0.00027519
-node: VDS, pagerank: 0.000275036
-node: ZKE, pagerank: 0.000274838
-node: ILO, pagerank: 0.000274541
-node: RGL, pagerank: 0.000273988
-node: NAT, pagerank: 0.000273698
-node: BDS, pagerank: 0.000273626
-node: DRS, pagerank: 0.000273435
-node: INB, pagerank: 0.000273272
-node: CTL, pagerank: 0.000273179
-node: MAS, pagerank: 0.000273156
-node: NLA, pagerank: 0.000272878
-node: USM, pagerank: 0.00027269
-node: BTS, pagerank: 0.000272594
-node: WJR, pagerank: 0.000271561
-node: TBZ, pagerank: 0.000271148
-node: GCI, pagerank: 0.000270817
-node: FKB, pagerank: 0.000270664
-node: CMA, pagerank: 0.000270109
-node: YPH, pagerank: 0.00027002
-node: CLJ, pagerank: 0.000269985
-node: CYF, pagerank: 0.000269781
-node: BEN, pagerank: 0.000269645
-node: TZA, pagerank: 0.00026952
-node: NDJ, pagerank: 0.000269299
-node: ACK, pagerank: 0.000269296
-node: KIH, pagerank: 0.000269193
-node: YZS, pagerank: 0.000268697
-node: TOH, pagerank: 0.000268609
-node: MTV, pagerank: 0.000268609
-node: YKU, pagerank: 0.000268591
-node: GOI, pagerank: 0.000268395
-node: GIU, pagerank: 0.00026758
-node: ARH, pagerank: 0.00026705
-node: GOA, pagerank: 0.000266793
-node: KOT, pagerank: 0.000265588
-node: YIW, pagerank: 0.000265541
-node: FEZ, pagerank: 0.000265236
-node: PRN, pagerank: 0.000265219
-node: BOC, pagerank: 0.00026512
-node: TGJ, pagerank: 0.000264951
-node: UVE, pagerank: 0.000264951
-node: RCE, pagerank: 0.000264712
-node: ICT, pagerank: 0.000264384
-node: YHO, pagerank: 0.00026426
-node: YVO, pagerank: 0.000263438
-node: SAV, pagerank: 0.00026275
-node: LIH, pagerank: 0.000262378
-node: ZGU, pagerank: 0.000261695
-node: SLH, pagerank: 0.000261695
-node: WBB, pagerank: 0.000261656
-node: ANV, pagerank: 0.000261521
-node: KGX, pagerank: 0.000261521
-node: TET, pagerank: 0.000261303
-node: PKN, pagerank: 0.000261233
-node: KKH, pagerank: 0.000261019
-node: YIH, pagerank: 0.000260926
-node: LYI, pagerank: 0.000260703
-node: MHT, pagerank: 0.000260277
-node: FNA, pagerank: 0.000259842
-node: ANF, pagerank: 0.000259626
-node: SRZ, pagerank: 0.000259096
-node: ONG, pagerank: 0.000258206
-node: MDT, pagerank: 0.000258119
-node: SGC, pagerank: 0.000258005
-node: LGB, pagerank: 0.000257896
-node: BGW, pagerank: 0.000257539
-node: ZQN, pagerank: 0.00025742
-node: SSG, pagerank: 0.000257119
-node: AKI, pagerank: 0.00025693
-node: KKI, pagerank: 0.00025693
-node: LWO, pagerank: 0.000256814
-node: TWB, pagerank: 0.000256518
-node: YKG, pagerank: 0.000256455
-node: SEZ, pagerank: 0.00025645
-node: ELP, pagerank: 0.000255863
-node: CUZ, pagerank: 0.000255519
-node: AQP, pagerank: 0.000255519
-node: PMR, pagerank: 0.000255393
-node: SLZ, pagerank: 0.000254223
-node: YMN, pagerank: 0.000254108
-node: ZRJ, pagerank: 0.000253958
-node: MJV, pagerank: 0.000253549
-node: PUQ, pagerank: 0.000253445
-node: CID, pagerank: 0.00025271
-node: FAT, pagerank: 0.00025195
-node: ZNZ, pagerank: 0.000251729
-node: IRA, pagerank: 0.000251687
-node: AJU, pagerank: 0.000251376
-node: BOH, pagerank: 0.000251306
-node: MAR, pagerank: 0.000251256
-node: SDR, pagerank: 0.000251083
-node: LYG, pagerank: 0.000250913
-node: HSL, pagerank: 0.000250846
-node: CNP, pagerank: 0.000250823
-node: YZG, pagerank: 0.000250775
-node: CIK, pagerank: 0.000250702
-node: ZEL, pagerank: 0.000250508
-node: COS, pagerank: 0.000250504
-node: MOU, pagerank: 0.000250281
-node: NZH, pagerank: 0.000250273
-node: PNI, pagerank: 0.000250234
-node: SHX, pagerank: 0.0002498
-node: HCR, pagerank: 0.0002498
-node: YMO, pagerank: 0.000249633
-node: UUD, pagerank: 0.000249594
-node: ZHA, pagerank: 0.000248521
-node: YYY, pagerank: 0.000247698
-node: LDB, pagerank: 0.000247509
-node: ZAH, pagerank: 0.000247273
-node: IPA, pagerank: 0.000247127
-node: LKO, pagerank: 0.000246888
-node: FRD, pagerank: 0.000246581
-node: CUU, pagerank: 0.000246452
-node: FDF, pagerank: 0.000246176
-node: HGA, pagerank: 0.000246141
-node: SKK, pagerank: 0.000246106
-node: BEW, pagerank: 0.000245572
-node: CCP, pagerank: 0.000245566
-node: KWK, pagerank: 0.000245326
-node: MGZ, pagerank: 0.000245161
-node: GLV, pagerank: 0.000245144
-node: KIJ, pagerank: 0.000245133
-node: OGX, pagerank: 0.000245027
-node: YYQ, pagerank: 0.000244909
-node: YWB, pagerank: 0.000244649
-node: NUP, pagerank: 0.000244537
-node: LZH, pagerank: 0.000243966
-node: KWA, pagerank: 0.000243792
-node: DMD, pagerank: 0.000243637
-node: SLY, pagerank: 0.000243609
-node: KWT, pagerank: 0.000243588
-node: TLT, pagerank: 0.000243588
-node: HUH, pagerank: 0.000243523
-node: PWM, pagerank: 0.000243485
-node: RIA, pagerank: 0.000243031
-node: SCM, pagerank: 0.000242878
-node: UAP, pagerank: 0.000242393
-node: UAH, pagerank: 0.000242393
-node: YTY, pagerank: 0.000241637
-node: ZYI, pagerank: 0.000241412
-node: YIK, pagerank: 0.000241387
-node: SAE, pagerank: 0.000240888
-node: JUU, pagerank: 0.000240888
-node: IOT, pagerank: 0.000240888
-node: IKE, pagerank: 0.000240888
-node: LLW, pagerank: 0.000240672
-node: FKQ, pagerank: 0.000240293
-node: KKA, pagerank: 0.000240205
-node: MUB, pagerank: 0.000240148
-node: SID, pagerank: 0.000239902
-node: LNE, pagerank: 0.000239514
-node: MBA, pagerank: 0.000239393
-node: YQR, pagerank: 0.000239385
-node: YXE, pagerank: 0.000239385
-node: THE, pagerank: 0.000239328
-node: YCO, pagerank: 0.000239159
-node: LKE, pagerank: 0.000239096
-node: UET, pagerank: 0.000238893
-node: MSN, pagerank: 0.000238645
-node: ATT, pagerank: 0.000238322
-node: KLW, pagerank: 0.000238244
-node: ALF, pagerank: 0.000238119
-node: CLM, pagerank: 0.000238084
-node: ESD, pagerank: 0.000238084
-node: FAR, pagerank: 0.000238052
-node: EDL, pagerank: 0.000238045
-node: CTG, pagerank: 0.000237903
-node: YMM, pagerank: 0.000237867
-node: BTI, pagerank: 0.00023771
-node: HLD, pagerank: 0.000237696
-node: BVI, pagerank: 0.000237395
-node: MAJ, pagerank: 0.000237197
-node: YPJ, pagerank: 0.000237163
-node: EEK, pagerank: 0.000236011
-node: RUR, pagerank: 0.000235935
-node: KUK, pagerank: 0.00023568
-node: REU, pagerank: 0.000235656
-node: YSO, pagerank: 0.000235547
-node: AHE, pagerank: 0.00023491
-node: GEG, pagerank: 0.000234874
-node: MLH, pagerank: 0.000234704
-node: MLI, pagerank: 0.000234571
-node: TLC, pagerank: 0.000234544
-node: YWH, pagerank: 0.0002341
-node: CBR, pagerank: 0.00023403
-node: NIM, pagerank: 0.000233991
-node: LLU, pagerank: 0.000233822
-node: QUW, pagerank: 0.000233822
-node: HPB, pagerank: 0.000233727
-node: VAK, pagerank: 0.000233727
-node: FWA, pagerank: 0.0002336
-node: VER, pagerank: 0.000233435
-node: AHB, pagerank: 0.000233254
-node: IOS, pagerank: 0.000233184
-node: HTA, pagerank: 0.000233153
-node: PIA, pagerank: 0.000232943
-node: BCV, pagerank: 0.000232778
-node: RTB, pagerank: 0.000232568
-node: IGU, pagerank: 0.000232326
-node: SJJ, pagerank: 0.000232324
-node: UVF, pagerank: 0.000231833
-node: YFA, pagerank: 0.000231745
-node: MEH, pagerank: 0.000231642
-node: BJX, pagerank: 0.000231544
-node: OBU, pagerank: 0.000231383
-node: CAK, pagerank: 0.000231278
-node: LCE, pagerank: 0.000230889
-node: WWK, pagerank: 0.000230653
-node: MZT, pagerank: 0.000230307
-node: YNZ, pagerank: 0.000230286
-node: WNR, pagerank: 0.000230131
-node: CGP, pagerank: 0.000229476
-node: YXP, pagerank: 0.000229444
-node: HIA, pagerank: 0.000229401
-node: RAS, pagerank: 0.000229319
-node: YHD, pagerank: 0.000229255
-node: PNS, pagerank: 0.00022925
-node: JEG, pagerank: 0.000229212
-node: VTZ, pagerank: 0.000229158
-node: XRY, pagerank: 0.000228721
-node: ASB, pagerank: 0.000228311
-node: SRE, pagerank: 0.000227998
-node: YAB, pagerank: 0.000227821
-node: LEI, pagerank: 0.00022727
-node: UKB, pagerank: 0.000227006
-node: PHE, pagerank: 0.000226983
-node: DYG, pagerank: 0.000226754
-node: ELI, pagerank: 0.000226734
-node: NSK, pagerank: 0.000226579
-node: PLM, pagerank: 0.000226372
-node: YEK, pagerank: 0.00022625
-node: TQA, pagerank: 0.000226175
-node: IUI, pagerank: 0.000226175
-node: KHQ, pagerank: 0.000226175
-node: KGQ, pagerank: 0.000226175
-node: UPK, pagerank: 0.000226175
-node: NSQ, pagerank: 0.000226175
-node: GKA, pagerank: 0.000226035
-node: AAL, pagerank: 0.000225539
-node: ELQ, pagerank: 0.000225295
-node: NUX, pagerank: 0.000225239
-node: DIE, pagerank: 0.000225156
-node: DOK, pagerank: 0.000224836
-node: FBS, pagerank: 0.000224456
-node: BEU, pagerank: 0.000224424
-node: NOC, pagerank: 0.000224343
-node: NKC, pagerank: 0.000224325
-node: ROS, pagerank: 0.000224151
-node: JUB, pagerank: 0.000223935
-node: WRG, pagerank: 0.000223924
-node: POP, pagerank: 0.000223834
-node: ABL, pagerank: 0.000223538
-node: AUK, pagerank: 0.000223437
-node: ASM, pagerank: 0.00022318
-node: MCZ, pagerank: 0.000222811
-node: BVC, pagerank: 0.000222313
-node: CEE, pagerank: 0.000222252
-node: DLG, pagerank: 0.000222121
-node: JHS, pagerank: 0.00022179
-node: WBQ, pagerank: 0.000221719
-node: SVS, pagerank: 0.000221719
-node: IQQ, pagerank: 0.000221684
-node: RIY, pagerank: 0.000221576
-node: ODS, pagerank: 0.000221405
-node: ADA, pagerank: 0.000221204
-node: GOM, pagerank: 0.000221023
-node: YQC, pagerank: 0.000220848
-node: PND, pagerank: 0.000220655
-node: TIH, pagerank: 0.000220634
-node: FPO, pagerank: 0.000220563
-node: MKY, pagerank: 0.000220409
-node: SPN, pagerank: 0.000220381
-node: PKU, pagerank: 0.00022023
-node: SHG, pagerank: 0.000220204
-node: NKM, pagerank: 0.000220084
-node: YYH, pagerank: 0.000219572
-node: YHK, pagerank: 0.000219572
-node: YUD, pagerank: 0.000219282
-node: TMR, pagerank: 0.000219263
-node: CIT, pagerank: 0.000219099
-node: JAI, pagerank: 0.000219076
-node: EUG, pagerank: 0.000218883
-node: JHG, pagerank: 0.00021883
-node: GND, pagerank: 0.000218826
-node: SXP, pagerank: 0.000218643
-node: UKK, pagerank: 0.000218568
-node: PSG, pagerank: 0.000218513
-node: KMQ, pagerank: 0.000218054
-node: INV, pagerank: 0.000217748
-node: DRG, pagerank: 0.00021774
-node: ORV, pagerank: 0.00021774
-node: IAN, pagerank: 0.00021774
-node: BKC, pagerank: 0.00021774
-node: POL, pagerank: 0.000217677
-node: FSD, pagerank: 0.000217655
-node: NJC, pagerank: 0.00021741
-node: BLI, pagerank: 0.00021714
-node: SGF, pagerank: 0.000216912
-node: YAX, pagerank: 0.000216838
-node: PUY, pagerank: 0.000216696
-node: KPV, pagerank: 0.000216218
-node: KBR, pagerank: 0.000216193
-node: YQK, pagerank: 0.000216175
-node: CIH, pagerank: 0.000216057
-node: KTB, pagerank: 0.00021589
-node: VSA, pagerank: 0.000215831
-node: YSM, pagerank: 0.000215809
-node: CIJ, pagerank: 0.00021558
-node: YDF, pagerank: 0.000214997
-node: SJP, pagerank: 0.000214843
-node: VFA, pagerank: 0.000214781
-node: HNH, pagerank: 0.000214514
-node: HNS, pagerank: 0.000214514
-node: SGY, pagerank: 0.000214514
-node: GST, pagerank: 0.000214514
-node: HAH, pagerank: 0.00021447
-node: BIQ, pagerank: 0.000214462
-node: HIJ, pagerank: 0.000214222
-node: KOC, pagerank: 0.000214216
-node: CZM, pagerank: 0.000214083
-node: MQX, pagerank: 0.000213957
-node: VOG, pagerank: 0.000213841
-node: CAE, pagerank: 0.000213836
-node: SLA, pagerank: 0.000213536
-node: SGO, pagerank: 0.000213516
-node: SEN, pagerank: 0.000213492
-node: LZO, pagerank: 0.000213235
-node: KLO, pagerank: 0.000213231
-node: YYJ, pagerank: 0.000213209
-node: YAG, pagerank: 0.000213175
-node: AKV, pagerank: 0.000213171
-node: IOM, pagerank: 0.000213116
-node: IRG, pagerank: 0.000213009
-node: YSB, pagerank: 0.00021296
-node: YSY, pagerank: 0.00021245
-node: FKI, pagerank: 0.000212412
-node: SBN, pagerank: 0.000212236
-node: ETH, pagerank: 0.000212213
-node: VNS, pagerank: 0.000212093
-node: DOM, pagerank: 0.000211709
-node: LCR, pagerank: 0.000211382
-node: BLA, pagerank: 0.000211082
-node: YLH, pagerank: 0.000211052
-node: BTV, pagerank: 0.000210993
-node: SXR, pagerank: 0.000210777
-node: SHH, pagerank: 0.000210624
-node: SBW, pagerank: 0.000210563
-node: WIN, pagerank: 0.000210537
-node: ZTH, pagerank: 0.000210239
-node: SIT, pagerank: 0.000210192
-node: USH, pagerank: 0.000210177
-node: ZAM, pagerank: 0.000210171
-node: FTA, pagerank: 0.000209896
-node: AWD, pagerank: 0.000209896
-node: WMN, pagerank: 0.000209743
-node: NSN, pagerank: 0.000209691
-node: HLZ, pagerank: 0.000209691
-node: EDA, pagerank: 0.00020967
-node: EVE, pagerank: 0.0002095
-node: TNG, pagerank: 0.000209325
-node: SLQ, pagerank: 0.000209211
-node: ISP, pagerank: 0.000208891
-node: TGD, pagerank: 0.000208755
-node: CKS, pagerank: 0.000208386
-node: KGD, pagerank: 0.000208348
-node: HOR, pagerank: 0.000208184
-node: DGA, pagerank: 0.000207949
-node: IMF, pagerank: 0.000207927
-node: MUX, pagerank: 0.000207812
-node: CHY, pagerank: 0.000207475
-node: AZR, pagerank: 0.000207333
-node: CIF, pagerank: 0.000207275
-node: VAO, pagerank: 0.000207189
-node: BOJ, pagerank: 0.000207114
-node: ABE, pagerank: 0.000206576
-node: FDH, pagerank: 0.00020652
-node: GDT, pagerank: 0.000206229
-node: MGA, pagerank: 0.000206183
-node: YIO, pagerank: 0.000205942
-node: JQA, pagerank: 0.000205667
-node: YGH, pagerank: 0.000205655
-node: CJC, pagerank: 0.000205518
-node: LSC, pagerank: 0.000205518
-node: NYK, pagerank: 0.000205416
-node: BPS, pagerank: 0.000205373
-node: NQN, pagerank: 0.000205203
-node: BBO, pagerank: 0.000205129
-node: LPQ, pagerank: 0.000205011
-node: MID, pagerank: 0.000204927
-node: BRN, pagerank: 0.000204715
-node: PVH, pagerank: 0.000204573
-node: APW, pagerank: 0.000204454
-node: AKB, pagerank: 0.000204454
-node: IKO, pagerank: 0.000204454
-node: KQA, pagerank: 0.000204454
-node: JCB, pagerank: 0.000204432
-node: BAQ, pagerank: 0.000204344
-node: HME, pagerank: 0.000204301
-node: HSV, pagerank: 0.0002042
-node: ACR, pagerank: 0.000203688
-node: PIR, pagerank: 0.000203573
-node: WLS, pagerank: 0.000203519
-node: NTL, pagerank: 0.000203469
-node: PGA, pagerank: 0.000202915
-node: RMT, pagerank: 0.000202882
-node: MAU, pagerank: 0.000202607
-node: CRW, pagerank: 0.000202425
-node: PTH, pagerank: 0.000202362
-node: KCQ, pagerank: 0.000202362
-node: YAC, pagerank: 0.000202315
-node: HMA, pagerank: 0.000202235
-node: CRK, pagerank: 0.000202119
-node: YAK, pagerank: 0.000202117
-node: YPM, pagerank: 0.000202085
-node: MYJ, pagerank: 0.000201961
-node: YBX, pagerank: 0.000201952
-node: FSC, pagerank: 0.000201755
-node: JCK, pagerank: 0.000201702
-node: PSC, pagerank: 0.000201673
-node: RBR, pagerank: 0.00020163
-node: BHQ, pagerank: 0.000201206
-node: GEO, pagerank: 0.000200731
-node: SKT, pagerank: 0.000200544
-node: NDR, pagerank: 0.00020029
-node: ROA, pagerank: 0.00020026
-node: ULP, pagerank: 0.000200066
-node: MWZ, pagerank: 0.000199808
-node: NMA, pagerank: 0.000199626
-node: CGY, pagerank: 0.000199621
-node: WWT, pagerank: 0.00019952
-node: PBM, pagerank: 0.000199498
-node: OKJ, pagerank: 0.000199372
-node: BHI, pagerank: 0.000198942
-node: ACY, pagerank: 0.000198729
-node: DUD, pagerank: 0.000198534
-node: TIF, pagerank: 0.000198523
-node: KOW, pagerank: 0.000198489
-node: TBU, pagerank: 0.000198118
-node: YBK, pagerank: 0.000198114
-node: KTA, pagerank: 0.000198071
-node: BES, pagerank: 0.000197797
-node: MAB, pagerank: 0.000197758
-node: JIJ, pagerank: 0.000197498
-node: CJB, pagerank: 0.000197317
-node: JAN, pagerank: 0.000197246
-node: JPA, pagerank: 0.000196905
-node: PFB, pagerank: 0.000196846
-node: NTG, pagerank: 0.000196842
-node: YXN, pagerank: 0.000196779
-node: HTY, pagerank: 0.000196727
-node: YCY, pagerank: 0.000196505
-node: ZBR, pagerank: 0.000196151
-node: BVG, pagerank: 0.000195979
-node: CKY, pagerank: 0.000195884
-node: ZFN, pagerank: 0.00019534
-node: TRK, pagerank: 0.000194461
-node: ISG, pagerank: 0.000194135
-node: ULB, pagerank: 0.000193956
-node: EGO, pagerank: 0.000193577
-node: YKL, pagerank: 0.000193496
-node: TSR, pagerank: 0.000192845
-node: PUU, pagerank: 0.000192664
-node: BMI, pagerank: 0.000192592
-node: MOZ, pagerank: 0.000192546
-node: LIG, pagerank: 0.000192496
-node: YHU, pagerank: 0.000192465
-node: JNS, pagerank: 0.000192231
-node: VLN, pagerank: 0.000192204
-node: AET, pagerank: 0.000191774
-node: LLA, pagerank: 0.000191633
-node: OOK, pagerank: 0.00019151
-node: YWP, pagerank: 0.000191449
-node: KGA, pagerank: 0.000191378
-node: YNP, pagerank: 0.00019133
-node: YXJ, pagerank: 0.00019132
-node: SQS, pagerank: 0.000191123
-node: CUK, pagerank: 0.000191123
-node: NAG, pagerank: 0.000191043
-node: PVK, pagerank: 0.000190559
-node: ZTB, pagerank: 0.000189952
-node: ZLT, pagerank: 0.00018978
-node: YCS, pagerank: 0.000189773
-node: YUT, pagerank: 0.000189773
-node: KKN, pagerank: 0.000189526
-node: NBX, pagerank: 0.00018949
-node: MIR, pagerank: 0.000189471
-node: STI, pagerank: 0.000188987
-node: FLW, pagerank: 0.000188857
-node: QFN, pagerank: 0.000188826
-node: AVL, pagerank: 0.00018872
-node: SMK, pagerank: 0.00018864
-node: IDR, pagerank: 0.00018863
-node: TLA, pagerank: 0.000188624
-node: CUL, pagerank: 0.000188618
-node: PPS, pagerank: 0.00018839
-node: YQM, pagerank: 0.000187965
-node: YMT, pagerank: 0.000187958
-node: CLY, pagerank: 0.00018785
-node: IXE, pagerank: 0.000187618
-node: YFO, pagerank: 0.000187589
-node: YQD, pagerank: 0.000187589
-node: CHA, pagerank: 0.000187551
-node: ECN, pagerank: 0.000187306
-node: YUX, pagerank: 0.000187197
-node: GTF, pagerank: 0.000187125
-node: KAN, pagerank: 0.00018695
-node: YVB, pagerank: 0.000186732
-node: JNG, pagerank: 0.000186685
-node: GFK, pagerank: 0.000186645
-node: BQL, pagerank: 0.000186639
-node: DNK, pagerank: 0.000186565
-node: BUC, pagerank: 0.000186398
-node: LWY, pagerank: 0.000186384
-node: VRA, pagerank: 0.000186306
-node: NYM, pagerank: 0.000186233
-node: MQN, pagerank: 0.000186083
-node: KMI, pagerank: 0.00018607
-node: IGG, pagerank: 0.000186062
-node: KCL, pagerank: 0.000186062
-node: UGB, pagerank: 0.000186062
-node: EGX, pagerank: 0.000186062
-node: MYT, pagerank: 0.000185561
-node: CDV, pagerank: 0.000185345
-node: YSK, pagerank: 0.000185108
-node: UAS, pagerank: 0.000184995
-node: MRE, pagerank: 0.000184995
-node: ROR, pagerank: 0.00018484
-node: SVA, pagerank: 0.000184754
-node: GAM, pagerank: 0.000184754
-node: TKX, pagerank: 0.00018466
-node: XFN, pagerank: 0.00018465
-node: LYA, pagerank: 0.000184246
-node: KSA, pagerank: 0.000184184
-node: MSO, pagerank: 0.000183993
-node: WUS, pagerank: 0.000183826
-node: PGU, pagerank: 0.000183825
-node: IQT, pagerank: 0.000183312
-node: LNB, pagerank: 0.000183241
-node: BZN, pagerank: 0.000183133
-node: BTU, pagerank: 0.000183082
-node: PEI, pagerank: 0.000182854
-node: TLE, pagerank: 0.000182733
-node: TNK, pagerank: 0.000182719
-node: TWU, pagerank: 0.000182596
-node: MQL, pagerank: 0.000182559
-node: FAV, pagerank: 0.000182446
-node: MVT, pagerank: 0.000182446
-node: KMJ, pagerank: 0.000182188
-node: BYN, pagerank: 0.000182121
-node: LPS, pagerank: 0.000181871
-node: AES, pagerank: 0.000181669
-node: FNT, pagerank: 0.000181528
-node: SDV, pagerank: 0.000181455
-node: HFA, pagerank: 0.000181455
-node: UNG, pagerank: 0.000181208
-node: TRW, pagerank: 0.000181201
-node: MJZ, pagerank: 0.000181129
-node: LNV, pagerank: 0.0001811
-node: FUG, pagerank: 0.000180987
-node: GRZ, pagerank: 0.000180918
-node: RAP, pagerank: 0.000180906
-node: SBH, pagerank: 0.000180884
-node: ARC, pagerank: 0.00018061
-node: NOS, pagerank: 0.000180382
-node: BWT, pagerank: 0.000180354
-node: YNB, pagerank: 0.000180157
-node: MFR, pagerank: 0.000179956
-node: PIZ, pagerank: 0.000179673
-node: RNL, pagerank: 0.000179622
-node: BNY, pagerank: 0.000179622
-node: XCH, pagerank: 0.000179497
-node: BBA, pagerank: 0.000179324
-node: AGU, pagerank: 0.000179193
-node: YWJ, pagerank: 0.000179119
-node: TVU, pagerank: 0.000179031
-node: SVU, pagerank: 0.000179031
-node: FMO, pagerank: 0.000178931
-node: VAI, pagerank: 0.000178852
-node: DOB, pagerank: 0.000178708
-node: KVL, pagerank: 0.00017841
-node: RZE, pagerank: 0.000178326
-node: INU, pagerank: 0.000178214
-node: KGE, pagerank: 0.000178213
-node: EGC, pagerank: 0.000178064
-node: TRS, pagerank: 0.00017793
-node: KVG, pagerank: 0.000177692
-node: ZEM, pagerank: 0.000177687
-node: MLM, pagerank: 0.000177603
-node: GEV, pagerank: 0.00017755
-node: TUU, pagerank: 0.000177546
-node: LOD, pagerank: 0.000177345
-node: HKN, pagerank: 0.000177312
-node: GMA, pagerank: 0.000177132
-node: PNK, pagerank: 0.000177079
-node: TRO, pagerank: 0.000176972
-node: EQS, pagerank: 0.000176884
-node: YNC, pagerank: 0.000176802
-node: PBH, pagerank: 0.000176529
-node: UME, pagerank: 0.000176488
-node: YBG, pagerank: 0.000176364
-node: YPO, pagerank: 0.000176347
-node: NDY, pagerank: 0.000176342
-node: SLU, pagerank: 0.000176314
-node: TMP, pagerank: 0.000176102
-node: JMK, pagerank: 0.000176093
-node: TVY, pagerank: 0.000176021
-node: YER, pagerank: 0.000175933
-node: XKS, pagerank: 0.000175933
-node: BUA, pagerank: 0.000175923
-node: YGL, pagerank: 0.000175898
-node: BKY, pagerank: 0.000175859
-node: IMP, pagerank: 0.000175829
-node: ATK, pagerank: 0.000175792
-node: AIN, pagerank: 0.000175792
-node: GSM, pagerank: 0.000175701
-node: WMO, pagerank: 0.000175691
-node: YAM, pagerank: 0.000175684
-node: GUW, pagerank: 0.000175513
-node: EYW, pagerank: 0.000175412
-node: KBV, pagerank: 0.000175297
-node: BDA, pagerank: 0.000175059
-node: ATW, pagerank: 0.00017505
-node: LLI, pagerank: 0.000175016
-node: TGO, pagerank: 0.00017501
-node: GEL, pagerank: 0.000174805
-node: RNA, pagerank: 0.000174594
-node: NNB, pagerank: 0.000174594
-node: PKZ, pagerank: 0.000174527
-node: BJL, pagerank: 0.000174402
-node: BBI, pagerank: 0.000174182
-node: YGR, pagerank: 0.00017396
-node: FTE, pagerank: 0.000173882
-node: YBL, pagerank: 0.000173816
-node: NJF, pagerank: 0.000173792
-node: LRR, pagerank: 0.000173287
-node: HAU, pagerank: 0.000173158
-node: NVT, pagerank: 0.000173136
-node: RPR, pagerank: 0.000173047
-node: TBG, pagerank: 0.000172987
-node: STG, pagerank: 0.000172949
-node: SNP, pagerank: 0.000172949
-node: FSZ, pagerank: 0.000172752
-node: HTI, pagerank: 0.000172686
-node: MXH, pagerank: 0.000172583
-node: ERM, pagerank: 0.000172383
-node: LBB, pagerank: 0.000172126
-node: AUU, pagerank: 0.000172069
-node: MAF, pagerank: 0.000172001
-node: SVR, pagerank: 0.000171984
-node: MMK, pagerank: 0.000171404
-node: NUI, pagerank: 0.000171367
-node: WXN, pagerank: 0.000171018
-node: YAY, pagerank: 0.000170947
-node: JDO, pagerank: 0.000170836
-node: LKN, pagerank: 0.000170587
-node: YGJ, pagerank: 0.000170161
-node: QUV, pagerank: 0.000170137
-node: YDP, pagerank: 0.000169991
-node: FLS, pagerank: 0.00016999
-node: JSH, pagerank: 0.000169985
-node: KGF, pagerank: 0.000169849
-node: LAP, pagerank: 0.0001696
-node: LRM, pagerank: 0.000169533
-node: OVD, pagerank: 0.000168965
-node: DAU, pagerank: 0.000168903
-node: DLY, pagerank: 0.000168888
-node: VAR, pagerank: 0.000168803
-node: AFA, pagerank: 0.000168571
-node: BCD, pagerank: 0.000168566
-node: AOI, pagerank: 0.000168418
-node: YXY, pagerank: 0.000168157
-node: LOK, pagerank: 0.000168005
-node: ZPB, pagerank: 0.000167974
-node: MJF, pagerank: 0.000167931
-node: HKD, pagerank: 0.000167865
-node: RNS, pagerank: 0.000167754
-node: CGD, pagerank: 0.00016773
-node: PGK, pagerank: 0.000167506
-node: CJS, pagerank: 0.000167409
-node: JDZ, pagerank: 0.000167317
-node: RBA, pagerank: 0.000166963
-node: KLL, pagerank: 0.000166885
-node: PIP, pagerank: 0.000166885
-node: WSN, pagerank: 0.000166885
-node: KCG, pagerank: 0.000166885
-node: JTR, pagerank: 0.000166715
-node: OND, pagerank: 0.00016671
-node: BHE, pagerank: 0.000166274
-node: NPL, pagerank: 0.000166274
-node: NPE, pagerank: 0.000166274
-node: ROT, pagerank: 0.000166274
-node: TRG, pagerank: 0.000166274
-node: CCF, pagerank: 0.000166266
-node: TUB, pagerank: 0.000166236
-node: YTE, pagerank: 0.000166077
-node: ATQ, pagerank: 0.000166035
-node: ISU, pagerank: 0.000166005
-node: KNG, pagerank: 0.000165981
-node: MRA, pagerank: 0.000165927
-node: SLP, pagerank: 0.000165926
-node: OUD, pagerank: 0.000165694
-node: LAU, pagerank: 0.000165681
-node: LGK, pagerank: 0.000165416
-node: DIB, pagerank: 0.000165325
-node: PNZ, pagerank: 0.000165187
-node: LPM, pagerank: 0.000164952
-node: SWJ, pagerank: 0.000164952
-node: AAR, pagerank: 0.000164918
-node: IXB, pagerank: 0.00016491
-node: VII, pagerank: 0.000164619
-node: YHY, pagerank: 0.000164504
-node: HEH, pagerank: 0.000164409
-node: PPW, pagerank: 0.000164271
-node: VXE, pagerank: 0.000164213
-node: JFR, pagerank: 0.000164191
-node: AOJ, pagerank: 0.000164189
-node: HRK, pagerank: 0.000164117
-node: CNJ, pagerank: 0.000164069
-node: SVI, pagerank: 0.000163862
-node: SDK, pagerank: 0.000163638
-node: NEV, pagerank: 0.000163591
-node: TIM, pagerank: 0.000163502
-node: TLJ, pagerank: 0.000163437
-node: ANM, pagerank: 0.00016332
-node: MJT, pagerank: 0.000163315
-node: RBV, pagerank: 0.000163294
-node: PLZ, pagerank: 0.000163246
-node: ELS, pagerank: 0.000163246
-node: YQQ, pagerank: 0.000163102
-node: YGZ, pagerank: 0.000163051
-node: KVD, pagerank: 0.000162937
-node: TLH, pagerank: 0.000162872
-node: XAP, pagerank: 0.000162793
-node: LUQ, pagerank: 0.000162762
-node: TAI, pagerank: 0.000162681
-node: SSJ, pagerank: 0.000162658
-node: RDM, pagerank: 0.000162621
-node: YTQ, pagerank: 0.000162595
-node: KSU, pagerank: 0.000162422
-node: KND, pagerank: 0.000162414
-node: ASF, pagerank: 0.000162334
-node: CKD, pagerank: 0.000162065
-node: MQP, pagerank: 0.000161977
-node: ANX, pagerank: 0.000161933
-node: KER, pagerank: 0.000161622
-node: CYS, pagerank: 0.000161594
-node: GOV, pagerank: 0.000161437
-node: GTE, pagerank: 0.000161437
-node: UCT, pagerank: 0.000161248
-node: TZX, pagerank: 0.000161213
-node: MST, pagerank: 0.000161142
-node: NBC, pagerank: 0.000161085
-node: NOV, pagerank: 0.000160904
-node: SPP, pagerank: 0.000160904
-node: UIB, pagerank: 0.000160795
-node: JUL, pagerank: 0.000160742
-node: ZKG, pagerank: 0.000160717
-node: YRG, pagerank: 0.000160673
-node: NWI, pagerank: 0.00016055
-node: JMU, pagerank: 0.000160231
-node: TRC, pagerank: 0.000160089
-node: SBA, pagerank: 0.000160052
-node: LGG, pagerank: 0.000159784
-node: CPO, pagerank: 0.000159783
-node: IGR, pagerank: 0.000159709
-node: ISC, pagerank: 0.00015954
-node: VDC, pagerank: 0.000159455
-node: KUT, pagerank: 0.00015913
-node: PAT, pagerank: 0.000159021
-node: KAL, pagerank: 0.000159011
-node: NUL, pagerank: 0.000159011
-node: XTG, pagerank: 0.000159006
-node: STX, pagerank: 0.000158833
-node: PKA, pagerank: 0.000158444
-node: PTU, pagerank: 0.000158444
-node: KCT, pagerank: 0.000158306
-node: REN, pagerank: 0.000158143
-node: AAE, pagerank: 0.000158063
-node: LXR, pagerank: 0.000157994
-node: GJT, pagerank: 0.000157994
-node: ZAL, pagerank: 0.000157964
-node: TKU, pagerank: 0.000157961
-node: FMN, pagerank: 0.00015794
-node: BLK, pagerank: 0.000157917
-node: SVB, pagerank: 0.000157833
-node: TAK, pagerank: 0.00015763
-node: BSR, pagerank: 0.000157608
-node: YYE, pagerank: 0.000157514
-node: REX, pagerank: 0.000157496
-node: TPP, pagerank: 0.000157423
-node: PCL, pagerank: 0.000157423
-node: KRS, pagerank: 0.000157345
-node: LVI, pagerank: 0.000157276
-node: BNN, pagerank: 0.00015717
-node: SOY, pagerank: 0.000157143
-node: ROK, pagerank: 0.00015707
-node: BLZ, pagerank: 0.000156951
-node: JSU, pagerank: 0.000156846
-node: TUK, pagerank: 0.000156807
-node: TUP, pagerank: 0.000156741
-node: ILP, pagerank: 0.000156734
-node: TOU, pagerank: 0.000156734
-node: MEE, pagerank: 0.000156734
-node: KNQ, pagerank: 0.000156734
-node: DAV, pagerank: 0.000156693
-node: YBC, pagerank: 0.00015664
-node: YXU, pagerank: 0.00015661
-node: SVD, pagerank: 0.000156565
-node: BJF, pagerank: 0.000156381
-node: TOY, pagerank: 0.000156194
-node: ROB, pagerank: 0.000156079
-node: KXU, pagerank: 0.000155923
-node: YNS, pagerank: 0.000155801
-node: BQS, pagerank: 0.000155715
-node: BFJ, pagerank: 0.000155677
-node: PBC, pagerank: 0.000155621
-node: PPV, pagerank: 0.000155607
-node: HSN, pagerank: 0.000155312
-node: UYN, pagerank: 0.000155308
-node: POJ, pagerank: 0.00015518
-node: MZV, pagerank: 0.000155156
-node: VXO, pagerank: 0.00015507
-node: DAT, pagerank: 0.000155012
-node: LRH, pagerank: 0.000154966
-node: NTN, pagerank: 0.000154698
-node: CUQ, pagerank: 0.000154669
-node: QOQ, pagerank: 0.000154609
-node: SVJ, pagerank: 0.000154502
-node: SRK, pagerank: 0.000154459
-node: MHH, pagerank: 0.000154449
-node: VHM, pagerank: 0.000154374
-node: LYC, pagerank: 0.000154374
-node: YUY, pagerank: 0.00015431
-node: MRY, pagerank: 0.000154259
-node: TQI, pagerank: 0.000154165
-node: IOQ, pagerank: 0.000154165
-node: SGG, pagerank: 0.000154165
-node: KUZ, pagerank: 0.000154165
-node: YBP, pagerank: 0.000154098
-node: PBJ, pagerank: 0.000153823
-node: RBQ, pagerank: 0.000153747
-node: MIM, pagerank: 0.000153672
-node: NNY, pagerank: 0.000153568
-node: MVY, pagerank: 0.000153456
-node: GLK, pagerank: 0.000153298
-node: ARI, pagerank: 0.000152941
-node: WNN, pagerank: 0.000152908
-node: GBT, pagerank: 0.000152864
-node: JGS, pagerank: 0.000152824
-node: JQE, pagerank: 0.000152637
-node: ACU, pagerank: 0.000152637
-node: SIC, pagerank: 0.000152637
-node: MPP, pagerank: 0.000152637
-node: GHE, pagerank: 0.000152637
-node: ORZ, pagerank: 0.0001526
-node: CZH, pagerank: 0.0001526
-node: CZJ, pagerank: 0.000152599
-node: PSR, pagerank: 0.000152587
-node: MNT, pagerank: 0.000152575
-node: IRC, pagerank: 0.000152575
-node: TFI, pagerank: 0.00015254
-node: GLT, pagerank: 0.000152226
-node: YVZ, pagerank: 0.000152187
-node: WEF, pagerank: 0.000152163
-node: HDY, pagerank: 0.000152119
-node: IXJ, pagerank: 0.000151952
-node: AXT, pagerank: 0.000151933
-node: SOJ, pagerank: 0.000151855
-node: ASW, pagerank: 0.000151512
-node: LAN, pagerank: 0.000151407
-node: JOI, pagerank: 0.000151328
-node: JTC, pagerank: 0.000151165
-node: DIR, pagerank: 0.000151132
-node: MOL, pagerank: 0.000150824
-node: OBY, pagerank: 0.00015081
-node: OVS, pagerank: 0.000150747
-node: BZR, pagerank: 0.000150701
-node: TTE, pagerank: 0.000150473
-node: LDH, pagerank: 0.000150311
-node: PQQ, pagerank: 0.000150311
-node: UBA, pagerank: 0.000150298
-node: HYN, pagerank: 0.000150253
-node: AQG, pagerank: 0.000150115
-node: NNM, pagerank: 0.00014995
-node: THL, pagerank: 0.000149877
-node: AVP, pagerank: 0.000149735
-node: GHA, pagerank: 0.000149727
-node: RVV, pagerank: 0.00014971
-node: SMI, pagerank: 0.000149584
-node: KLX, pagerank: 0.000149416
-node: LMM, pagerank: 0.000149402
-node: BON, pagerank: 0.000149165
-node: AZD, pagerank: 0.000149145
-node: TKE, pagerank: 0.000149053
-node: ELV, pagerank: 0.000149053
-node: OIT, pagerank: 0.000148956
-node: SKN, pagerank: 0.000148676
-node: BYC, pagerank: 0.000148612
-node: SDD, pagerank: 0.000148565
-node: KAW, pagerank: 0.000148403
-node: TGG, pagerank: 0.000148341
-node: XEQ, pagerank: 0.00014815
-node: VCA, pagerank: 0.000147884
-node: HMI, pagerank: 0.000147515
-node: MDQ, pagerank: 0.000147486
-node: BUZ, pagerank: 0.000147099
-node: AIU, pagerank: 0.000146817
-node: UEL, pagerank: 0.000146717
-node: BGR, pagerank: 0.0001466
-node: AYQ, pagerank: 0.000146575
-node: YPN, pagerank: 0.000146372
-node: YGV, pagerank: 0.000146372
-node: SKB, pagerank: 0.000146292
-node: HRL, pagerank: 0.000146023
-node: ILG, pagerank: 0.000145924
-node: TOG, pagerank: 0.000145827
-node: SMS, pagerank: 0.00014576
-node: LWS, pagerank: 0.00014573
-node: OXB, pagerank: 0.00014564
-node: FMI, pagerank: 0.000145281
-node: GZP, pagerank: 0.000144976
-node: SLL, pagerank: 0.000144851
-node: MFE, pagerank: 0.000144766
-node: CHO, pagerank: 0.00014453
-node: FEG, pagerank: 0.000144503
-node: ACA, pagerank: 0.000144218
-node: SRQ, pagerank: 0.000143866
-node: CXH, pagerank: 0.000143702
-node: NOJ, pagerank: 0.00014358
-node: BIS, pagerank: 0.000143528
-node: FCA, pagerank: 0.000143524
-node: BUQ, pagerank: 0.000143394
-node: SRY, pagerank: 0.000143383
-node: IBR, pagerank: 0.000143246
-node: VNX, pagerank: 0.000143102
-node: INH, pagerank: 0.000143102
-node: ZAZ, pagerank: 0.00014309
-node: KPR, pagerank: 0.00014306
-node: KFP, pagerank: 0.000142629
-node: KVC, pagerank: 0.000142629
-node: NLG, pagerank: 0.000142629
-node: TAM, pagerank: 0.000142539
-node: DSA, pagerank: 0.000142323
-node: ZCL, pagerank: 0.00014217
-node: NQY, pagerank: 0.000142056
-node: LSI, pagerank: 0.000141996
-node: TSH, pagerank: 0.000141898
-node: MEA, pagerank: 0.000141851
-node: EDR, pagerank: 0.000141809
-node: KWM, pagerank: 0.000141809
-node: TGZ, pagerank: 0.000141745
-node: CFB, pagerank: 0.000141726
-node: YVM, pagerank: 0.000141723
-node: ZIH, pagerank: 0.000141713
-node: SKZ, pagerank: 0.000141592
-node: KGI, pagerank: 0.000141415
-node: CCC, pagerank: 0.00014141
-node: UGC, pagerank: 0.000141375
-node: HUS, pagerank: 0.00014119
-node: OAX, pagerank: 0.000141082
-node: KNX, pagerank: 0.000141081
-node: YXT, pagerank: 0.000140953
-node: YYD, pagerank: 0.000140953
-node: GGT, pagerank: 0.000140935
-node: PAD, pagerank: 0.000140896
-node: MQH, pagerank: 0.000140879
-node: CAW, pagerank: 0.000140459
-node: SPC, pagerank: 0.000140427
-node: RFD, pagerank: 0.0001404
-node: JIQ, pagerank: 0.000140282
-node: NIB, pagerank: 0.000140268
-node: TCT, pagerank: 0.000140268
-node: INZ, pagerank: 0.000140267
-node: CIY, pagerank: 0.000140193
-node: NAO, pagerank: 0.000140121
-node: SVK, pagerank: 0.000139865
-node: HNA, pagerank: 0.000139427
-node: VOZ, pagerank: 0.000139371
-node: SOG, pagerank: 0.000139322
-node: SOC, pagerank: 0.000139254
-node: DOY, pagerank: 0.000139198
-node: YZT, pagerank: 0.000139157
-node: SYY, pagerank: 0.000139129
-node: ENE, pagerank: 0.000138847
-node: HDG, pagerank: 0.000138769
-node: MDG, pagerank: 0.000138658
-node: CHU, pagerank: 0.000138653
-node: YQX, pagerank: 0.000138599
-node: YNJ, pagerank: 0.000138578
-node: NIQ, pagerank: 0.00013851
-node: JUK, pagerank: 0.00013851
-node: IAG, pagerank: 0.000138486
-node: PBG, pagerank: 0.000138141
-node: SHV, pagerank: 0.000138101
-node: ERN, pagerank: 0.000138059
-node: OLC, pagerank: 0.000138059
-node: IRZ, pagerank: 0.000138059
-node: SJL, pagerank: 0.000138059
-node: TKK, pagerank: 0.000138053
-node: BBK, pagerank: 0.000138017
-node: BFL, pagerank: 0.000137967
-node: KIF, pagerank: 0.000137707
-node: RGA, pagerank: 0.000137697
-node: BNK, pagerank: 0.000137685
-node: YHM, pagerank: 0.00013758
-node: RVK, pagerank: 0.000137565
-node: AOK, pagerank: 0.000137492
-node: GDX, pagerank: 0.000137408
-node: MYD, pagerank: 0.00013725
-node: QRO, pagerank: 0.000137206
-node: PMW, pagerank: 0.000137117
-node: TOE, pagerank: 0.00013709
-node: BIK, pagerank: 0.000137009
-node: OHE, pagerank: 0.000136907
-node: PLW, pagerank: 0.000136862
-node: ESM, pagerank: 0.000136788
-node: KQT, pagerank: 0.000136742
-node: YHP, pagerank: 0.000136633
-node: YNO, pagerank: 0.000136633
-node: PHF, pagerank: 0.000136543
-node: DIG, pagerank: 0.000136352
-node: AMA, pagerank: 0.000136286
-node: CYB, pagerank: 0.000136265
-node: SCU, pagerank: 0.000136259
-node: ORX, pagerank: 0.000136017
-node: EYK, pagerank: 0.000135989
-node: NER, pagerank: 0.00013584
-node: BNC, pagerank: 0.000135699
-node: TMU, pagerank: 0.000135679
-node: KHG, pagerank: 0.000135566
-node: HBA, pagerank: 0.000135356
-node: BMY, pagerank: 0.000135251
-node: BMV, pagerank: 0.000135241
-node: BBN, pagerank: 0.000135167
-node: LGL, pagerank: 0.000135167
-node: ODN, pagerank: 0.000135167
-node: LKH, pagerank: 0.000135167
-node: DPL, pagerank: 0.00013463
-node: RMA, pagerank: 0.00013452
-node: TIZ, pagerank: 0.00013448
-node: SFA, pagerank: 0.000134466
-node: YGX, pagerank: 0.000134439
-node: RVE, pagerank: 0.000134426
-node: TME, pagerank: 0.000134426
-node: NME, pagerank: 0.000134393
-node: WNA, pagerank: 0.000134393
-node: GNU, pagerank: 0.000134393
-node: MLL, pagerank: 0.000134393
-node: WTL, pagerank: 0.000134393
-node: SDL, pagerank: 0.000134098
-node: PCR, pagerank: 0.000134096
-node: MVP, pagerank: 0.000134096
-node: PDA, pagerank: 0.000134096
-node: ALH, pagerank: 0.000134044
-node: BQB, pagerank: 0.000134044
-node: MOB, pagerank: 0.000133978
-node: SZZ, pagerank: 0.000133967
-node: IAS, pagerank: 0.000133951
-node: LRS, pagerank: 0.000133671
-node: ELM, pagerank: 0.000133515
-node: PYJ, pagerank: 0.000133467
-node: LXS, pagerank: 0.000133268
-node: SRV, pagerank: 0.000133124
-node: SKD, pagerank: 0.000133035
-node: CAY, pagerank: 0.000132887
-node: RJK, pagerank: 0.000132739
-node: LNZ, pagerank: 0.000132601
-node: TIV, pagerank: 0.000132483
-node: ELG, pagerank: 0.000132457
-node: WVB, pagerank: 0.000132391
-node: IFJ, pagerank: 0.000132136
-node: AEY, pagerank: 0.000132136
-node: EGS, pagerank: 0.000132136
-node: EBA, pagerank: 0.000132077
-node: GES, pagerank: 0.000132065
-node: HVG, pagerank: 0.000131995
-node: GZT, pagerank: 0.000131992
-node: KYU, pagerank: 0.000131907
-node: AUX, pagerank: 0.000131883
-node: VPS, pagerank: 0.000131866
-node: CFC, pagerank: 0.000131665
-node: IPN, pagerank: 0.000131664
-node: IXA, pagerank: 0.0001315
-node: IXS, pagerank: 0.0001315
-node: AJL, pagerank: 0.0001315
-node: GWT, pagerank: 0.000131481
-node: KHZ, pagerank: 0.000131428
-node: KKR, pagerank: 0.000131428
-node: HAS, pagerank: 0.000131416
-node: OCC, pagerank: 0.000131351
-node: GFF, pagerank: 0.00013124
-node: BHS, pagerank: 0.00013124
-node: PKE, pagerank: 0.00013124
-node: NRA, pagerank: 0.00013124
-node: UTH, pagerank: 0.000131162
-node: CXJ, pagerank: 0.000131115
-node: MJM, pagerank: 0.000131071
-node: KWF, pagerank: 0.000131056
-node: HYG, pagerank: 0.000131056
-node: MTM, pagerank: 0.000131056
-node: KCC, pagerank: 0.000131056
-node: KPB, pagerank: 0.000131056
-node: VAW, pagerank: 0.000131041
-node: IPC, pagerank: 0.000130838
-node: YPC, pagerank: 0.000130651
-node: YUB, pagerank: 0.000130651
-node: ZFM, pagerank: 0.000130651
-node: ABD, pagerank: 0.00013062
-node: EFL, pagerank: 0.000130538
-node: HMB, pagerank: 0.000130414
-node: ATZ, pagerank: 0.000130414
-node: LKL, pagerank: 0.000130298
-node: KRL, pagerank: 0.000130228
-node: SZE, pagerank: 0.000130156
-node: AOQ, pagerank: 0.000130051
-node: SWF, pagerank: 0.000130014
-node: RCM, pagerank: 0.000129933
-node: QJH, pagerank: 0.000129881
-node: QFG, pagerank: 0.000129881
-node: LBJ, pagerank: 0.000129713
-node: YOG, pagerank: 0.000129686
-node: APO, pagerank: 0.000129404
-node: IBE, pagerank: 0.000129404
-node: MTR, pagerank: 0.000129404
-node: PQC, pagerank: 0.000129258
-node: PDP, pagerank: 0.000129225
-node: NKI, pagerank: 0.000129132
-node: AZS, pagerank: 0.000129045
-node: OSY, pagerank: 0.000128998
-node: ECP, pagerank: 0.000128978
-node: CMP, pagerank: 0.000128878
-node: LTX, pagerank: 0.000128835
-node: WRY, pagerank: 0.000128742
-node: NRL, pagerank: 0.000128742
-node: BFN, pagerank: 0.000128556
-node: GRJ, pagerank: 0.000128556
-node: KEW, pagerank: 0.000128463
-node: QSF, pagerank: 0.000128337
-node: KDV, pagerank: 0.000128305
-node: LBS, pagerank: 0.000128305
-node: GNV, pagerank: 0.000128234
-node: ELC, pagerank: 0.000128128
-node: MGT, pagerank: 0.000128128
-node: CFE, pagerank: 0.000128105
-node: BJM, pagerank: 0.00012808
-node: IVC, pagerank: 0.000127715
-node: CEN, pagerank: 0.00012765
-node: HLN, pagerank: 0.000127641
-node: OTD, pagerank: 0.000127562
-node: PYC, pagerank: 0.000127562
-node: PVE, pagerank: 0.000127562
-node: BFQ, pagerank: 0.000127562
-node: PUE, pagerank: 0.000127562
-node: SAX, pagerank: 0.000127562
-node: CHX, pagerank: 0.000127562
-node: OGM, pagerank: 0.000127562
-node: PJM, pagerank: 0.000127548
-node: GLF, pagerank: 0.000127548
-node: KBC, pagerank: 0.000127488
-node: LMA, pagerank: 0.000127488
-node: CEM, pagerank: 0.000127488
-node: MLY, pagerank: 0.000127488
-node: HKB, pagerank: 0.000127488
-node: RMP, pagerank: 0.000127488
-node: HOG, pagerank: 0.000127333
-node: YFC, pagerank: 0.000127193
-node: BHV, pagerank: 0.000127053
-node: MWX, pagerank: 0.000126913
-node: IXL, pagerank: 0.000126804
-node: LKG, pagerank: 0.000126793
-node: ASV, pagerank: 0.000126793
-node: KTL, pagerank: 0.000126793
-node: UKA, pagerank: 0.000126793
-node: MOQ, pagerank: 0.000126761
-node: FTU, pagerank: 0.000126761
-node: GIZ, pagerank: 0.000126565
-node: KCZ, pagerank: 0.000126508
-node: GAJ, pagerank: 0.000126508
-node: DOU, pagerank: 0.000126508
-node: GTO, pagerank: 0.000126295
-node: ELD, pagerank: 0.000126169
-node: ILM, pagerank: 0.000126137
-node: BUS, pagerank: 0.000125877
-node: CXR, pagerank: 0.000125851
-node: SZA, pagerank: 0.000125748
-node: VHC, pagerank: 0.000125748
-node: MEG, pagerank: 0.000125748
-node: CAB, pagerank: 0.000125748
-node: EIS, pagerank: 0.000125681
-node: MYU, pagerank: 0.000125601
-node: YPL, pagerank: 0.000125575
-node: GAN, pagerank: 0.000125532
-node: WRE, pagerank: 0.000125505
-node: TUO, pagerank: 0.000125505
-node: GIS, pagerank: 0.000125505
-node: IDA, pagerank: 0.000125274
-node: WLK, pagerank: 0.0001252
-node: WTK, pagerank: 0.0001252
-node: AKY, pagerank: 0.000124918
-node: SNW, pagerank: 0.000124918
-node: LPD, pagerank: 0.000124814
-node: TCD, pagerank: 0.000124814
-node: CAC, pagerank: 0.000124695
-node: JUJ, pagerank: 0.000124692
-node: DAX, pagerank: 0.000124647
-node: ZCO, pagerank: 0.00012462
-node: LCG, pagerank: 0.000124567
-node: DGO, pagerank: 0.000124539
-node: ZLO, pagerank: 0.000124539
-node: XSC, pagerank: 0.000124502
-node: HEA, pagerank: 0.000124446
-node: ACX, pagerank: 0.000124444
-node: RTW, pagerank: 0.000124365
-node: HAD, pagerank: 0.000124266
-node: JUH, pagerank: 0.000124264
-node: DIL, pagerank: 0.000124226
-node: YKA, pagerank: 0.000124146
-node: HOV, pagerank: 0.000124071
-node: LYB, pagerank: 0.00012401
-node: BRM, pagerank: 0.000123951
-node: MOT, pagerank: 0.00012376
-node: LBU, pagerank: 0.000123697
-node: SIP, pagerank: 0.000123685
-node: JZH, pagerank: 0.000123638
-node: MXZ, pagerank: 0.000123607
-node: PPQ, pagerank: 0.000123538
-node: KZO, pagerank: 0.000123462
-node: KAE, pagerank: 0.000123345
-node: EXI, pagerank: 0.000123345
-node: PEC, pagerank: 0.000123345
-node: AGN, pagerank: 0.000123345
-node: XSB, pagerank: 0.000123318
-node: TKG, pagerank: 0.000123313
-node: KNS, pagerank: 0.000122943
-node: HAA, pagerank: 0.000122941
-node: RET, pagerank: 0.000122908
-node: LUR, pagerank: 0.000122802
-node: KSH, pagerank: 0.000122603
-node: COQ, pagerank: 0.000122474
-node: ENU, pagerank: 0.000122457
-node: KDH, pagerank: 0.000122298
-node: BGA, pagerank: 0.00012228
-node: CUC, pagerank: 0.00012228
-node: ELH, pagerank: 0.000122116
-node: IXR, pagerank: 0.00012205
-node: PEE, pagerank: 0.000121877
-node: YQF, pagerank: 0.000121765
-node: TBI, pagerank: 0.000121646
-node: CRI, pagerank: 0.000121646
-node: ATC, pagerank: 0.000121646
-node: MYG, pagerank: 0.000121646
-node: IGA, pagerank: 0.000121646
-node: AXP, pagerank: 0.000121646
-node: LTI, pagerank: 0.000121611
-node: JGD, pagerank: 0.000121573
-node: AXA, pagerank: 0.000121501
-node: TVS, pagerank: 0.000121369
-node: BTK, pagerank: 0.000121038
-node: PKC, pagerank: 0.000120972
-node: ACV, pagerank: 0.000120945
-node: ORI, pagerank: 0.000120918
-node: HYA, pagerank: 0.000120881
-node: YNG, pagerank: 0.000120818
-node: ZVK, pagerank: 0.000120807
-node: ZUM, pagerank: 0.00012078
-node: ATY, pagerank: 0.000120771
-node: KNH, pagerank: 0.000120702
-node: MZG, pagerank: 0.000120702
-node: AUY, pagerank: 0.00012069
-node: KVX, pagerank: 0.000120551
-node: CCK, pagerank: 0.000120496
-node: TRZ, pagerank: 0.000120478
-node: TEN, pagerank: 0.000120437
-node: GRX, pagerank: 0.000120369
-node: INN, pagerank: 0.000120367
-node: POR, pagerank: 0.000120274
-node: LUZ, pagerank: 0.000120116
-node: GCC, pagerank: 0.000120051
-node: RKS, pagerank: 0.000120051
-node: DLH, pagerank: 0.000120036
-node: BTC, pagerank: 0.000120024
-node: TRR, pagerank: 0.000120024
-node: STS, pagerank: 0.000119823
-node: BHK, pagerank: 0.000119816
-node: CVU, pagerank: 0.000119733
-node: ABA, pagerank: 0.000119682
-node: HTS, pagerank: 0.000119615
-node: ETZ, pagerank: 0.000119573
-node: YGP, pagerank: 0.000119537
-node: GFN, pagerank: 0.000119423
-node: KSJ, pagerank: 0.000119287
-node: VBY, pagerank: 0.000119178
-node: GDQ, pagerank: 0.000119123
-node: AXU, pagerank: 0.000119123
-node: PDG, pagerank: 0.000119039
-node: MYA, pagerank: 0.000119003
-node: YPY, pagerank: 0.000118953
-node: KOO, pagerank: 0.00011895
-node: TOL, pagerank: 0.00011887
-node: SPI, pagerank: 0.000118837
-node: YWL, pagerank: 0.000118573
-node: YQZ, pagerank: 0.000118573
-node: PZH, pagerank: 0.000118547
-node: TRI, pagerank: 0.000118291
-node: DBO, pagerank: 0.000118219
-node: JKH, pagerank: 0.000118086
-node: AKX, pagerank: 0.000117994
-node: ERF, pagerank: 0.000117944
-node: SNU, pagerank: 0.000117806
-node: PMZ, pagerank: 0.000117757
-node: JIC, pagerank: 0.000117704
-node: PZU, pagerank: 0.000117476
-node: TCQ, pagerank: 0.000117304
-node: PEM, pagerank: 0.000117304
-node: PIX, pagerank: 0.000117165
-node: TOF, pagerank: 0.000117113
-node: LUK, pagerank: 0.000117044
-node: MOV, pagerank: 0.00011702
-node: YXC, pagerank: 0.000116851
-node: PAZ, pagerank: 0.000116836
-node: BSA, pagerank: 0.000116704
-node: MII, pagerank: 0.000116667
-node: GXF, pagerank: 0.000116632
-node: VAN, pagerank: 0.000116518
-node: KIR, pagerank: 0.000116504
-node: ASR, pagerank: 0.000116451
-node: SYB, pagerank: 0.000116336
-node: ZBF, pagerank: 0.000116314
-node: KZB, pagerank: 0.000116307
-node: KYK, pagerank: 0.000116307
-node: USK, pagerank: 0.000116307
-node: BTR, pagerank: 0.000116272
-node: GPT, pagerank: 0.000116272
-node: EVV, pagerank: 0.000116206
-node: JGN, pagerank: 0.000116106
-node: ZYL, pagerank: 0.000116101
-node: YOP, pagerank: 0.000116095
-node: YOJ, pagerank: 0.000116095
-node: GRB, pagerank: 0.000116045
-node: MBS, pagerank: 0.000116045
-node: AZO, pagerank: 0.000116045
-node: IXC, pagerank: 0.000116025
-node: GRQ, pagerank: 0.000115933
-node: CBT, pagerank: 0.000115315
-node: SVP, pagerank: 0.000115315
-node: DCM, pagerank: 0.0001152
-node: DSK, pagerank: 0.000115189
-node: YKT, pagerank: 0.000115187
-node: MJN, pagerank: 0.000115095
-node: FNJ, pagerank: 0.000115062
-node: PIS, pagerank: 0.000115022
-node: ZQW, pagerank: 0.000114982
-node: EWB, pagerank: 0.000114969
-node: BVE, pagerank: 0.000114936
-node: MKK, pagerank: 0.00011491
-node: VXC, pagerank: 0.000114818
-node: IAM, pagerank: 0.000114807
-node: DMU, pagerank: 0.000114656
-node: FRO, pagerank: 0.000114643
-node: HOT, pagerank: 0.000114579
-node: MMY, pagerank: 0.000114293
-node: DDC, pagerank: 0.000114157
-node: LBL, pagerank: 0.000114157
-node: MCX, pagerank: 0.000113807
-node: GRP, pagerank: 0.000113729
-node: TAE, pagerank: 0.000113628
-node: KTG, pagerank: 0.00011356
-node: KBU, pagerank: 0.000113541
-node: BKG, pagerank: 0.000113524
-node: FSP, pagerank: 0.000113329
-node: OUZ, pagerank: 0.000113262
-node: TCZ, pagerank: 0.00011315
-node: DLU, pagerank: 0.00011313
-node: RDV, pagerank: 0.000113087
-node: URG, pagerank: 0.000113068
-node: WRL, pagerank: 0.000112887
-node: YDQ, pagerank: 0.000112808
-node: LDE, pagerank: 0.000112493
-node: LSP, pagerank: 0.000112132
-node: OSD, pagerank: 0.000112109
-node: SJK, pagerank: 0.000112099
-node: MQM, pagerank: 0.000112091
-node: DIY, pagerank: 0.000112091
-node: EZS, pagerank: 0.000112091
-node: GNY, pagerank: 0.000112091
-node: TAB, pagerank: 0.000111838
-node: TMS, pagerank: 0.000111698
-node: JKL, pagerank: 0.000111657
-node: PET, pagerank: 0.000111573
-node: DIW, pagerank: 0.000111489
-node: PLX, pagerank: 0.000111412
-node: FAY, pagerank: 0.000111352
-node: CUF, pagerank: 0.000111279
-node: KDO, pagerank: 0.000111165
-node: GKK, pagerank: 0.000111165
-node: NYA, pagerank: 0.000111106
-node: YQG, pagerank: 0.000111102
-node: SCE, pagerank: 0.000110982
-node: RIB, pagerank: 0.00011093
-node: GYA, pagerank: 0.00011093
-node: DRV, pagerank: 0.000110833
-node: GLH, pagerank: 0.000110825
-node: BTJ, pagerank: 0.000110805
-node: URT, pagerank: 0.000110783
-node: NDB, pagerank: 0.000110571
-node: MMB, pagerank: 0.000110565
-node: ALS, pagerank: 0.00011039
-node: HAQ, pagerank: 0.000110383
-node: MOC, pagerank: 0.000110338
-node: MOF, pagerank: 0.000110212
-node: TMC, pagerank: 0.000110212
-node: OMD, pagerank: 0.000110051
-node: CJJ, pagerank: 0.000110015
-node: GOU, pagerank: 0.000109844
-node: RVT, pagerank: 0.000109832
-node: HMV, pagerank: 0.000109819
-node: AJR, pagerank: 0.000109819
-node: BRD, pagerank: 0.000109725
-node: INL, pagerank: 0.000109725
-node: IMT, pagerank: 0.000109725
-node: RHI, pagerank: 0.000109725
-node: DNH, pagerank: 0.000109668
-node: WUA, pagerank: 0.000109666
-node: LUM, pagerank: 0.000109645
-node: EOI, pagerank: 0.000109556
-node: DMB, pagerank: 0.000109506
-node: MWF, pagerank: 0.000109483
-node: WLH, pagerank: 0.000109483
-node: SSR, pagerank: 0.000109483
-node: HUN, pagerank: 0.000109461
-node: VGO, pagerank: 0.000109425
-node: TNW, pagerank: 0.000109317
-node: BQN, pagerank: 0.000109304
-node: NDG, pagerank: 0.000109106
-node: HLH, pagerank: 0.00010903
-node: OPS, pagerank: 0.000108999
-node: YLC, pagerank: 0.000108979
-node: KVA, pagerank: 0.00010896
-node: MKM, pagerank: 0.000108884
-node: PGF, pagerank: 0.000108778
-node: PSO, pagerank: 0.000108686
-node: ITO, pagerank: 0.000108608
-node: MGB, pagerank: 0.000108549
-node: CXF, pagerank: 0.000108496
-node: ENY, pagerank: 0.000108431
-node: BLJ, pagerank: 0.000108387
-node: TLM, pagerank: 0.000108387
-node: BJA, pagerank: 0.000108387
-node: CEI, pagerank: 0.00010826
-node: VCS, pagerank: 0.000108186
-node: GIB, pagerank: 0.000108023
-node: TUF, pagerank: 0.000107789
-node: RLK, pagerank: 0.000107728
-node: NLK, pagerank: 0.000107723
-node: PPP, pagerank: 0.000107723
-node: HVB, pagerank: 0.000107723
-node: KDI, pagerank: 0.000107679
-node: KUH, pagerank: 0.000107588
-node: GHB, pagerank: 0.000107581
-node: HDF, pagerank: 0.000107518
-node: YIC, pagerank: 0.000107504
-node: JHW, pagerank: 0.000107342
-node: BFD, pagerank: 0.000107342
-node: DUJ, pagerank: 0.000107342
-node: FKL, pagerank: 0.000107342
-node: DLI, pagerank: 0.000107256
-node: PXU, pagerank: 0.000107256
-node: BHO, pagerank: 0.000107177
-node: MXL, pagerank: 0.000107061
-node: MRX, pagerank: 0.000107057
-node: ORB, pagerank: 0.000107047
-node: PEG, pagerank: 0.000106928
-node: FJR, pagerank: 0.000106839
-node: ZDY, pagerank: 0.000106839
-node: ZSA, pagerank: 0.000106811
-node: SOW, pagerank: 0.000106786
-node: IXZ, pagerank: 0.000106757
-node: IGM, pagerank: 0.000106397
-node: SHP, pagerank: 0.000106265
-node: JIU, pagerank: 0.000106261
-node: GWD, pagerank: 0.000106246
-node: TNC, pagerank: 0.000106234
-node: JXA, pagerank: 0.000106176
-node: EVG, pagerank: 0.000106136
-node: MXX, pagerank: 0.000106136
-node: XBJ, pagerank: 0.00010608
-node: RZR, pagerank: 0.00010608
-node: ADU, pagerank: 0.00010608
-node: NSH, pagerank: 0.00010608
-node: GYS, pagerank: 0.000106004
-node: KUA, pagerank: 0.000105994
-node: AKJ, pagerank: 0.000105892
-node: YYG, pagerank: 0.000105805
-node: YSJ, pagerank: 0.000105805
-node: SLI, pagerank: 0.000105717
-node: HFS, pagerank: 0.000105641
-node: RLG, pagerank: 0.000105637
-node: ATM, pagerank: 0.000105561
-node: MEU, pagerank: 0.000105561
-node: GNM, pagerank: 0.000105411
-node: LOH, pagerank: 0.000105397
-node: CUE, pagerank: 0.000105397
-node: JST, pagerank: 0.000105201
-node: AOO, pagerank: 0.000105201
-node: LSA, pagerank: 0.0001051
-node: MIS, pagerank: 0.0001051
-node: TYF, pagerank: 0.000104971
-node: CCM, pagerank: 0.000104839
-node: SHC, pagerank: 0.000104831
-node: LDY, pagerank: 0.000104571
-node: XQP, pagerank: 0.00010451
-node: NBS, pagerank: 0.000104131
-node: BLE, pagerank: 0.000104119
-node: FRW, pagerank: 0.000103996
-node: TJQ, pagerank: 0.000103983
-node: SAF, pagerank: 0.000103751
-node: URJ, pagerank: 0.000103696
-node: KUD, pagerank: 0.000103573
-node: MLN, pagerank: 0.000103438
-node: CPR, pagerank: 0.000103371
-node: NYU, pagerank: 0.000103294
-node: SCZ, pagerank: 0.000103282
-node: JJA, pagerank: 0.000103282
-node: RUS, pagerank: 0.000103282
-node: ATD, pagerank: 0.000103282
-node: FRE, pagerank: 0.000103282
-node: CFS, pagerank: 0.000103096
-node: WGA, pagerank: 0.000103096
-node: ABX, pagerank: 0.000103096
-node: MCY, pagerank: 0.000103096
-node: AIT, pagerank: 0.000103029
-node: MUK, pagerank: 0.000103029
-node: MGS, pagerank: 0.000103029
-node: MOI, pagerank: 0.000103029
-node: HUY, pagerank: 0.000102946
-node: URA, pagerank: 0.000102917
-node: OZC, pagerank: 0.000102895
-node: MPH, pagerank: 0.000102895
-node: TAC, pagerank: 0.000102895
-node: LGP, pagerank: 0.000102895
-node: SUG, pagerank: 0.000102895
-node: USU, pagerank: 0.000102895
-node: BXU, pagerank: 0.000102895
-node: PAG, pagerank: 0.000102895
-node: DGT, pagerank: 0.000102895
-node: MUN, pagerank: 0.000102811
-node: STD, pagerank: 0.000102811
-node: VIG, pagerank: 0.000102811
-node: OIA, pagerank: 0.0001028
-node: RST, pagerank: 0.000102701
-node: SLX, pagerank: 0.000102641
-node: AXR, pagerank: 0.00010261
-node: RKA, pagerank: 0.00010261
-node: HOI, pagerank: 0.00010261
-node: SJZ, pagerank: 0.000102579
-node: DRO, pagerank: 0.00010251
-node: PUF, pagerank: 0.00010251
-node: CFR, pagerank: 0.000102502
-node: GRI, pagerank: 0.00010249
-node: CXI, pagerank: 0.000102381
-node: LNK, pagerank: 0.000102229
-node: PVU, pagerank: 0.000102204
-node: SMR, pagerank: 0.00010204
-node: CKB, pagerank: 0.000101964
-node: MZR, pagerank: 0.000101898
-node: HON, pagerank: 0.000101889
-node: BUX, pagerank: 0.000101882
-node: FUT, pagerank: 0.000101873
-node: LFM, pagerank: 0.00010185
-node: PBL, pagerank: 0.000101822
-node: AGR, pagerank: 0.000101776
-node: DEA, pagerank: 0.000101646
-node: CLV, pagerank: 0.000101582
-node: PPB, pagerank: 0.000101582
-node: IXM, pagerank: 0.000101408
-node: CZS, pagerank: 0.000101338
-node: YCL, pagerank: 0.000101186
-node: HRI, pagerank: 0.000101043
-node: LMC, pagerank: 0.000101011
-node: RYK, pagerank: 0.000100969
-node: HLA, pagerank: 0.000100909
-node: EBU, pagerank: 0.000100427
-node: JIK, pagerank: 0.000100357
-node: IZA, pagerank: 0.000100294
-node: CMW, pagerank: 0.000100211
-node: GDE, pagerank: 0.000100167
-node: UUA, pagerank: 0.000100166
-node: PBD, pagerank: 0.000100072
-node: LBP, pagerank: 0.000100048
-node: CDR, pagerank: 0.000100004
-node: WWP, pagerank: 9.99084e-05
-node: BRA, pagerank: 9.98124e-05
-node: CDJ, pagerank: 9.96478e-05
-node: BMU, pagerank: 9.96433e-05
-node: HOD, pagerank: 9.9531e-05
-node: KDM, pagerank: 9.9487e-05
-node: SDP, pagerank: 9.94455e-05
-node: VDZ, pagerank: 9.94455e-05
-node: ENA, pagerank: 9.94455e-05
-node: ADK, pagerank: 9.94455e-05
-node: ILI, pagerank: 9.94455e-05
-node: HOM, pagerank: 9.94455e-05
-node: MLU, pagerank: 9.93359e-05
-node: GRK, pagerank: 9.93359e-05
-node: AEX, pagerank: 9.93359e-05
-node: LFT, pagerank: 9.93359e-05
-node: ORU, pagerank: 9.92675e-05
-node: DJB, pagerank: 9.9261e-05
-node: BKS, pagerank: 9.9261e-05
-node: HDS, pagerank: 9.91407e-05
-node: UTN, pagerank: 9.91407e-05
-node: KIM, pagerank: 9.91407e-05
-node: HEK, pagerank: 9.91238e-05
-node: ASO, pagerank: 9.9087e-05
-node: AMH, pagerank: 9.9087e-05
-node: PWQ, pagerank: 9.90423e-05
-node: OMH, pagerank: 9.88949e-05
-node: VLS, pagerank: 9.88688e-05
-node: TGH, pagerank: 9.88688e-05
-node: EAE, pagerank: 9.88688e-05
-node: FAE, pagerank: 9.88416e-05
-node: LQM, pagerank: 9.87977e-05
-node: SBP, pagerank: 9.87844e-05
-node: KRN, pagerank: 9.87576e-05
-node: KRF, pagerank: 9.87576e-05
-node: QFX, pagerank: 9.86506e-05
-node: MGM, pagerank: 9.85195e-05
-node: CPV, pagerank: 9.84582e-05
-node: RMF, pagerank: 9.84462e-05
-node: MHQ, pagerank: 9.84362e-05
-node: LRD, pagerank: 9.83399e-05
-node: JTY, pagerank: 9.81811e-05
-node: LBE, pagerank: 9.78379e-05
-node: OKL, pagerank: 9.77181e-05
-node: WMX, pagerank: 9.77181e-05
-node: MKQ, pagerank: 9.77181e-05
-node: ERZ, pagerank: 9.77156e-05
-node: MLX, pagerank: 9.77156e-05
-node: KCM, pagerank: 9.77156e-05
-node: MSR, pagerank: 9.77156e-05
-node: KSY, pagerank: 9.77156e-05
-node: BAL, pagerank: 9.77156e-05
-node: ERC, pagerank: 9.77156e-05
-node: TVC, pagerank: 9.77145e-05
-node: CWA, pagerank: 9.77145e-05
-node: EAM, pagerank: 9.76462e-05
-node: BHH, pagerank: 9.76462e-05
-node: ABT, pagerank: 9.76462e-05
-node: PHB, pagerank: 9.7603e-05
-node: KSN, pagerank: 9.74742e-05
-node: HOF, pagerank: 9.73161e-05
-node: KTT, pagerank: 9.72806e-05
-node: IJK, pagerank: 9.72795e-05
-node: TJU, pagerank: 9.72795e-05
-node: MHC, pagerank: 9.72393e-05
-node: CBQ, pagerank: 9.71322e-05
-node: QRW, pagerank: 9.71322e-05
-node: ABB, pagerank: 9.71322e-05
-node: PHC, pagerank: 9.71322e-05
-node: QOW, pagerank: 9.71322e-05
-node: BNI, pagerank: 9.71322e-05
-node: BXB, pagerank: 9.7063e-05
-node: BKM, pagerank: 9.70184e-05
-node: PBU, pagerank: 9.67854e-05
-node: TOB, pagerank: 9.67423e-05
-node: OHH, pagerank: 9.66518e-05
-node: VKT, pagerank: 9.65565e-05
-node: TKP, pagerank: 9.653e-05
-node: KOK, pagerank: 9.6514e-05
-node: RDZ, pagerank: 9.64973e-05
-node: PUW, pagerank: 9.64473e-05
-node: AXD, pagerank: 9.64295e-05
-node: BSC, pagerank: 9.63192e-05
-node: NQU, pagerank: 9.63192e-05
-node: ULK, pagerank: 9.63018e-05
-node: TZL, pagerank: 9.62307e-05
-node: CEC, pagerank: 9.61578e-05
-node: YRA, pagerank: 9.60992e-05
-node: YLE, pagerank: 9.60992e-05
-node: YFJ, pagerank: 9.60992e-05
-node: YSG, pagerank: 9.60992e-05
-node: YFS, pagerank: 9.60992e-05
-node: OSI, pagerank: 9.60439e-05
-node: CRP, pagerank: 9.60329e-05
-node: NCU, pagerank: 9.59791e-05
-node: AHU, pagerank: 9.58446e-05
-node: AZN, pagerank: 9.57818e-05
-node: NVI, pagerank: 9.57818e-05
-node: KSQ, pagerank: 9.57818e-05
-node: XGR, pagerank: 9.53984e-05
-node: MSJ, pagerank: 9.53296e-05
-node: ASJ, pagerank: 9.53296e-05
-node: TNO, pagerank: 9.53259e-05
-node: PEU, pagerank: 9.5195e-05
-node: ARU, pagerank: 9.51622e-05
-node: AGS, pagerank: 9.50707e-05
-node: OAJ, pagerank: 9.50707e-05
-node: AXM, pagerank: 9.4963e-05
-node: REG, pagerank: 9.49501e-05
-node: PKY, pagerank: 9.49456e-05
-node: MLG, pagerank: 9.48809e-05
-node: VOL, pagerank: 9.48706e-05
-node: NGQ, pagerank: 9.48587e-05
-node: AAQ, pagerank: 9.48542e-05
-node: NNT, pagerank: 9.46698e-05
-node: PHS, pagerank: 9.46698e-05
-node: ERI, pagerank: 9.45059e-05
-node: BSK, pagerank: 9.4485e-05
-node: FDE, pagerank: 9.4465e-05
-node: SRP, pagerank: 9.44305e-05
-node: XIL, pagerank: 9.41925e-05
-node: FNI, pagerank: 9.41522e-05
-node: KSC, pagerank: 9.40551e-05
-node: KLV, pagerank: 9.39062e-05
-node: AOR, pagerank: 9.38555e-05
-node: PMF, pagerank: 9.35336e-05
-node: BSG, pagerank: 9.35152e-05
-node: STW, pagerank: 9.34773e-05
-node: RDN, pagerank: 9.34439e-05
-node: AVA, pagerank: 9.336e-05
-node: YAP, pagerank: 9.33385e-05
-node: BGM, pagerank: 9.32749e-05
-node: HRM, pagerank: 9.32443e-05
-node: AGT, pagerank: 9.32151e-05
-node: MMU, pagerank: 9.30791e-05
-node: KLU, pagerank: 9.3052e-05
-node: IQN, pagerank: 9.3032e-05
-node: XIC, pagerank: 9.29542e-05
-node: AGF, pagerank: 9.29515e-05
-node: YYU, pagerank: 9.2805e-05
-node: SNE, pagerank: 9.26994e-05
-node: SCN, pagerank: 9.26745e-05
-node: PJA, pagerank: 9.26514e-05
-node: LBC, pagerank: 9.25473e-05
-node: FRS, pagerank: 9.22711e-05
-node: ITH, pagerank: 9.22241e-05
-node: LKB, pagerank: 9.22125e-05
-node: VBV, pagerank: 9.22125e-05
-node: FUN, pagerank: 9.22125e-05
-node: ICI, pagerank: 9.22125e-05
-node: ULH, pagerank: 9.21873e-05
-node: YYB, pagerank: 9.19058e-05
-node: OUL, pagerank: 9.18563e-05
-node: SHB, pagerank: 9.16428e-05
-node: WKJ, pagerank: 9.16428e-05
-node: TID, pagerank: 9.16298e-05
-node: RIG, pagerank: 9.1628e-05
-node: JUZ, pagerank: 9.14792e-05
-node: DDG, pagerank: 9.14755e-05
-node: YCD, pagerank: 9.13089e-05
-node: YCG, pagerank: 9.13089e-05
-node: RSA, pagerank: 9.11194e-05
-node: PMY, pagerank: 9.11194e-05
-node: SDE, pagerank: 9.11194e-05
-node: CPC, pagerank: 9.11194e-05
-node: RES, pagerank: 9.11194e-05
-node: SFN, pagerank: 9.11194e-05
-node: TUC, pagerank: 9.11194e-05
-node: VDM, pagerank: 9.11194e-05
-node: FMA, pagerank: 9.11194e-05
-node: UAQ, pagerank: 9.11194e-05
-node: IRJ, pagerank: 9.11194e-05
-node: PRA, pagerank: 9.11194e-05
-node: CTC, pagerank: 9.11194e-05
-node: RHD, pagerank: 9.11194e-05
-node: PSS, pagerank: 9.11194e-05
-node: KKC, pagerank: 9.10046e-05
-node: UBP, pagerank: 9.10046e-05
-node: FEN, pagerank: 9.10038e-05
-node: LLF, pagerank: 9.08634e-05
-node: MJD, pagerank: 9.08445e-05
-node: MPN, pagerank: 9.07876e-05
-node: VAS, pagerank: 9.05601e-05
-node: JNZ, pagerank: 9.05476e-05
-node: LYR, pagerank: 9.00862e-05
-node: TSJ, pagerank: 8.99984e-05
-node: FUJ, pagerank: 8.99984e-05
-node: YQU, pagerank: 8.98844e-05
-node: YXX, pagerank: 8.98844e-05
-node: VQS, pagerank: 8.9842e-05
-node: HIN, pagerank: 8.96312e-05
-node: RSU, pagerank: 8.96312e-05
-node: KPO, pagerank: 8.96312e-05
-node: USN, pagerank: 8.96312e-05
-node: KWJ, pagerank: 8.96312e-05
-node: KYA, pagerank: 8.95891e-05
-node: AEB, pagerank: 8.95702e-05
-node: TAP, pagerank: 8.9567e-05
-node: LNY, pagerank: 8.954e-05
-node: LEQ, pagerank: 8.94126e-05
-node: MGW, pagerank: 8.93805e-05
-node: SDN, pagerank: 8.93674e-05
-node: FKS, pagerank: 8.91331e-05
-node: KEM, pagerank: 8.8972e-05
-node: SXK, pagerank: 8.89538e-05
-node: JOL, pagerank: 8.88708e-05
-node: WUZ, pagerank: 8.87517e-05
-node: EUN, pagerank: 8.87384e-05
-node: VIL, pagerank: 8.87384e-05
-node: KIT, pagerank: 8.8604e-05
-node: JHM, pagerank: 8.81676e-05
-node: SFG, pagerank: 8.81106e-05
-node: UBJ, pagerank: 8.80868e-05
-node: HSG, pagerank: 8.80868e-05
-node: WMR, pagerank: 8.79728e-05
-node: DED, pagerank: 8.79712e-05
-node: GMR, pagerank: 8.78187e-05
-node: MKP, pagerank: 8.78187e-05
-node: CAP, pagerank: 8.77585e-05
-node: CLQ, pagerank: 8.77196e-05
-node: TPQ, pagerank: 8.77196e-05
-node: BNB, pagerank: 8.76738e-05
-node: CAJ, pagerank: 8.75484e-05
-node: SNV, pagerank: 8.75484e-05
-node: SUR, pagerank: 8.75336e-05
-node: HJR, pagerank: 8.74643e-05
-node: JKG, pagerank: 8.74348e-05
-node: VCL, pagerank: 8.73576e-05
-node: TBB, pagerank: 8.73576e-05
-node: HUI, pagerank: 8.73576e-05
-node: UIH, pagerank: 8.73576e-05
-node: VDH, pagerank: 8.73576e-05
-node: GCN, pagerank: 8.73291e-05
-node: ABS, pagerank: 8.7138e-05
-node: AGH, pagerank: 8.71063e-05
-node: RNB, pagerank: 8.71063e-05
-node: KLR, pagerank: 8.71063e-05
-node: POI, pagerank: 8.70264e-05
-node: UYU, pagerank: 8.70264e-05
-node: KAZ, pagerank: 8.70039e-05
-node: NAH, pagerank: 8.70039e-05
-node: MNA, pagerank: 8.70039e-05
-node: WSZ, pagerank: 8.69457e-05
-node: TIU, pagerank: 8.69457e-05
-node: BKZ, pagerank: 8.66687e-05
-node: YQY, pagerank: 8.66082e-05
-node: SHD, pagerank: 8.61993e-05
-node: HPH, pagerank: 8.61838e-05
-node: JLR, pagerank: 8.61645e-05
-node: IXU, pagerank: 8.61645e-05
-node: UDR, pagerank: 8.61645e-05
-node: BDQ, pagerank: 8.61645e-05
-node: IXD, pagerank: 8.61645e-05
-node: STV, pagerank: 8.61645e-05
-node: JDH, pagerank: 8.61645e-05
-node: SAB, pagerank: 8.60387e-05
-node: SGU, pagerank: 8.60366e-05
-node: JAC, pagerank: 8.60366e-05
-node: COD, pagerank: 8.60366e-05
-node: ROP, pagerank: 8.58852e-05
-node: VDE, pagerank: 8.58025e-05
-node: HBX, pagerank: 8.57107e-05
-node: MLW, pagerank: 8.56739e-05
-node: PLQ, pagerank: 8.56598e-05
-node: UTP, pagerank: 8.55768e-05
-node: SFT, pagerank: 8.55326e-05
-node: TLN, pagerank: 8.54569e-05
-node: DYR, pagerank: 8.53154e-05
-node: BDH, pagerank: 8.52287e-05
-node: YKF, pagerank: 8.50457e-05
-node: JBQ, pagerank: 8.49954e-05
-node: HKK, pagerank: 8.49786e-05
-node: GAE, pagerank: 8.49038e-05
-node: CME, pagerank: 8.48819e-05
-node: SLW, pagerank: 8.48819e-05
-node: HUX, pagerank: 8.48819e-05
-node: KOZ, pagerank: 8.48547e-05
-node: OLH, pagerank: 8.48547e-05
-node: KKB, pagerank: 8.48547e-05
-node: AKK, pagerank: 8.48547e-05
-node: KLN, pagerank: 8.48547e-05
-node: AOS, pagerank: 8.48547e-05
-node: DNR, pagerank: 8.48472e-05
-node: BNX, pagerank: 8.48086e-05
-node: AKF, pagerank: 8.473e-05
-node: ASE, pagerank: 8.47079e-05
-node: DIK, pagerank: 8.45227e-05
-node: ISN, pagerank: 8.45227e-05
-node: CMU, pagerank: 8.43395e-05
-node: MDU, pagerank: 8.43395e-05
-node: WBM, pagerank: 8.43395e-05
-node: BUL, pagerank: 8.43395e-05
-node: VGA, pagerank: 8.42754e-05
-node: DLE, pagerank: 8.41481e-05
-node: MMJ, pagerank: 8.39431e-05
-node: GVR, pagerank: 8.38813e-05
-node: AAX, pagerank: 8.38813e-05
-node: UPN, pagerank: 8.38671e-05
-node: STC, pagerank: 8.38186e-05
-node: PUM, pagerank: 8.35007e-05
-node: PSJ, pagerank: 8.35007e-05
-node: MJU, pagerank: 8.35007e-05
-node: BUW, pagerank: 8.35007e-05
-node: LUW, pagerank: 8.35007e-05
-node: CJL, pagerank: 8.34337e-05
-node: GPA, pagerank: 8.33888e-05
-node: VIJ, pagerank: 8.33226e-05
-node: OWB, pagerank: 8.32397e-05
-node: OSR, pagerank: 8.31571e-05
-node: LCK, pagerank: 8.30242e-05
-node: KKE, pagerank: 8.2769e-05
-node: KAT, pagerank: 8.2769e-05
-node: WAG, pagerank: 8.2769e-05
-node: WHK, pagerank: 8.2769e-05
-node: LEB, pagerank: 8.27312e-05
-node: CYO, pagerank: 8.26838e-05
-node: BAZ, pagerank: 8.26555e-05
-node: PIN, pagerank: 8.26555e-05
-node: TBT, pagerank: 8.26555e-05
-node: CIZ, pagerank: 8.26555e-05
-node: BVB, pagerank: 8.26555e-05
-node: BEB, pagerank: 8.26392e-05
-node: TEB, pagerank: 8.23598e-05
-node: IGD, pagerank: 8.22635e-05
-node: AJI, pagerank: 8.22635e-05
-node: BGG, pagerank: 8.22635e-05
-node: ADF, pagerank: 8.22635e-05
-node: LZY, pagerank: 8.2225e-05
-node: BPX, pagerank: 8.2225e-05
-node: KHY, pagerank: 8.21373e-05
-node: KHD, pagerank: 8.21373e-05
-node: GCH, pagerank: 8.21373e-05
-node: AFZ, pagerank: 8.21373e-05
-node: IIL, pagerank: 8.21373e-05
-node: BXR, pagerank: 8.21373e-05
-node: PFQ, pagerank: 8.21373e-05
-node: YES, pagerank: 8.21373e-05
-node: BJB, pagerank: 8.21373e-05
-node: SDG, pagerank: 8.21373e-05
-node: DEF, pagerank: 8.21373e-05
-node: CSH, pagerank: 8.20417e-05
-node: SMA, pagerank: 8.19182e-05
-node: SDY, pagerank: 8.18968e-05
-node: OLF, pagerank: 8.18968e-05
-node: GDV, pagerank: 8.18968e-05
-node: GGW, pagerank: 8.18968e-05
-node: HVR, pagerank: 8.18968e-05
-node: SXO, pagerank: 8.17877e-05
-node: MEB, pagerank: 8.17877e-05
-node: FSM, pagerank: 8.15837e-05
-node: WEI, pagerank: 8.15401e-05
-node: ABM, pagerank: 8.15401e-05
-node: HID, pagerank: 8.15401e-05
-node: GXH, pagerank: 8.15249e-05
-node: AAN, pagerank: 8.14431e-05
-node: PNL, pagerank: 8.14175e-05
-node: LMP, pagerank: 8.12119e-05
-node: ROO, pagerank: 8.11875e-05
-node: AFL, pagerank: 8.11875e-05
-node: OAL, pagerank: 8.11875e-05
-node: BVH, pagerank: 8.11875e-05
-node: JPR, pagerank: 8.11875e-05
-node: BRL, pagerank: 8.11788e-05
-node: DEC, pagerank: 8.11788e-05
-node: YUM, pagerank: 8.11041e-05
-node: VST, pagerank: 8.1056e-05
-node: LCH, pagerank: 8.10051e-05
-node: BRO, pagerank: 8.10051e-05
-node: TYR, pagerank: 8.10051e-05
-node: CLL, pagerank: 8.10051e-05
-node: SRX, pagerank: 8.10021e-05
-node: LAQ, pagerank: 8.10021e-05
-node: MHK, pagerank: 8.09595e-05
-node: CMI, pagerank: 8.09595e-05
-node: COU, pagerank: 8.09595e-05
-node: PUG, pagerank: 8.09162e-05
-node: OLP, pagerank: 8.09162e-05
-node: KGC, pagerank: 8.09162e-05
-node: WYA, pagerank: 8.09162e-05
-node: CPD, pagerank: 8.09162e-05
-node: PLO, pagerank: 8.09162e-05
-node: CED, pagerank: 8.09162e-05
-node: IPL, pagerank: 8.08981e-05
-node: BZG, pagerank: 8.08475e-05
-node: LSE, pagerank: 8.07987e-05
-node: SMX, pagerank: 8.06121e-05
-node: BOY, pagerank: 8.06066e-05
-node: KOV, pagerank: 8.05992e-05
-node: LMT, pagerank: 8.04564e-05
-node: OTH, pagerank: 8.04564e-05
-node: KRO, pagerank: 8.04504e-05
-node: ULV, pagerank: 8.04504e-05
-node: PPK, pagerank: 8.04479e-05
-node: DZN, pagerank: 8.04479e-05
-node: LPP, pagerank: 8.0374e-05
-node: RTA, pagerank: 8.03023e-05
-node: HGR, pagerank: 8.02582e-05
-node: AQI, pagerank: 8.00258e-05
-node: WAE, pagerank: 8.00258e-05
-node: DWD, pagerank: 8.00258e-05
-node: SHW, pagerank: 8.00258e-05
-node: AJF, pagerank: 8.00258e-05
-node: URY, pagerank: 8.00258e-05
-node: RAE, pagerank: 8.00258e-05
-node: APN, pagerank: 8.00079e-05
-node: AKU, pagerank: 7.97773e-05
-node: YIN, pagerank: 7.97773e-05
-node: NYT, pagerank: 7.97685e-05
-node: CSY, pagerank: 7.96331e-05
-node: SKX, pagerank: 7.96331e-05
-node: LLK, pagerank: 7.96331e-05
-node: PED, pagerank: 7.96331e-05
-node: MLB, pagerank: 7.94762e-05
-node: DAB, pagerank: 7.94762e-05
-node: EWN, pagerank: 7.94762e-05
-node: GRW, pagerank: 7.94569e-05
-node: ACH, pagerank: 7.93358e-05
-node: LMN, pagerank: 7.93284e-05
-node: VAA, pagerank: 7.92551e-05
-node: TMJ, pagerank: 7.89527e-05
-node: MCN, pagerank: 7.88455e-05
-node: MQT, pagerank: 7.8832e-05
-node: LWB, pagerank: 7.88216e-05
-node: ZHY, pagerank: 7.87965e-05
-node: ULZ, pagerank: 7.87515e-05
-node: HVD, pagerank: 7.87515e-05
-node: ULG, pagerank: 7.87515e-05
-node: MXV, pagerank: 7.87515e-05
-node: ULO, pagerank: 7.87515e-05
-node: DLZ, pagerank: 7.8732e-05
-node: GOQ, pagerank: 7.84693e-05
-node: MCV, pagerank: 7.83659e-05
-node: BGF, pagerank: 7.82408e-05
-node: ORH, pagerank: 7.81829e-05
-node: RMI, pagerank: 7.80254e-05
-node: NOZ, pagerank: 7.80251e-05
-node: BAX, pagerank: 7.80251e-05
-node: KEJ, pagerank: 7.80251e-05
-node: UTS, pagerank: 7.79621e-05
-node: ART, pagerank: 7.77846e-05
-node: HRO, pagerank: 7.74993e-05
-node: LUD, pagerank: 7.74601e-05
-node: PVA, pagerank: 7.74191e-05
-node: MNS, pagerank: 7.73448e-05
-node: NVA, pagerank: 7.72947e-05
-node: VGZ, pagerank: 7.72947e-05
-node: BUN, pagerank: 7.72947e-05
-node: IPI, pagerank: 7.72947e-05
-node: VUP, pagerank: 7.72947e-05
-node: AUC, pagerank: 7.72947e-05
-node: RCH, pagerank: 7.72947e-05
-node: SJE, pagerank: 7.72947e-05
-node: PPN, pagerank: 7.72947e-05
-node: MZL, pagerank: 7.72947e-05
-node: EJA, pagerank: 7.72947e-05
-node: EYP, pagerank: 7.72947e-05
-node: CZU, pagerank: 7.72947e-05
-node: FLA, pagerank: 7.72947e-05
-node: PGX, pagerank: 7.71287e-05
-node: MQF, pagerank: 7.70771e-05
-node: PBO, pagerank: 7.70752e-05
-node: EPR, pagerank: 7.70752e-05
-node: DCN, pagerank: 7.70752e-05
-node: ZNE, pagerank: 7.70752e-05
-node: GET, pagerank: 7.70752e-05
-node: LEA, pagerank: 7.70752e-05
-node: OZH, pagerank: 7.70228e-05
-node: SBY, pagerank: 7.70138e-05
-node: OZZ, pagerank: 7.68491e-05
-node: MKL, pagerank: 7.68478e-05
-node: ZAT, pagerank: 7.67801e-05
-node: HHH, pagerank: 7.67399e-05
-node: MEC, pagerank: 7.65966e-05
-node: ETR, pagerank: 7.65966e-05
-node: LGQ, pagerank: 7.65966e-05
-node: XMS, pagerank: 7.65966e-05
-node: TUA, pagerank: 7.65776e-05
-node: ERL, pagerank: 7.65617e-05
-node: UKS, pagerank: 7.6503e-05
-node: EMD, pagerank: 7.64697e-05
-node: BCI, pagerank: 7.64697e-05
-node: BKQ, pagerank: 7.64697e-05
-node: BDB, pagerank: 7.64697e-05
-node: ZBL, pagerank: 7.64697e-05
-node: PSE, pagerank: 7.64057e-05
-node: AQJ, pagerank: 7.63786e-05
-node: OSM, pagerank: 7.63786e-05
-node: AOG, pagerank: 7.62717e-05
-node: TMT, pagerank: 7.6233e-05
-node: ITB, pagerank: 7.6233e-05
-node: MTE, pagerank: 7.62141e-05
-node: NAV, pagerank: 7.61849e-05
-node: MZH, pagerank: 7.61849e-05
-node: DNZ, pagerank: 7.61849e-05
-node: KET, pagerank: 7.60584e-05
-node: AVN, pagerank: 7.59556e-05
-node: TVF, pagerank: 7.59393e-05
-node: PZI, pagerank: 7.56989e-05
-node: LDS, pagerank: 7.56163e-05
-node: GPI, pagerank: 7.56007e-05
-node: TCO, pagerank: 7.56007e-05
-node: TTA, pagerank: 7.55881e-05
-node: CMG, pagerank: 7.55552e-05
-node: CGM, pagerank: 7.55259e-05
-node: IAO, pagerank: 7.55259e-05
-node: MRZ, pagerank: 7.54628e-05
-node: LSY, pagerank: 7.54628e-05
-node: AVV, pagerank: 7.54628e-05
-node: ARM, pagerank: 7.54628e-05
-node: TMW, pagerank: 7.54628e-05
-node: OAG, pagerank: 7.54628e-05
-node: YZY, pagerank: 7.54012e-05
-node: IBA, pagerank: 7.53872e-05
-node: SKO, pagerank: 7.53872e-05
-node: YOL, pagerank: 7.53872e-05
-node: GMO, pagerank: 7.53872e-05
-node: ILR, pagerank: 7.53872e-05
-node: CHG, pagerank: 7.52936e-05
-node: HZH, pagerank: 7.52376e-05
-node: DQA, pagerank: 7.52146e-05
-node: SZI, pagerank: 7.51734e-05
-node: NTX, pagerank: 7.50828e-05
-node: VPY, pagerank: 7.49092e-05
-node: HJJ, pagerank: 7.48968e-05
-node: NVK, pagerank: 7.45754e-05
-node: ACI, pagerank: 7.45252e-05
-node: LRT, pagerank: 7.4393e-05
-node: ESU, pagerank: 7.42135e-05
-node: EKS, pagerank: 7.41404e-05
-node: DEE, pagerank: 7.41404e-05
-node: BVV, pagerank: 7.41404e-05
-node: BSS, pagerank: 7.40821e-05
-node: KTE, pagerank: 7.40771e-05
-node: ATA, pagerank: 7.38659e-05
-node: CIX, pagerank: 7.38659e-05
-node: HUU, pagerank: 7.38659e-05
-node: TGI, pagerank: 7.38659e-05
-node: JAU, pagerank: 7.38659e-05
-node: AYP, pagerank: 7.38659e-05
-node: TBP, pagerank: 7.38659e-05
-node: ANS, pagerank: 7.38659e-05
-node: TRU, pagerank: 7.38659e-05
-node: CJA, pagerank: 7.38659e-05
-node: PIU, pagerank: 7.38659e-05
-node: RVD, pagerank: 7.38368e-05
-node: BYO, pagerank: 7.38368e-05
-node: AQA, pagerank: 7.38368e-05
-node: GLN, pagerank: 7.38317e-05
-node: TGC, pagerank: 7.37648e-05
-node: GPB, pagerank: 7.37428e-05
-node: MME, pagerank: 7.36382e-05
-node: KSD, pagerank: 7.36294e-05
-node: BMW, pagerank: 7.35818e-05
-node: MCP, pagerank: 7.35373e-05
-node: BVS, pagerank: 7.35191e-05
-node: BEJ, pagerank: 7.33923e-05
-node: RJH, pagerank: 7.33528e-05
-node: FON, pagerank: 7.33402e-05
-node: DRK, pagerank: 7.33402e-05
-node: TTQ, pagerank: 7.33402e-05
-node: NOB, pagerank: 7.33402e-05
-node: SKU, pagerank: 7.3264e-05
-node: YAA, pagerank: 7.31858e-05
-node: IRP, pagerank: 7.30761e-05
-node: GPS, pagerank: 7.30103e-05
-node: SCY, pagerank: 7.30103e-05
-node: EBJ, pagerank: 7.28677e-05
-node: LXG, pagerank: 7.28337e-05
-node: XKH, pagerank: 7.28337e-05
-node: ODY, pagerank: 7.28337e-05
-node: HOE, pagerank: 7.28337e-05
-node: UNN, pagerank: 7.2701e-05
-node: ROI, pagerank: 7.2701e-05
-node: SNO, pagerank: 7.2701e-05
-node: CJM, pagerank: 7.2701e-05
-node: PRH, pagerank: 7.2701e-05
-node: MAQ, pagerank: 7.2701e-05
-node: LOE, pagerank: 7.2701e-05
-node: KOP, pagerank: 7.2701e-05
-node: NAW, pagerank: 7.2701e-05
-node: TST, pagerank: 7.2701e-05
-node: BFV, pagerank: 7.2701e-05
-node: NST, pagerank: 7.2701e-05
-node: SRA, pagerank: 7.26309e-05
-node: MFU, pagerank: 7.25822e-05
-node: KAA, pagerank: 7.25822e-05
-node: CIP, pagerank: 7.25822e-05
-node: ZOS, pagerank: 7.24376e-05
-node: WIC, pagerank: 7.2404e-05
-node: MSZ, pagerank: 7.23053e-05
-node: LUO, pagerank: 7.23053e-05
-node: SSY, pagerank: 7.23053e-05
-node: GJA, pagerank: 7.22461e-05
-node: UII, pagerank: 7.22282e-05
-node: BIR, pagerank: 7.21894e-05
-node: KEP, pagerank: 7.21894e-05
-node: PKR, pagerank: 7.21894e-05
-node: BDP, pagerank: 7.21894e-05
-node: BHR, pagerank: 7.21894e-05
-node: TMI, pagerank: 7.21894e-05
-node: BWA, pagerank: 7.21894e-05
-node: JKR, pagerank: 7.21894e-05
-node: DHI, pagerank: 7.21894e-05
-node: IKS, pagerank: 7.21534e-05
-node: MQJ, pagerank: 7.21534e-05
-node: CKH, pagerank: 7.21534e-05
-node: SUK, pagerank: 7.21534e-05
-node: CYX, pagerank: 7.21534e-05
-node: PAV, pagerank: 7.20011e-05
-node: LEC, pagerank: 7.20011e-05
-node: LAZ, pagerank: 7.20011e-05
-node: CUM, pagerank: 7.18942e-05
-node: VLV, pagerank: 7.18942e-05
-node: LFR, pagerank: 7.18942e-05
-node: SOM, pagerank: 7.18942e-05
-node: PYH, pagerank: 7.18942e-05
-node: BNS, pagerank: 7.18942e-05
-node: SVZ, pagerank: 7.18942e-05
-node: CBS, pagerank: 7.18942e-05
-node: CZE, pagerank: 7.18942e-05
-node: MRD, pagerank: 7.18942e-05
-node: PHW, pagerank: 7.18569e-05
-node: MSU, pagerank: 7.18569e-05
-node: RCB, pagerank: 7.18569e-05
-node: PZB, pagerank: 7.18569e-05
-node: MTS, pagerank: 7.18569e-05
-node: MGH, pagerank: 7.18569e-05
-node: ELL, pagerank: 7.18569e-05
-node: UTT, pagerank: 7.18569e-05
-node: PTG, pagerank: 7.18569e-05
-node: DPO, pagerank: 7.18425e-05
-node: KYP, pagerank: 7.18278e-05
-node: RXS, pagerank: 7.15787e-05
-node: VRC, pagerank: 7.15787e-05
-node: CBO, pagerank: 7.15787e-05
-node: BSO, pagerank: 7.15787e-05
-node: TUG, pagerank: 7.15787e-05
-node: WNP, pagerank: 7.15787e-05
-node: CRM, pagerank: 7.15787e-05
-node: MBT, pagerank: 7.15787e-05
-node: LAO, pagerank: 7.15787e-05
-node: SJI, pagerank: 7.15787e-05
-node: CYZ, pagerank: 7.15787e-05
-node: CYP, pagerank: 7.15787e-05
-node: TAG, pagerank: 7.15787e-05
-node: PBZ, pagerank: 7.14933e-05
-node: EAS, pagerank: 7.12028e-05
-node: BJZ, pagerank: 7.12028e-05
-node: VUS, pagerank: 7.11974e-05
-node: LPI, pagerank: 7.10956e-05
-node: IWK, pagerank: 7.10245e-05
-node: IZO, pagerank: 7.10245e-05
-node: TTJ, pagerank: 7.10245e-05
-node: SHM, pagerank: 7.10245e-05
-node: TKS, pagerank: 7.10245e-05
-node: OBO, pagerank: 7.10245e-05
-node: MBE, pagerank: 7.10245e-05
-node: ONJ, pagerank: 7.10245e-05
-node: KKJ, pagerank: 7.10245e-05
-node: IWJ, pagerank: 7.10245e-05
-node: HAC, pagerank: 7.10245e-05
-node: SYO, pagerank: 7.10245e-05
-node: NTQ, pagerank: 7.10245e-05
-node: OIM, pagerank: 7.10245e-05
-node: IKI, pagerank: 7.08832e-05
-node: CFN, pagerank: 7.0791e-05
-node: WGP, pagerank: 7.07027e-05
-node: CSK, pagerank: 7.06899e-05
-node: POG, pagerank: 7.02878e-05
-node: THN, pagerank: 7.02876e-05
-node: CEG, pagerank: 7.02121e-05
-node: TQL, pagerank: 7.00931e-05
-node: ONQ, pagerank: 7.00562e-05
-node: RSD, pagerank: 6.99465e-05
-node: RCY, pagerank: 6.99465e-05
-node: SML, pagerank: 6.99465e-05
-node: LGI, pagerank: 6.99465e-05
-node: NGE, pagerank: 6.96434e-05
-node: XCR, pagerank: 6.95616e-05
-node: GMB, pagerank: 6.95348e-05
-node: JIM, pagerank: 6.95348e-05
-node: BJR, pagerank: 6.95348e-05
-node: KSF, pagerank: 6.94721e-05
-node: KME, pagerank: 6.94456e-05
-node: SBZ, pagerank: 6.93043e-05
-node: YJT, pagerank: 6.92605e-05
-node: SFL, pagerank: 6.90154e-05
-node: MMO, pagerank: 6.90154e-05
-node: LUG, pagerank: 6.88911e-05
-node: LDU, pagerank: 6.87996e-05
-node: WAT, pagerank: 6.87527e-05
-node: SXI, pagerank: 6.87493e-05
-node: CRA, pagerank: 6.87167e-05
-node: PDV, pagerank: 6.86876e-05
-node: JSR, pagerank: 6.85722e-05
-node: CXB, pagerank: 6.85722e-05
-node: SPD, pagerank: 6.85722e-05
-node: BZL, pagerank: 6.85722e-05
-node: OLL, pagerank: 6.84344e-05
-node: PRI, pagerank: 6.84298e-05
-node: TNJ, pagerank: 6.83878e-05
-node: KCK, pagerank: 6.8358e-05
-node: UKX, pagerank: 6.8358e-05
-node: KYZ, pagerank: 6.8358e-05
-node: ODO, pagerank: 6.8358e-05
-node: MBI, pagerank: 6.83244e-05
-node: MYW, pagerank: 6.83244e-05
-node: ARK, pagerank: 6.83244e-05
-node: ZMT, pagerank: 6.81794e-05
-node: YPR, pagerank: 6.81794e-05
-node: YPW, pagerank: 6.81794e-05
-node: YZZ, pagerank: 6.81794e-05
-node: YYF, pagerank: 6.81794e-05
-node: QBC, pagerank: 6.81794e-05
-node: YZP, pagerank: 6.81794e-05
-node: ACZ, pagerank: 6.81523e-05
-node: HDM, pagerank: 6.81523e-05
-node: SHL, pagerank: 6.78137e-05
-node: TGM, pagerank: 6.77677e-05
-node: ELF, pagerank: 6.77611e-05
-node: EGN, pagerank: 6.77611e-05
-node: UYL, pagerank: 6.77611e-05
-node: DEB, pagerank: 6.77246e-05
-node: MUE, pagerank: 6.7461e-05
-node: HNM, pagerank: 6.7461e-05
-node: YLL, pagerank: 6.73391e-05
-node: YQL, pagerank: 6.73391e-05
-node: YXH, pagerank: 6.73391e-05
-node: YBR, pagerank: 6.73391e-05
-node: KSE, pagerank: 6.71387e-05
-node: PAF, pagerank: 6.71387e-05
-node: RUA, pagerank: 6.71387e-05
-node: CVM, pagerank: 6.71297e-05
-node: MTT, pagerank: 6.71297e-05
-node: NLD, pagerank: 6.71297e-05
-node: PQM, pagerank: 6.71297e-05
-node: PDS, pagerank: 6.71297e-05
-node: PXM, pagerank: 6.71297e-05
-node: CTM, pagerank: 6.71297e-05
-node: MAM, pagerank: 6.71297e-05
-node: JAL, pagerank: 6.71297e-05
-node: CPE, pagerank: 6.71297e-05
-node: LZC, pagerank: 6.71297e-05
-node: AAY, pagerank: 6.71275e-05
-node: AXK, pagerank: 6.71275e-05
-node: KIS, pagerank: 6.68356e-05
-node: PJG, pagerank: 6.67739e-05
-node: LYP, pagerank: 6.67739e-05
-node: NGK, pagerank: 6.6721e-05
-node: DBA, pagerank: 6.6424e-05
-node: PPG, pagerank: 6.62886e-05
-node: CAH, pagerank: 6.62852e-05
-node: VKG, pagerank: 6.62852e-05
-node: THD, pagerank: 6.62852e-05
-node: SYQ, pagerank: 6.61953e-05
-node: PYY, pagerank: 6.61784e-05
-node: HGN, pagerank: 6.61784e-05
-node: OGL, pagerank: 6.61375e-05
-node: OGD, pagerank: 6.6112e-05
-node: KAD, pagerank: 6.59546e-05
-node: QUO, pagerank: 6.59546e-05
-node: JOS, pagerank: 6.59546e-05
-node: KCO, pagerank: 6.57404e-05
-node: CKZ, pagerank: 6.57404e-05
-node: TEQ, pagerank: 6.57404e-05
-node: RAJ, pagerank: 6.572e-05
-node: BHU, pagerank: 6.572e-05
-node: GWL, pagerank: 6.572e-05
-node: JGA, pagerank: 6.572e-05
-node: BHJ, pagerank: 6.572e-05
-node: DIU, pagerank: 6.572e-05
-node: HDN, pagerank: 6.56403e-05
-node: EAR, pagerank: 6.56403e-05
-node: BFF, pagerank: 6.56403e-05
-node: SHR, pagerank: 6.56403e-05
-node: GUC, pagerank: 6.56403e-05
-node: MTJ, pagerank: 6.56403e-05
-node: AIA, pagerank: 6.56403e-05
-node: LAR, pagerank: 6.56403e-05
-node: MCK, pagerank: 6.56403e-05
-node: EGE, pagerank: 6.56403e-05
-node: RIW, pagerank: 6.56403e-05
-node: LBF, pagerank: 6.56403e-05
-node: PUB, pagerank: 6.56403e-05
-node: CEZ, pagerank: 6.56403e-05
-node: QUB, pagerank: 6.56301e-05
-node: LTD, pagerank: 6.56301e-05
-node: GHT, pagerank: 6.56301e-05
-node: TML, pagerank: 6.55952e-05
-node: NYI, pagerank: 6.55952e-05
-node: KMS, pagerank: 6.55952e-05
-node: TKD, pagerank: 6.55952e-05
-node: ALW, pagerank: 6.54796e-05
-node: EAT, pagerank: 6.54796e-05
-node: YKM, pagerank: 6.54796e-05
-node: DIN, pagerank: 6.5282e-05
-node: TUR, pagerank: 6.52214e-05
-node: RDC, pagerank: 6.52214e-05
-node: SCT, pagerank: 6.51362e-05
-node: THX, pagerank: 6.50219e-05
-node: IAA, pagerank: 6.50219e-05
-node: TGP, pagerank: 6.50219e-05
-node: ZSE, pagerank: 6.48429e-05
-node: RRG, pagerank: 6.48429e-05
-node: KOS, pagerank: 6.47046e-05
-node: KUU, pagerank: 6.4654e-05
-node: DHM, pagerank: 6.4654e-05
-node: KNU, pagerank: 6.4654e-05
-node: GOP, pagerank: 6.4654e-05
-node: LUH, pagerank: 6.4654e-05
-node: EKO, pagerank: 6.46059e-05
-node: TWF, pagerank: 6.46059e-05
-node: PIH, pagerank: 6.46059e-05
-node: CNY, pagerank: 6.46059e-05
-node: VEL, pagerank: 6.46059e-05
-node: BTM, pagerank: 6.46059e-05
-node: CDC, pagerank: 6.46059e-05
-node: WJU, pagerank: 6.45032e-05
-node: KUV, pagerank: 6.45032e-05
-node: TEE, pagerank: 6.43016e-05
-node: DJG, pagerank: 6.43016e-05
-node: MUW, pagerank: 6.43016e-05
-node: MZW, pagerank: 6.43016e-05
-node: TGR, pagerank: 6.43016e-05
-node: EBH, pagerank: 6.43016e-05
-node: ELU, pagerank: 6.43016e-05
-node: RJA, pagerank: 6.42848e-05
-node: TIR, pagerank: 6.42848e-05
-node: MYQ, pagerank: 6.42002e-05
-node: IXG, pagerank: 6.42002e-05
-node: EUX, pagerank: 6.40742e-05
-node: MVR, pagerank: 6.40255e-05
-node: BLV, pagerank: 6.39771e-05
-node: PSM, pagerank: 6.39771e-05
-node: FVM, pagerank: 6.39197e-05
-node: UEO, pagerank: 6.39047e-05
-node: MSS, pagerank: 6.38345e-05
-node: OGS, pagerank: 6.38345e-05
-node: LAM, pagerank: 6.37279e-05
-node: CNM, pagerank: 6.37279e-05
-node: TCG, pagerank: 6.36032e-05
-node: NLT, pagerank: 6.36032e-05
-node: HTN, pagerank: 6.36032e-05
-node: BPL, pagerank: 6.36032e-05
-node: KCA, pagerank: 6.36032e-05
-node: KRY, pagerank: 6.36032e-05
-node: AAT, pagerank: 6.36032e-05
-node: IPH, pagerank: 6.35763e-05
-node: GAO, pagerank: 6.34872e-05
-node: UIN, pagerank: 6.34722e-05
-node: CGI, pagerank: 6.34722e-05
-node: IRK, pagerank: 6.34722e-05
-node: JBR, pagerank: 6.34722e-05
-node: MWA, pagerank: 6.34722e-05
-node: TBN, pagerank: 6.34722e-05
-node: MCE, pagerank: 6.32773e-05
-node: VIS, pagerank: 6.32773e-05
-node: MMH, pagerank: 6.32773e-05
-node: LTO, pagerank: 6.32773e-05
-node: CLD, pagerank: 6.32773e-05
-node: PRC, pagerank: 6.32773e-05
-node: RAH, pagerank: 6.32682e-05
-node: TUI, pagerank: 6.32682e-05
-node: ANG, pagerank: 6.32642e-05
-node: LAW, pagerank: 6.32529e-05
-node: TXK, pagerank: 6.32529e-05
-node: GCK, pagerank: 6.32529e-05
-node: GGG, pagerank: 6.32529e-05
-node: JLN, pagerank: 6.32529e-05
-node: SPS, pagerank: 6.32529e-05
-node: ACT, pagerank: 6.32529e-05
-node: ROW, pagerank: 6.32529e-05
-node: SJT, pagerank: 6.32529e-05
-node: BPT, pagerank: 6.32529e-05
-node: ABI, pagerank: 6.32529e-05
-node: CBH, pagerank: 6.31471e-05
-node: UST, pagerank: 6.31072e-05
-node: HIB, pagerank: 6.30921e-05
-node: BJI, pagerank: 6.30921e-05
-node: ABR, pagerank: 6.30921e-05
-node: AGX, pagerank: 6.29999e-05
-node: YUS, pagerank: 6.29953e-05
-node: TTT, pagerank: 6.29331e-05
-node: CPX, pagerank: 6.28403e-05
-node: MAZ, pagerank: 6.28403e-05
-node: GIL, pagerank: 6.28371e-05
-node: KDU, pagerank: 6.28371e-05
-node: PES, pagerank: 6.2804e-05
-node: GRV, pagerank: 6.2804e-05
-node: PEZ, pagerank: 6.2804e-05
-node: OGZ, pagerank: 6.2804e-05
-node: KVK, pagerank: 6.2804e-05
-node: GBB, pagerank: 6.2804e-05
-node: OSW, pagerank: 6.2804e-05
-node: ESL, pagerank: 6.2804e-05
-node: RGK, pagerank: 6.2804e-05
-node: LWN, pagerank: 6.2804e-05
-node: TGK, pagerank: 6.2804e-05
-node: PDT, pagerank: 6.27761e-05
-node: BQK, pagerank: 6.25404e-05
-node: MEI, pagerank: 6.25404e-05
-node: VLD, pagerank: 6.25404e-05
-node: DHN, pagerank: 6.25404e-05
-node: ABY, pagerank: 6.25404e-05
-node: GTR, pagerank: 6.25404e-05
-node: MSL, pagerank: 6.25404e-05
-node: CSG, pagerank: 6.25404e-05
-node: PIB, pagerank: 6.25404e-05
-node: LPT, pagerank: 6.25132e-05
-node: THS, pagerank: 6.25132e-05
-node: TDX, pagerank: 6.25132e-05
-node: TAY, pagerank: 6.24365e-05
-node: JYV, pagerank: 6.24365e-05
-node: RVN, pagerank: 6.24365e-05
-node: NRK, pagerank: 6.24365e-05
-node: SVL, pagerank: 6.24365e-05
-node: KUO, pagerank: 6.24365e-05
-node: KAJ, pagerank: 6.24365e-05
-node: JOE, pagerank: 6.24365e-05
-node: IVL, pagerank: 6.24365e-05
-node: KAO, pagerank: 6.24365e-05
-node: GLO, pagerank: 6.23245e-05
-node: ZIG, pagerank: 6.23065e-05
-node: SVC, pagerank: 6.20364e-05
-node: FLG, pagerank: 6.20364e-05
-node: PQI, pagerank: 6.20031e-05
-node: RKD, pagerank: 6.20031e-05
-node: RUT, pagerank: 6.20031e-05
-node: AUG, pagerank: 6.20031e-05
-node: PVC, pagerank: 6.20031e-05
-node: SLK, pagerank: 6.20031e-05
-node: BHB, pagerank: 6.20031e-05
-node: TCR, pagerank: 6.20026e-05
-node: HOB, pagerank: 6.19618e-05
-node: VCT, pagerank: 6.19618e-05
-node: PAH, pagerank: 6.19162e-05
-node: FOE, pagerank: 6.19162e-05
-node: SUX, pagerank: 6.19162e-05
-node: ALO, pagerank: 6.19162e-05
-node: EAU, pagerank: 6.19162e-05
-node: DBQ, pagerank: 6.19162e-05
-node: MKG, pagerank: 6.19162e-05
-node: CMX, pagerank: 6.19162e-05
-node: MOD, pagerank: 6.18899e-05
-node: CIC, pagerank: 6.18899e-05
-node: RDD, pagerank: 6.18899e-05
-node: BIM, pagerank: 6.18778e-05
-node: TCB, pagerank: 6.18778e-05
-node: KGP, pagerank: 6.1856e-05
-node: FUO, pagerank: 6.18404e-05
-node: YZR, pagerank: 6.17364e-05
-node: YGK, pagerank: 6.17364e-05
-node: PKB, pagerank: 6.17217e-05
-node: APF, pagerank: 6.16727e-05
-node: SCK, pagerank: 6.15444e-05
-node: KHS, pagerank: 6.14674e-05
-node: LNJ, pagerank: 6.14649e-05
-node: WNH, pagerank: 6.14649e-05
-node: SYM, pagerank: 6.14649e-05
-node: BSD, pagerank: 6.14649e-05
-node: TNN, pagerank: 6.13732e-05
-node: TBW, pagerank: 6.12359e-05
-node: URS, pagerank: 6.12359e-05
-node: PWE, pagerank: 6.12359e-05
-node: GMZ, pagerank: 6.11486e-05
-node: PGV, pagerank: 6.11454e-05
-node: FLO, pagerank: 6.11454e-05
-node: LYH, pagerank: 6.11454e-05
-node: PLN, pagerank: 6.11254e-05
-node: ESC, pagerank: 6.11254e-05
-node: CIU, pagerank: 6.11254e-05
-node: IAR, pagerank: 6.10387e-05
-node: OER, pagerank: 6.10283e-05
-node: KID, pagerank: 6.10283e-05
-node: EJH, pagerank: 6.09672e-05
-node: YIE, pagerank: 6.07604e-05
-node: SLN, pagerank: 6.07518e-05
-node: TTU, pagerank: 6.07471e-05
-node: ISE, pagerank: 6.07327e-05
-node: NAJ, pagerank: 6.07327e-05
-node: NOP, pagerank: 6.07327e-05
-node: KZR, pagerank: 6.07327e-05
-node: CND, pagerank: 6.07327e-05
-node: KFS, pagerank: 6.07327e-05
-node: MBL, pagerank: 6.05493e-05
-node: LNS, pagerank: 6.04907e-05
-node: BKW, pagerank: 6.04907e-05
-node: YNY, pagerank: 6.04704e-05
-node: LLB, pagerank: 6.04139e-05
-node: KGT, pagerank: 6.03837e-05
-node: DCY, pagerank: 6.03837e-05
-node: LPY, pagerank: 6.03116e-05
-node: AUR, pagerank: 6.03116e-05
-node: LAI, pagerank: 6.03116e-05
-node: UIP, pagerank: 6.03116e-05
-node: KSO, pagerank: 6.03078e-05
-node: PAS, pagerank: 6.03078e-05
-node: JSY, pagerank: 6.03078e-05
-node: JSI, pagerank: 6.03078e-05
-node: IOA, pagerank: 6.03078e-05
-node: MLO, pagerank: 6.03078e-05
-node: JNX, pagerank: 6.03078e-05
-node: KZI, pagerank: 6.02928e-05
-node: AHN, pagerank: 6.01003e-05
-node: HVN, pagerank: 6.0078e-05
-node: IPT, pagerank: 6.0078e-05
-node: URE, pagerank: 6.00738e-05
-node: UDJ, pagerank: 5.99964e-05
-node: VDB, pagerank: 5.97615e-05
-node: OLA, pagerank: 5.97615e-05
-node: BDU, pagerank: 5.97615e-05
-node: RRS, pagerank: 5.97615e-05
-node: EDO, pagerank: 5.96617e-05
-node: GAF, pagerank: 5.95816e-05
-node: LCX, pagerank: 5.9532e-05
-node: ZQZ, pagerank: 5.95179e-05
-node: GDZ, pagerank: 5.94307e-05
-node: SKE, pagerank: 5.94238e-05
-node: DOL, pagerank: 5.92048e-05
-node: ANR, pagerank: 5.92048e-05
-node: TRE, pagerank: 5.89872e-05
-node: BRR, pagerank: 5.89872e-05
-node: ILY, pagerank: 5.89872e-05
-node: CAL, pagerank: 5.89872e-05
-node: ENH, pagerank: 5.8925e-05
-node: PXO, pagerank: 5.87961e-05
-node: DIJ, pagerank: 5.87731e-05
-node: XFW, pagerank: 5.87731e-05
-node: BWK, pagerank: 5.8677e-05
-node: RJL, pagerank: 5.83725e-05
-node: PNA, pagerank: 5.83725e-05
-node: LEH, pagerank: 5.8291e-05
-node: KZS, pagerank: 5.82749e-05
-node: AGB, pagerank: 5.81116e-05
-node: CFK, pagerank: 5.81116e-05
-node: VIN, pagerank: 5.79765e-05
-node: BAY, pagerank: 5.79386e-05
-node: OMR, pagerank: 5.79386e-05
-node: SUJ, pagerank: 5.79386e-05
-node: IFO, pagerank: 5.79086e-05
-node: VLY, pagerank: 5.7901e-05
-node: RNN, pagerank: 5.76914e-05
-node: SGD, pagerank: 5.76914e-05
-node: KRP, pagerank: 5.76914e-05
-node: BZO, pagerank: 5.74969e-05
-node: AOE, pagerank: 5.72893e-05
-node: SLM, pagerank: 5.70399e-05
-node: LEN, pagerank: 5.70399e-05
-node: VLL, pagerank: 5.70399e-05
-node: RGS, pagerank: 5.70399e-05
-node: MCM, pagerank: 5.69345e-05
-node: DND, pagerank: 5.67311e-05
-node: BRQ, pagerank: 5.67311e-05
-node: MHG, pagerank: 5.66482e-05
-node: ARW, pagerank: 5.66275e-05
-node: OMO, pagerank: 5.66275e-05
-node: ILD, pagerank: 5.64002e-05
-node: OST, pagerank: 5.64002e-05
-node: STZ, pagerank: 4.42096e-05
-node: PTJ, pagerank: 4.42096e-05
-node: LJA, pagerank: 4.42096e-05
-node: MSW, pagerank: 4.42096e-05
-node: IUE, pagerank: 4.42096e-05
-node: VDA, pagerank: 4.42096e-05
-node: SXX, pagerank: 4.42096e-05
+ATL, 0.00467975
+IST, 0.00441265
+ORD, 0.00429125
+DEN, 0.00426092
+DFW, 0.00418953
+DME, 0.00413453
+CDG, 0.00396359
+FRA, 0.00385721
+PEK, 0.00382948
+AMS, 0.00365858
+DXB, 0.00364487
+IAH, 0.00352955
+LAX, 0.00334245
+SYD, 0.00312532
+YYZ, 0.00303111
+JFK, 0.00302863
+PVG, 0.00290782
+LHR, 0.00290404
+MSP, 0.00288791
+BOG, 0.00288035
+CAN, 0.00285959
+SIN, 0.00284805
+CLT, 0.00280935
+MUC, 0.0027912
+MIA, 0.00277355
+EWR, 0.00274145
+LAS, 0.00271239
+DTW, 0.00268663
+HKG, 0.00268561
+JNB, 0.00263463
+MAD, 0.00263263
+ICN, 0.00262961
+KUL, 0.00260609
+BKK, 0.00260558
+SVO, 0.00257863
+MEX, 0.0025347
+MNL, 0.00251152
+LGW, 0.00247414
+BCN, 0.00246039
+FCO, 0.00245425
+ARN, 0.00243376
+IAD, 0.00241344
+AEP, 0.00237308
+BET, 0.00233416
+DEL, 0.00233307
+GRU, 0.00230815
+HND, 0.00230292
+PHL, 0.00227758
+BNE, 0.00227719
+ORY, 0.00225427
+STN, 0.00225386
+SEA, 0.00225212
+BRU, 0.00224662
+DOH, 0.00221345
+ANC, 0.00220944
+LED, 0.00217789
+SFO, 0.00216324
+SLC, 0.00215961
+DUS, 0.00215953
+BOS, 0.00215615
+JED, 0.00214892
+NRT, 0.00213774
+YVR, 0.00211498
+MAN, 0.00210075
+BOM, 0.00210043
+YUL, 0.00210033
+CTU, 0.00205506
+VIE, 0.00204261
+AKL, 0.00204138
+ZRH, 0.00203066
+FLL, 0.00201626
+DUB, 0.0019997
+ADD, 0.00199622
+LIM, 0.00198872
+ATH, 0.00196966
+MCO, 0.00195661
+TPE, 0.00193222
+KMG, 0.00192853
+PPT, 0.00192377
+CPH, 0.00191917
+PHX, 0.00190851
+OSL, 0.00190282
+HEL, 0.00188702
+FAI, 0.00186152
+CGK, 0.00182048
+PMI, 0.00180708
+RUH, 0.00179375
+MEL, 0.00178801
+SAW, 0.00178154
+VCP, 0.00177763
+LIS, 0.00176754
+PTY, 0.00171445
+NBO, 0.00170361
+AUH, 0.00170052
+CMN, 0.00169266
+DCA, 0.00166953
+MXP, 0.00166178
+POM, 0.00165241
+THR, 0.00165097
+DMK, 0.00160893
+YYC, 0.00160546
+CKG, 0.00160359
+TXL, 0.00159507
+SHJ, 0.00158664
+AGP, 0.00158616
+CAI, 0.00157021
+XIY, 0.0015656
+CUN, 0.0015417
+ALG, 0.00153645
+CCS, 0.0015308
+SZX, 0.00150911
+VKO, 0.00148229
+PER, 0.00146929
+HIR, 0.00145945
+BSB, 0.00143965
+GVA, 0.00143569
+ALC, 0.00142319
+MDW, 0.00142252
+MRS, 0.00140655
+SGN, 0.00140245
+BWI, 0.001377
+STL, 0.00135972
+PRG, 0.00135036
+SVX, 0.00134943
+NCE, 0.00134734
+SCL, 0.00132838
+KTN, 0.00132824
+HNL, 0.00132474
+CNS, 0.00131755
+DPS, 0.00130907
+JNU, 0.00130341
+SJO, 0.00130231
+CGN, 0.00129162
+VLI, 0.0012861
+TLV, 0.00127951
+LYS, 0.00127561
+EDI, 0.00125996
+HGH, 0.00125987
+GIG, 0.00125715
+URC, 0.00125488
+LGA, 0.00125155
+XMN, 0.00124714
+PDX, 0.00124505
+LPA, 0.00123149
+LTN, 0.00120892
+SHA, 0.00120777
+HAM, 0.00120749
+UPG, 0.00120184
+TPA, 0.0011992
+CSX, 0.00119271
+LAD, 0.00118994
+NAS, 0.00118087
+BHX, 0.00117333
+BGY, 0.00116874
+OME, 0.00116751
+CRL, 0.00115815
+CLE, 0.00115374
+OTZ, 0.0011434
+KIX, 0.0011433
+WUH, 0.00114261
+HAN, 0.00114039
+SFB, 0.00113954
+TFS, 0.00112971
+ADL, 0.00112279
+WAW, 0.00111816
+KWI, 0.00111457
+STR, 0.00111151
+HRB, 0.00110022
+LOS, 0.00110004
+YZF, 0.00109884
+MHD, 0.00109855
+MCT, 0.00109638
+GLA, 0.00109528
+EZE, 0.00109236
+ESB, 0.0010892
+TUN, 0.00108508
+TAS, 0.00108291
+SHE, 0.00108225
+SAN, 0.00108119
+SJU, 0.00107401
+BUD, 0.00107318
+CEB, 0.00106844
+MLA, 0.00106792
+OTP, 0.00106602
+VCE, 0.00106101
+DLC, 0.0010608
+GEA, 0.00105906
+WLG, 0.00105583
+KTM, 0.00105336
+AMM, 0.0010492
+OVB, 0.0010436
+CCU, 0.00102747
+CNF, 0.00102716
+NAN, 0.00101909
+YEG, 0.0010079
+KBP, 0.000999222
+DMM, 0.000995034
+RIX, 0.000993319
+BRS, 0.000982411
+PAC, 0.000980616
+WIL, 0.000971574
+AYT, 0.000968856
+TAO, 0.000965888
+OPO, 0.000959341
+CHC, 0.000959271
+KHI, 0.000955665
+MED, 0.00095263
+SSA, 0.000948181
+DAC, 0.000945844
+YXL, 0.000944439
+SXF, 0.000944136
+ALA, 0.000942096
+BLR, 0.000940735
+NGO, 0.000934983
+CMB, 0.000932384
+CGO, 0.000921235
+ABV, 0.000916988
+NKG, 0.000910528
+RGN, 0.000909776
+JUV, 0.000908904
+POA, 0.000902794
+CTS, 0.000897504
+TSN, 0.000888632
+GDL, 0.000888255
+YWG, 0.000883449
+BSL, 0.00088244
+BNA, 0.000878663
+BGO, 0.000877054
+UIO, 0.000876354
+BLQ, 0.000874493
+PSA, 0.000872731
+CVG, 0.000868513
+BKI, 0.000867882
+HOU, 0.000866313
+AKN, 0.000865945
+CGH, 0.000848666
+FAO, 0.000839186
+MAA, 0.000837319
+KWE, 0.0008371
+MCI, 0.000836842
+EIN, 0.000833407
+FUK, 0.000832074
+NAY, 0.000829684
+MYY, 0.000826324
+AZA, 0.000824561
+SKG, 0.0008231
+YHZ, 0.000819306
+PUJ, 0.000818494
+FIH, 0.00081815
+HER, 0.000814165
+MAO, 0.000814149
+ISB, 0.000810846
+LCA, 0.00080948
+LPB, 0.000805964
+DRW, 0.000803678
+FOC, 0.000801344
+CWB, 0.000799134
+BVA, 0.000796079
+IKT, 0.000795478
+NTE, 0.000794643
+TLS, 0.000788143
+CJU, 0.000787869
+VLC, 0.000784231
+BEG, 0.000783642
+CGB, 0.000783062
+EMA, 0.000782824
+BAH, 0.000782232
+NNG, 0.000782149
+SUB, 0.000781111
+TYN, 0.000779805
+ANI, 0.000777772
+RHO, 0.000777728
+UMD, 0.000776595
+TIJ, 0.000775148
+BEY, 0.000774329
+IBZ, 0.00077337
+SXM, 0.000771213
+IKA, 0.000768986
+SON, 0.000767921
+LUX, 0.000764791
+AUS, 0.000762544
+YFB, 0.000761998
+TNR, 0.00076037
+ACE, 0.000758679
+YKS, 0.000756126
+HYD, 0.000755773
+ACC, 0.000754787
+SYZ, 0.000750626
+ADB, 0.000744127
+OKA, 0.000741464
+CPT, 0.000738265
+TSE, 0.000737725
+KJA, 0.000734552
+HET, 0.000720448
+TOS, 0.000713521
+SAL, 0.00071347
+MSY, 0.000711881
+YEV, 0.000711868
+KRK, 0.000708744
+MTY, 0.000708148
+PUS, 0.000707609
+RDU, 0.0007075
+MFM, 0.000707343
+JJU, 0.00070553
+HAV, 0.000703065
+BOD, 0.000701754
+LBA, 0.000701246
+DWC, 0.00069704
+GYD, 0.000695467
+TNA, 0.000694993
+PIE, 0.000694658
+NAP, 0.000693753
+CTA, 0.000691917
+RAK, 0.000690852
+GRO, 0.000690778
+FUE, 0.000690412
+HAJ, 0.000687697
+HKT, 0.000684747
+GDN, 0.000681036
+OAK, 0.000680991
+KHH, 0.000679706
+SUV, 0.000677688
+VNO, 0.000674548
+SYX, 0.000674206
+MLE, 0.000672464
+LPL, 0.000672123
+CNX, 0.000671987
+KWL, 0.000667627
+PIT, 0.00066751
+SAT, 0.000666397
+CLO, 0.000664754
+CIA, 0.000663318
+NCL, 0.000662302
+HHN, 0.000661128
+DKR, 0.000660005
+NGB, 0.000656868
+YOW, 0.000654237
+MSQ, 0.000652181
+AGM, 0.000646796
+IND, 0.000644627
+KHN, 0.00064383
+GYE, 0.00064378
+LHE, 0.0006412
+MEM, 0.000630495
+SJW, 0.000630344
+TIP, 0.000630015
+TRD, 0.000629606
+ITM, 0.000629075
+DAR, 0.000624148
+RAR, 0.000622796
+BEL, 0.000621058
+HAK, 0.000618017
+BTH, 0.000617464
+LCY, 0.000617448
+RSW, 0.000610803
+LHW, 0.000610214
+GOH, 0.000610212
+KRT, 0.000609567
+ULN, 0.000609564
+SJC, 0.00060929
+YQT, 0.00060927
+KHV, 0.000609132
+KRR, 0.000608855
+MRU, 0.000606861
+SDQ, 0.000606071
+BZE, 0.000602922
+YVP, 0.000602222
+LUN, 0.000600832
+YRT, 0.000600032
+SMF, 0.00059915
+SDU, 0.000597543
+KEF, 0.000596991
+BRE, 0.000596739
+DYU, 0.000596584
+CMH, 0.000593433
+SAH, 0.000593169
+DBV, 0.000590983
+EVN, 0.000585032
+SOF, 0.000582865
+HFE, 0.000582081
+FYU, 0.000579829
+BLL, 0.000579666
+SVG, 0.000579041
+YYR, 0.00057545
+OGG, 0.000574447
+VTE, 0.000572482
+DJJ, 0.000566561
+WNZ, 0.000565663
+DUT, 0.000565561
+MKE, 0.00056389
+AUA, 0.0005617
+PLU, 0.000560071
+PMO, 0.000556768
+MDC, 0.000553809
+BRI, 0.000553311
+TFF, 0.000552057
+YQB, 0.00055142
+TDD, 0.000549463
+ABZ, 0.000546714
+FOR, 0.000543894
+GOT, 0.000542646
+MPM, 0.000541758
+EBB, 0.000539508
+BOO, 0.000535867
+INC, 0.000535386
+SPU, 0.000533365
+CHQ, 0.000532698
+PEN, 0.000532684
+SVQ, 0.000532218
+BIL, 0.000532054
+MYR, 0.000531841
+CAG, 0.000531464
+ABQ, 0.000528142
+NRN, 0.000525905
+CFU, 0.000525567
+MDE, 0.000524026
+TLL, 0.000522586
+YRL, 0.000519688
+SFJ, 0.000517698
+TSF, 0.000517269
+RKV, 0.000517213
+YZV, 0.000517058
+ZUH, 0.000515605
+PLS, 0.000514374
+GUM, 0.000512848
+ORN, 0.000512426
+BIO, 0.000512151
+PMV, 0.000509219
+CGQ, 0.000503491
+GUA, 0.00050154
+MBJ, 0.000500669
+REC, 0.00049828
+ISA, 0.00049817
+KOI, 0.000491617
+BDL, 0.000491211
+EOH, 0.000490443
+GZO, 0.000490319
+JAX, 0.000490252
+DLA, 0.000489568
+JNN, 0.000489132
+LJG, 0.000488983
+LAE, 0.000487659
+POS, 0.00048685
+KCH, 0.000486791
+COK, 0.000486337
+LIN, 0.000485979
+REP, 0.000482236
+RYG, 0.000481744
+BPN, 0.000480657
+TSV, 0.00047706
+KGL, 0.000475032
+ANU, 0.000473997
+AMQ, 0.000473762
+CUR, 0.000472546
+HGU, 0.000471911
+RGI, 0.000469627
+WDH, 0.000469418
+SJD, 0.000469267
+BRW, 0.000468348
+DAD, 0.000468203
+DAL, 0.000466328
+COO, 0.0004656
+GCM, 0.000463508
+CDB, 0.000463149
+PDL, 0.000462442
+KUS, 0.000461328
+PBI, 0.000461035
+BMA, 0.000460201
+ZAG, 0.000459552
+BFI, 0.000456174
+SNA, 0.000454952
+PVR, 0.000454159
+HRE, 0.000453258
+OLB, 0.000453052
+AJA, 0.000452467
+MCG, 0.000452038
+TAH, 0.000449887
+DUR, 0.000449885
+FRU, 0.000449426
+FNC, 0.000448529
+LIL, 0.000447831
+RMQ, 0.000446597
+OOL, 0.00044509
+AHO, 0.000444779
+KGS, 0.000443895
+ABJ, 0.000442402
+RAB, 0.00044156
+TRF, 0.000440863
+DTM, 0.00044008
+ALB, 0.000438674
+BGI, 0.000438558
+RAI, 0.00043775
+FLN, 0.000437676
+OKC, 0.00043685
+CBB, 0.000436471
+SDF, 0.000436007
+TBS, 0.000435084
+COR, 0.000434475
+STT, 0.000433741
+NUE, 0.000433053
+ERS, 0.000432353
+JER, 0.000432335
+NYO, 0.000431596
+TJM, 0.000430999
+RTM, 0.000430699
+TRN, 0.000429245
+WRO, 0.000427003
+UUS, 0.000422553
+LBV, 0.000421925
+SZB, 0.000421659
+VVI, 0.000420618
+XNN, 0.000419915
+ORK, 0.000419414
+TPS, 0.00041898
+TSA, 0.000418526
+UNK, 0.000418017
+SWA, 0.000414149
+SCC, 0.000413453
+RUN, 0.000413101
+PEW, 0.000411931
+YKQ, 0.000411786
+KIN, 0.00041064
+IFN, 0.000410435
+GAL, 0.000410285
+DLM, 0.000409775
+KZN, 0.000406196
+YTZ, 0.000401252
+GAU, 0.000400072
+YNT, 0.000399367
+GRR, 0.000399065
+HFT, 0.000398642
+KTW, 0.000397409
+LEJ, 0.000396702
+SXB, 0.000396247
+JOG, 0.000395785
+JAV, 0.000395039
+MUR, 0.000394152
+ROV, 0.000391639
+KIV, 0.000389952
+HRG, 0.00038915
+NAQ, 0.000389115
+HBE, 0.000388875
+NUS, 0.000388723
+LIR, 0.000387983
+NOU, 0.000387789
+LBD, 0.000387326
+BHM, 0.000386848
+LXA, 0.000385435
+GSP, 0.000384714
+GMP, 0.00038431
+PGD, 0.000384121
+YTL, 0.000383765
+RAO, 0.00038325
+YYT, 0.000383132
+AMD, 0.000382857
+ADQ, 0.000382542
+OMA, 0.000382246
+LIF, 0.000381943
+FLR, 0.000381599
+PFO, 0.000381589
+TRV, 0.000381397
+BFS, 0.000381059
+YGW, 0.000379806
+PSP, 0.000379508
+LET, 0.000379316
+BUF, 0.00037907
+SCO, 0.00037904
+CGA, 0.000378312
+SNN, 0.000378101
+YWK, 0.000377697
+UFA, 0.00037762
+NSI, 0.000377326
+SOU, 0.000375393
+MAG, 0.000374694
+KSM, 0.000373988
+SOQ, 0.000373083
+AWZ, 0.000372919
+JRO, 0.000372588
+IEV, 0.000371455
+BND, 0.000371405
+BZV, 0.000370496
+JHB, 0.000369696
+RIC, 0.000369442
+ORF, 0.000369314
+KUF, 0.000369111
+CGR, 0.000368772
+WAA, 0.000368438
+UAK, 0.000366764
+HPN, 0.000365791
+TUL, 0.000365717
+NBE, 0.000365378
+JIB, 0.000361974
+CHS, 0.00036124
+VVO, 0.000360623
+BIA, 0.000360053
+MDZ, 0.000359
+WMI, 0.000358915
+GYN, 0.000358854
+KWN, 0.000358651
+SPR, 0.000358525
+SAP, 0.000356603
+SKP, 0.000356249
+BOI, 0.000355085
+PLJ, 0.000354733
+EBL, 0.000354038
+MAH, 0.000353152
+YVQ, 0.000352963
+MVD, 0.00035285
+MUA, 0.000352616
+CCJ, 0.000352311
+DJE, 0.000350879
+AGA, 0.000350747
+BKO, 0.000349686
+ZAD, 0.000348114
+PNH, 0.000347781
+MSA, 0.000346311
+DSM, 0.000345684
+NGS, 0.000345188
+AER, 0.000344968
+TYS, 0.000344001
+ROC, 0.000343767
+LJU, 0.000343115
+XBE, 0.00034168
+ADE, 0.000341638
+WUX, 0.000341156
+DSN, 0.000341036
+ZGS, 0.000340942
+SDJ, 0.000340793
+LOP, 0.000340477
+EXT, 0.000339322
+TFN, 0.00033878
+YTH, 0.000338705
+DVO, 0.00033602
+LFW, 0.000335925
+VVC, 0.000334127
+TER, 0.000331739
+CRD, 0.00033172
+RBY, 0.000331716
+BWN, 0.000331619
+LST, 0.000330948
+YLW, 0.00033055
+DZA, 0.000330308
+HMO, 0.000329066
+SSH, 0.000328833
+OUA, 0.000326299
+VRN, 0.000325724
+ASU, 0.000325649
+JJN, 0.000325376
+XUZ, 0.000324985
+TAL, 0.000324124
+WSX, 0.000323908
+YCU, 0.000323585
+PVD, 0.000322618
+TUS, 0.000322547
+LIT, 0.000322185
+CWL, 0.00032215
+ONT, 0.000321968
+CZX, 0.000321537
+PNP, 0.000320946
+VEE, 0.000320941
+TXN, 0.000319413
+REL, 0.000318641
+KPN, 0.000318559
+ASP, 0.000317944
+GSE, 0.000317277
+DAY, 0.00031669
+LUV, 0.000316466
+SYR, 0.000315228
+BOB, 0.000314489
+MRV, 0.000313122
+MDK, 0.000312759
+ADZ, 0.00031256
+YPX, 0.000312339
+PMC, 0.000311939
+BJV, 0.000311389
+TTN, 0.000311254
+YAT, 0.00031091
+BAV, 0.000310631
+MPL, 0.000310552
+PTP, 0.000309692
+SCQ, 0.000309478
+KLG, 0.000309121
+YXS, 0.000309053
+TMM, 0.000308917
+FBM, 0.000306337
+YHR, 0.000306286
+PAP, 0.000306184
+FMM, 0.000306159
+PZO, 0.000305921
+YIF, 0.000305131
+NHV, 0.000304718
+AUQ, 0.000304718
+EMK, 0.000304604
+PIK, 0.000303943
+KBL, 0.000303919
+UDI, 0.000303662
+VPE, 0.000303595
+MGQ, 0.000303583
+MKW, 0.00030269
+BTT, 0.000302523
+GBE, 0.000302488
+OMS, 0.000302313
+SUF, 0.000302288
+YFH, 0.000301682
+STM, 0.000301397
+RNO, 0.000301203
+THU, 0.000300645
+HYL, 0.000299413
+SZG, 0.000299322
+PQS, 0.00029788
+CCV, 0.000297783
+PNQ, 0.00029772
+ZSJ, 0.000297364
+TGU, 0.000296985
+MNG, 0.000296184
+MDL, 0.000296152
+LRE, 0.000295947
+VIX, 0.000294789
+GCW, 0.000294731
+SPB, 0.000294731
+TKJ, 0.000294731
+SSB, 0.000294731
+BLD, 0.000294731
+CKX, 0.000294731
+AZI, 0.000294725
+DHB, 0.000294373
+XNA, 0.000293512
+RFP, 0.000290868
+KTS, 0.000290789
+TJA, 0.000290263
+MPA, 0.00028993
+NDU, 0.00028993
+GOJ, 0.000289219
+GSO, 0.000289022
+YHI, 0.000288704
+YCB, 0.000288285
+BRC, 0.000286756
+BHD, 0.000286678
+GUR, 0.000286543
+YTS, 0.000285855
+MMX, 0.000284272
+AKP, 0.000283996
+RSH, 0.000283355
+KOA, 0.00028314
+BDJ, 0.000282732
+KUN, 0.000282413
+EGM, 0.000282406
+SRG, 0.000282401
+XMH, 0.000282283
+MIG, 0.000282283
+BUR, 0.000282059
+BME, 0.000280938
+CZL, 0.00028087
+TIA, 0.000280815
+KOJ, 0.000280166
+OSS, 0.0002797
+YRB, 0.000279627
+MGF, 0.00027924
+POZ, 0.000279134
+KOE, 0.000278892
+SCW, 0.000277962
+PHO, 0.000277386
+APL, 0.000276625
+BDO, 0.000276126
+PNR, 0.000276122
+YGT, 0.000276064
+BHY, 0.000275578
+YNA, 0.000275515
+CEK, 0.000275332
+LEX, 0.00027519
+VDS, 0.000275036
+ZKE, 0.000274838
+ILO, 0.000274541
+RGL, 0.000273988
+NAT, 0.000273698
+BDS, 0.000273626
+DRS, 0.000273435
+INB, 0.000273272
+CTL, 0.000273179
+MAS, 0.000273156
+NLA, 0.000272878
+USM, 0.00027269
+BTS, 0.000272594
+WJR, 0.000271561
+TBZ, 0.000271148
+GCI, 0.000270817
+FKB, 0.000270664
+CMA, 0.000270109
+YPH, 0.00027002
+CLJ, 0.000269985
+CYF, 0.000269781
+BEN, 0.000269645
+TZA, 0.00026952
+NDJ, 0.000269299
+ACK, 0.000269296
+KIH, 0.000269193
+YZS, 0.000268697
+TOH, 0.000268609
+MTV, 0.000268609
+YKU, 0.000268591
+GOI, 0.000268395
+GIU, 0.00026758
+ARH, 0.00026705
+GOA, 0.000266793
+KOT, 0.000265588
+YIW, 0.000265541
+FEZ, 0.000265236
+PRN, 0.000265219
+BOC, 0.00026512
+TGJ, 0.000264951
+UVE, 0.000264951
+RCE, 0.000264712
+ICT, 0.000264384
+YHO, 0.00026426
+YVO, 0.000263438
+SAV, 0.00026275
+LIH, 0.000262378
+ZGU, 0.000261695
+SLH, 0.000261695
+WBB, 0.000261656
+ANV, 0.000261521
+KGX, 0.000261521
+TET, 0.000261303
+PKN, 0.000261233
+KKH, 0.000261019
+YIH, 0.000260926
+LYI, 0.000260703
+MHT, 0.000260277
+FNA, 0.000259842
+ANF, 0.000259626
+SRZ, 0.000259096
+ONG, 0.000258206
+MDT, 0.000258119
+SGC, 0.000258005
+LGB, 0.000257896
+BGW, 0.000257539
+ZQN, 0.00025742
+SSG, 0.000257119
+AKI, 0.00025693
+KKI, 0.00025693
+LWO, 0.000256814
+TWB, 0.000256518
+YKG, 0.000256455
+SEZ, 0.00025645
+ELP, 0.000255863
+CUZ, 0.000255519
+AQP, 0.000255519
+PMR, 0.000255393
+SLZ, 0.000254223
+YMN, 0.000254108
+ZRJ, 0.000253958
+MJV, 0.000253549
+PUQ, 0.000253445
+CID, 0.00025271
+FAT, 0.00025195
+ZNZ, 0.000251729
+IRA, 0.000251687
+AJU, 0.000251376
+BOH, 0.000251306
+MAR, 0.000251256
+SDR, 0.000251083
+LYG, 0.000250913
+HSL, 0.000250846
+CNP, 0.000250823
+YZG, 0.000250775
+CIK, 0.000250702
+ZEL, 0.000250508
+COS, 0.000250504
+MOU, 0.000250281
+NZH, 0.000250273
+PNI, 0.000250234
+SHX, 0.0002498
+HCR, 0.0002498
+YMO, 0.000249633
+UUD, 0.000249594
+ZHA, 0.000248521
+YYY, 0.000247698
+LDB, 0.000247509
+ZAH, 0.000247273
+IPA, 0.000247127
+LKO, 0.000246888
+FRD, 0.000246581
+CUU, 0.000246452
+FDF, 0.000246176
+HGA, 0.000246141
+SKK, 0.000246106
+BEW, 0.000245572
+CCP, 0.000245566
+KWK, 0.000245326
+MGZ, 0.000245161
+GLV, 0.000245144
+KIJ, 0.000245133
+OGX, 0.000245027
+YYQ, 0.000244909
+YWB, 0.000244649
+NUP, 0.000244537
+LZH, 0.000243966
+KWA, 0.000243792
+DMD, 0.000243637
+SLY, 0.000243609
+KWT, 0.000243588
+TLT, 0.000243588
+HUH, 0.000243523
+PWM, 0.000243485
+RIA, 0.000243031
+SCM, 0.000242878
+UAP, 0.000242393
+UAH, 0.000242393
+YTY, 0.000241637
+ZYI, 0.000241412
+YIK, 0.000241387
+SAE, 0.000240888
+JUU, 0.000240888
+IOT, 0.000240888
+IKE, 0.000240888
+LLW, 0.000240672
+FKQ, 0.000240293
+KKA, 0.000240205
+MUB, 0.000240148
+SID, 0.000239902
+LNE, 0.000239514
+MBA, 0.000239393
+YQR, 0.000239385
+YXE, 0.000239385
+THE, 0.000239328
+YCO, 0.000239159
+LKE, 0.000239096
+UET, 0.000238893
+MSN, 0.000238645
+ATT, 0.000238322
+KLW, 0.000238244
+ALF, 0.000238119
+CLM, 0.000238084
+ESD, 0.000238084
+FAR, 0.000238052
+EDL, 0.000238045
+CTG, 0.000237903
+YMM, 0.000237867
+BTI, 0.00023771
+HLD, 0.000237696
+BVI, 0.000237395
+MAJ, 0.000237197
+YPJ, 0.000237163
+EEK, 0.000236011
+RUR, 0.000235935
+KUK, 0.00023568
+REU, 0.000235656
+YSO, 0.000235547
+AHE, 0.00023491
+GEG, 0.000234874
+MLH, 0.000234704
+MLI, 0.000234571
+TLC, 0.000234544
+YWH, 0.0002341
+CBR, 0.00023403
+NIM, 0.000233991
+LLU, 0.000233822
+QUW, 0.000233822
+HPB, 0.000233727
+VAK, 0.000233727
+FWA, 0.0002336
+VER, 0.000233435
+AHB, 0.000233254
+IOS, 0.000233184
+HTA, 0.000233153
+PIA, 0.000232943
+BCV, 0.000232778
+RTB, 0.000232568
+IGU, 0.000232326
+SJJ, 0.000232324
+UVF, 0.000231833
+YFA, 0.000231745
+MEH, 0.000231642
+BJX, 0.000231544
+OBU, 0.000231383
+CAK, 0.000231278
+LCE, 0.000230889
+WWK, 0.000230653
+MZT, 0.000230307
+YNZ, 0.000230286
+WNR, 0.000230131
+CGP, 0.000229476
+YXP, 0.000229444
+HIA, 0.000229401
+RAS, 0.000229319
+YHD, 0.000229255
+PNS, 0.00022925
+JEG, 0.000229212
+VTZ, 0.000229158
+XRY, 0.000228721
+ASB, 0.000228311
+SRE, 0.000227998
+YAB, 0.000227821
+LEI, 0.00022727
+UKB, 0.000227006
+PHE, 0.000226983
+DYG, 0.000226754
+ELI, 0.000226734
+NSK, 0.000226579
+PLM, 0.000226372
+YEK, 0.00022625
+TQA, 0.000226175
+IUI, 0.000226175
+KHQ, 0.000226175
+KGQ, 0.000226175
+UPK, 0.000226175
+NSQ, 0.000226175
+GKA, 0.000226035
+AAL, 0.000225539
+ELQ, 0.000225295
+NUX, 0.000225239
+DIE, 0.000225156
+DOK, 0.000224836
+FBS, 0.000224456
+BEU, 0.000224424
+NOC, 0.000224343
+NKC, 0.000224325
+ROS, 0.000224151
+JUB, 0.000223935
+WRG, 0.000223924
+POP, 0.000223834
+ABL, 0.000223538
+AUK, 0.000223437
+ASM, 0.00022318
+MCZ, 0.000222811
+BVC, 0.000222313
+CEE, 0.000222252
+DLG, 0.000222121
+JHS, 0.00022179
+WBQ, 0.000221719
+SVS, 0.000221719
+IQQ, 0.000221684
+RIY, 0.000221576
+ODS, 0.000221405
+ADA, 0.000221204
+GOM, 0.000221023
+YQC, 0.000220848
+PND, 0.000220655
+TIH, 0.000220634
+FPO, 0.000220563
+MKY, 0.000220409
+SPN, 0.000220381
+PKU, 0.00022023
+SHG, 0.000220204
+NKM, 0.000220084
+YYH, 0.000219572
+YHK, 0.000219572
+YUD, 0.000219282
+TMR, 0.000219263
+CIT, 0.000219099
+JAI, 0.000219076
+EUG, 0.000218883
+JHG, 0.00021883
+GND, 0.000218826
+SXP, 0.000218643
+UKK, 0.000218568
+PSG, 0.000218513
+KMQ, 0.000218054
+INV, 0.000217748
+DRG, 0.00021774
+ORV, 0.00021774
+IAN, 0.00021774
+BKC, 0.00021774
+POL, 0.000217677
+FSD, 0.000217655
+NJC, 0.00021741
+BLI, 0.00021714
+SGF, 0.000216912
+YAX, 0.000216838
+PUY, 0.000216696
+KPV, 0.000216218
+KBR, 0.000216193
+YQK, 0.000216175
+CIH, 0.000216057
+KTB, 0.00021589
+VSA, 0.000215831
+YSM, 0.000215809
+CIJ, 0.00021558
+YDF, 0.000214997
+SJP, 0.000214843
+VFA, 0.000214781
+HNH, 0.000214514
+HNS, 0.000214514
+SGY, 0.000214514
+GST, 0.000214514
+HAH, 0.00021447
+BIQ, 0.000214462
+HIJ, 0.000214222
+KOC, 0.000214216
+CZM, 0.000214083
+MQX, 0.000213957
+VOG, 0.000213841
+CAE, 0.000213836
+SLA, 0.000213536
+SGO, 0.000213516
+SEN, 0.000213492
+LZO, 0.000213235
+KLO, 0.000213231
+YYJ, 0.000213209
+YAG, 0.000213175
+AKV, 0.000213171
+IOM, 0.000213116
+IRG, 0.000213009
+YSB, 0.00021296
+YSY, 0.00021245
+FKI, 0.000212412
+SBN, 0.000212236
+ETH, 0.000212213
+VNS, 0.000212093
+DOM, 0.000211709
+LCR, 0.000211382
+BLA, 0.000211082
+YLH, 0.000211052
+BTV, 0.000210993
+SXR, 0.000210777
+SHH, 0.000210624
+SBW, 0.000210563
+WIN, 0.000210537
+ZTH, 0.000210239
+SIT, 0.000210192
+USH, 0.000210177
+ZAM, 0.000210171
+FTA, 0.000209896
+AWD, 0.000209896
+WMN, 0.000209743
+NSN, 0.000209691
+HLZ, 0.000209691
+EDA, 0.00020967
+EVE, 0.0002095
+TNG, 0.000209325
+SLQ, 0.000209211
+ISP, 0.000208891
+TGD, 0.000208755
+CKS, 0.000208386
+KGD, 0.000208348
+HOR, 0.000208184
+DGA, 0.000207949
+IMF, 0.000207927
+MUX, 0.000207812
+CHY, 0.000207475
+AZR, 0.000207333
+CIF, 0.000207275
+VAO, 0.000207189
+BOJ, 0.000207114
+ABE, 0.000206576
+FDH, 0.00020652
+GDT, 0.000206229
+MGA, 0.000206183
+YIO, 0.000205942
+JQA, 0.000205667
+YGH, 0.000205655
+CJC, 0.000205518
+LSC, 0.000205518
+NYK, 0.000205416
+BPS, 0.000205373
+NQN, 0.000205203
+BBO, 0.000205129
+LPQ, 0.000205011
+MID, 0.000204927
+BRN, 0.000204715
+PVH, 0.000204573
+APW, 0.000204454
+AKB, 0.000204454
+IKO, 0.000204454
+KQA, 0.000204454
+JCB, 0.000204432
+BAQ, 0.000204344
+HME, 0.000204301
+HSV, 0.0002042
+ACR, 0.000203688
+PIR, 0.000203573
+WLS, 0.000203519
+NTL, 0.000203469
+PGA, 0.000202915
+RMT, 0.000202882
+MAU, 0.000202607
+CRW, 0.000202425
+PTH, 0.000202362
+KCQ, 0.000202362
+YAC, 0.000202315
+HMA, 0.000202235
+CRK, 0.000202119
+YAK, 0.000202117
+YPM, 0.000202085
+MYJ, 0.000201961
+YBX, 0.000201952
+FSC, 0.000201755
+JCK, 0.000201702
+PSC, 0.000201673
+RBR, 0.00020163
+BHQ, 0.000201206
+GEO, 0.000200731
+SKT, 0.000200544
+NDR, 0.00020029
+ROA, 0.00020026
+ULP, 0.000200066
+MWZ, 0.000199808
+NMA, 0.000199626
+CGY, 0.000199621
+WWT, 0.00019952
+PBM, 0.000199498
+OKJ, 0.000199372
+BHI, 0.000198942
+ACY, 0.000198729
+DUD, 0.000198534
+TIF, 0.000198523
+KOW, 0.000198489
+TBU, 0.000198118
+YBK, 0.000198114
+KTA, 0.000198071
+BES, 0.000197797
+MAB, 0.000197758
+JIJ, 0.000197498
+CJB, 0.000197317
+JAN, 0.000197246
+JPA, 0.000196905
+PFB, 0.000196846
+NTG, 0.000196842
+YXN, 0.000196779
+HTY, 0.000196727
+YCY, 0.000196505
+ZBR, 0.000196151
+BVG, 0.000195979
+CKY, 0.000195884
+ZFN, 0.00019534
+TRK, 0.000194461
+ISG, 0.000194135
+ULB, 0.000193956
+EGO, 0.000193577
+YKL, 0.000193496
+TSR, 0.000192845
+PUU, 0.000192664
+BMI, 0.000192592
+MOZ, 0.000192546
+LIG, 0.000192496
+YHU, 0.000192465
+JNS, 0.000192231
+VLN, 0.000192204
+AET, 0.000191774
+LLA, 0.000191633
+OOK, 0.00019151
+YWP, 0.000191449
+KGA, 0.000191378
+YNP, 0.00019133
+YXJ, 0.00019132
+SQS, 0.000191123
+CUK, 0.000191123
+NAG, 0.000191043
+PVK, 0.000190559
+ZTB, 0.000189952
+ZLT, 0.00018978
+YCS, 0.000189773
+YUT, 0.000189773
+KKN, 0.000189526
+NBX, 0.00018949
+MIR, 0.000189471
+STI, 0.000188987
+FLW, 0.000188857
+QFN, 0.000188826
+AVL, 0.00018872
+SMK, 0.00018864
+IDR, 0.00018863
+TLA, 0.000188624
+CUL, 0.000188618
+PPS, 0.00018839
+YQM, 0.000187965
+YMT, 0.000187958
+CLY, 0.00018785
+IXE, 0.000187618
+YFO, 0.000187589
+YQD, 0.000187589
+CHA, 0.000187551
+ECN, 0.000187306
+YUX, 0.000187197
+GTF, 0.000187125
+KAN, 0.00018695
+YVB, 0.000186732
+JNG, 0.000186685
+GFK, 0.000186645
+BQL, 0.000186639
+DNK, 0.000186565
+BUC, 0.000186398
+LWY, 0.000186384
+VRA, 0.000186306
+NYM, 0.000186233
+MQN, 0.000186083
+KMI, 0.00018607
+IGG, 0.000186062
+KCL, 0.000186062
+UGB, 0.000186062
+EGX, 0.000186062
+MYT, 0.000185561
+CDV, 0.000185345
+YSK, 0.000185108
+UAS, 0.000184995
+MRE, 0.000184995
+ROR, 0.00018484
+SVA, 0.000184754
+GAM, 0.000184754
+TKX, 0.00018466
+XFN, 0.00018465
+LYA, 0.000184246
+KSA, 0.000184184
+MSO, 0.000183993
+WUS, 0.000183826
+PGU, 0.000183825
+IQT, 0.000183312
+LNB, 0.000183241
+BZN, 0.000183133
+BTU, 0.000183082
+PEI, 0.000182854
+TLE, 0.000182733
+TNK, 0.000182719
+TWU, 0.000182596
+MQL, 0.000182559
+FAV, 0.000182446
+MVT, 0.000182446
+KMJ, 0.000182188
+BYN, 0.000182121
+LPS, 0.000181871
+AES, 0.000181669
+FNT, 0.000181528
+SDV, 0.000181455
+HFA, 0.000181455
+UNG, 0.000181208
+TRW, 0.000181201
+MJZ, 0.000181129
+LNV, 0.0001811
+FUG, 0.000180987
+GRZ, 0.000180918
+RAP, 0.000180906
+SBH, 0.000180884
+ARC, 0.00018061
+NOS, 0.000180382
+BWT, 0.000180354
+YNB, 0.000180157
+MFR, 0.000179956
+PIZ, 0.000179673
+RNL, 0.000179622
+BNY, 0.000179622
+XCH, 0.000179497
+BBA, 0.000179324
+AGU, 0.000179193
+YWJ, 0.000179119
+TVU, 0.000179031
+SVU, 0.000179031
+FMO, 0.000178931
+VAI, 0.000178852
+DOB, 0.000178708
+KVL, 0.00017841
+RZE, 0.000178326
+INU, 0.000178214
+KGE, 0.000178213
+EGC, 0.000178064
+TRS, 0.00017793
+KVG, 0.000177692
+ZEM, 0.000177687
+MLM, 0.000177603
+GEV, 0.00017755
+TUU, 0.000177546
+LOD, 0.000177345
+HKN, 0.000177312
+GMA, 0.000177132
+PNK, 0.000177079
+TRO, 0.000176972
+EQS, 0.000176884
+YNC, 0.000176802
+PBH, 0.000176529
+UME, 0.000176488
+YBG, 0.000176364
+YPO, 0.000176347
+NDY, 0.000176342
+SLU, 0.000176314
+TMP, 0.000176102
+JMK, 0.000176093
+TVY, 0.000176021
+YER, 0.000175933
+XKS, 0.000175933
+BUA, 0.000175923
+YGL, 0.000175898
+BKY, 0.000175859
+IMP, 0.000175829
+ATK, 0.000175792
+AIN, 0.000175792
+GSM, 0.000175701
+WMO, 0.000175691
+YAM, 0.000175684
+GUW, 0.000175513
+EYW, 0.000175412
+KBV, 0.000175297
+BDA, 0.000175059
+ATW, 0.00017505
+LLI, 0.000175016
+TGO, 0.00017501
+GEL, 0.000174805
+RNA, 0.000174594
+NNB, 0.000174594
+PKZ, 0.000174527
+BJL, 0.000174402
+BBI, 0.000174182
+YGR, 0.00017396
+FTE, 0.000173882
+YBL, 0.000173816
+NJF, 0.000173792
+LRR, 0.000173287
+HAU, 0.000173158
+NVT, 0.000173136
+RPR, 0.000173047
+TBG, 0.000172987
+STG, 0.000172949
+SNP, 0.000172949
+FSZ, 0.000172752
+HTI, 0.000172686
+MXH, 0.000172583
+ERM, 0.000172383
+LBB, 0.000172126
+AUU, 0.000172069
+MAF, 0.000172001
+SVR, 0.000171984
+MMK, 0.000171404
+NUI, 0.000171367
+WXN, 0.000171018
+YAY, 0.000170947
+JDO, 0.000170836
+LKN, 0.000170587
+YGJ, 0.000170161
+QUV, 0.000170137
+YDP, 0.000169991
+FLS, 0.00016999
+JSH, 0.000169985
+KGF, 0.000169849
+LAP, 0.0001696
+LRM, 0.000169533
+OVD, 0.000168965
+DAU, 0.000168903
+DLY, 0.000168888
+VAR, 0.000168803
+AFA, 0.000168571
+BCD, 0.000168566
+AOI, 0.000168418
+YXY, 0.000168157
+LOK, 0.000168005
+ZPB, 0.000167974
+MJF, 0.000167931
+HKD, 0.000167865
+RNS, 0.000167754
+CGD, 0.00016773
+PGK, 0.000167506
+CJS, 0.000167409
+JDZ, 0.000167317
+RBA, 0.000166963
+KLL, 0.000166885
+PIP, 0.000166885
+WSN, 0.000166885
+KCG, 0.000166885
+JTR, 0.000166715
+OND, 0.00016671
+BHE, 0.000166274
+NPL, 0.000166274
+NPE, 0.000166274
+ROT, 0.000166274
+TRG, 0.000166274
+CCF, 0.000166266
+TUB, 0.000166236
+YTE, 0.000166077
+ATQ, 0.000166035
+ISU, 0.000166005
+KNG, 0.000165981
+MRA, 0.000165927
+SLP, 0.000165926
+OUD, 0.000165694
+LAU, 0.000165681
+LGK, 0.000165416
+DIB, 0.000165325
+PNZ, 0.000165187
+LPM, 0.000164952
+SWJ, 0.000164952
+AAR, 0.000164918
+IXB, 0.00016491
+VII, 0.000164619
+YHY, 0.000164504
+HEH, 0.000164409
+PPW, 0.000164271
+VXE, 0.000164213
+JFR, 0.000164191
+AOJ, 0.000164189
+HRK, 0.000164117
+CNJ, 0.000164069
+SVI, 0.000163862
+SDK, 0.000163638
+NEV, 0.000163591
+TIM, 0.000163502
+TLJ, 0.000163437
+ANM, 0.00016332
+MJT, 0.000163315
+RBV, 0.000163294
+PLZ, 0.000163246
+ELS, 0.000163246
+YQQ, 0.000163102
+YGZ, 0.000163051
+KVD, 0.000162937
+TLH, 0.000162872
+XAP, 0.000162793
+LUQ, 0.000162762
+TAI, 0.000162681
+SSJ, 0.000162658
+RDM, 0.000162621
+YTQ, 0.000162595
+KSU, 0.000162422
+KND, 0.000162414
+ASF, 0.000162334
+CKD, 0.000162065
+MQP, 0.000161977
+ANX, 0.000161933
+KER, 0.000161622
+CYS, 0.000161594
+GOV, 0.000161437
+GTE, 0.000161437
+UCT, 0.000161248
+TZX, 0.000161213
+MST, 0.000161142
+NBC, 0.000161085
+NOV, 0.000160904
+SPP, 0.000160904
+UIB, 0.000160795
+JUL, 0.000160742
+ZKG, 0.000160717
+YRG, 0.000160673
+NWI, 0.00016055
+JMU, 0.000160231
+TRC, 0.000160089
+SBA, 0.000160052
+LGG, 0.000159784
+CPO, 0.000159783
+IGR, 0.000159709
+ISC, 0.00015954
+VDC, 0.000159455
+KUT, 0.00015913
+PAT, 0.000159021
+KAL, 0.000159011
+NUL, 0.000159011
+XTG, 0.000159006
+STX, 0.000158833
+PKA, 0.000158444
+PTU, 0.000158444
+KCT, 0.000158306
+REN, 0.000158143
+AAE, 0.000158063
+LXR, 0.000157994
+GJT, 0.000157994
+ZAL, 0.000157964
+TKU, 0.000157961
+FMN, 0.00015794
+BLK, 0.000157917
+SVB, 0.000157833
+TAK, 0.00015763
+BSR, 0.000157608
+YYE, 0.000157514
+REX, 0.000157496
+TPP, 0.000157423
+PCL, 0.000157423
+KRS, 0.000157345
+LVI, 0.000157276
+BNN, 0.00015717
+SOY, 0.000157143
+ROK, 0.00015707
+BLZ, 0.000156951
+JSU, 0.000156846
+TUK, 0.000156807
+TUP, 0.000156741
+ILP, 0.000156734
+TOU, 0.000156734
+MEE, 0.000156734
+KNQ, 0.000156734
+DAV, 0.000156693
+YBC, 0.00015664
+YXU, 0.00015661
+SVD, 0.000156565
+BJF, 0.000156381
+TOY, 0.000156194
+ROB, 0.000156079
+KXU, 0.000155923
+YNS, 0.000155801
+BQS, 0.000155715
+BFJ, 0.000155677
+PBC, 0.000155621
+PPV, 0.000155607
+HSN, 0.000155312
+UYN, 0.000155308
+POJ, 0.00015518
+MZV, 0.000155156
+VXO, 0.00015507
+DAT, 0.000155012
+LRH, 0.000154966
+NTN, 0.000154698
+CUQ, 0.000154669
+QOQ, 0.000154609
+SVJ, 0.000154502
+SRK, 0.000154459
+MHH, 0.000154449
+VHM, 0.000154374
+LYC, 0.000154374
+YUY, 0.00015431
+MRY, 0.000154259
+TQI, 0.000154165
+IOQ, 0.000154165
+SGG, 0.000154165
+KUZ, 0.000154165
+YBP, 0.000154098
+PBJ, 0.000153823
+RBQ, 0.000153747
+MIM, 0.000153672
+NNY, 0.000153568
+MVY, 0.000153456
+GLK, 0.000153298
+ARI, 0.000152941
+WNN, 0.000152908
+GBT, 0.000152864
+JGS, 0.000152824
+JQE, 0.000152637
+ACU, 0.000152637
+SIC, 0.000152637
+MPP, 0.000152637
+GHE, 0.000152637
+ORZ, 0.0001526
+CZH, 0.0001526
+CZJ, 0.000152599
+PSR, 0.000152587
+MNT, 0.000152575
+IRC, 0.000152575
+TFI, 0.00015254
+GLT, 0.000152226
+YVZ, 0.000152187
+WEF, 0.000152163
+HDY, 0.000152119
+IXJ, 0.000151952
+AXT, 0.000151933
+SOJ, 0.000151855
+ASW, 0.000151512
+LAN, 0.000151407
+JOI, 0.000151328
+JTC, 0.000151165
+DIR, 0.000151132
+MOL, 0.000150824
+OBY, 0.00015081
+OVS, 0.000150747
+BZR, 0.000150701
+TTE, 0.000150473
+LDH, 0.000150311
+PQQ, 0.000150311
+UBA, 0.000150298
+HYN, 0.000150253
+AQG, 0.000150115
+NNM, 0.00014995
+THL, 0.000149877
+AVP, 0.000149735
+GHA, 0.000149727
+RVV, 0.00014971
+SMI, 0.000149584
+KLX, 0.000149416
+LMM, 0.000149402
+BON, 0.000149165
+AZD, 0.000149145
+TKE, 0.000149053
+ELV, 0.000149053
+OIT, 0.000148956
+SKN, 0.000148676
+BYC, 0.000148612
+SDD, 0.000148565
+KAW, 0.000148403
+TGG, 0.000148341
+XEQ, 0.00014815
+VCA, 0.000147884
+HMI, 0.000147515
+MDQ, 0.000147486
+BUZ, 0.000147099
+AIU, 0.000146817
+UEL, 0.000146717
+BGR, 0.0001466
+AYQ, 0.000146575
+YPN, 0.000146372
+YGV, 0.000146372
+SKB, 0.000146292
+HRL, 0.000146023
+ILG, 0.000145924
+TOG, 0.000145827
+SMS, 0.00014576
+LWS, 0.00014573
+OXB, 0.00014564
+FMI, 0.000145281
+GZP, 0.000144976
+SLL, 0.000144851
+MFE, 0.000144766
+CHO, 0.00014453
+FEG, 0.000144503
+ACA, 0.000144218
+SRQ, 0.000143866
+CXH, 0.000143702
+NOJ, 0.00014358
+BIS, 0.000143528
+FCA, 0.000143524
+BUQ, 0.000143394
+SRY, 0.000143383
+IBR, 0.000143246
+VNX, 0.000143102
+INH, 0.000143102
+ZAZ, 0.00014309
+KPR, 0.00014306
+KFP, 0.000142629
+KVC, 0.000142629
+NLG, 0.000142629
+TAM, 0.000142539
+DSA, 0.000142323
+ZCL, 0.00014217
+NQY, 0.000142056
+LSI, 0.000141996
+TSH, 0.000141898
+MEA, 0.000141851
+EDR, 0.000141809
+KWM, 0.000141809
+TGZ, 0.000141745
+CFB, 0.000141726
+YVM, 0.000141723
+ZIH, 0.000141713
+SKZ, 0.000141592
+KGI, 0.000141415
+CCC, 0.00014141
+UGC, 0.000141375
+HUS, 0.00014119
+OAX, 0.000141082
+KNX, 0.000141081
+YXT, 0.000140953
+YYD, 0.000140953
+GGT, 0.000140935
+PAD, 0.000140896
+MQH, 0.000140879
+CAW, 0.000140459
+SPC, 0.000140427
+RFD, 0.0001404
+JIQ, 0.000140282
+NIB, 0.000140268
+TCT, 0.000140268
+INZ, 0.000140267
+CIY, 0.000140193
+NAO, 0.000140121
+SVK, 0.000139865
+HNA, 0.000139427
+VOZ, 0.000139371
+SOG, 0.000139322
+SOC, 0.000139254
+DOY, 0.000139198
+YZT, 0.000139157
+SYY, 0.000139129
+ENE, 0.000138847
+HDG, 0.000138769
+MDG, 0.000138658
+CHU, 0.000138653
+YQX, 0.000138599
+YNJ, 0.000138578
+NIQ, 0.00013851
+JUK, 0.00013851
+IAG, 0.000138486
+PBG, 0.000138141
+SHV, 0.000138101
+ERN, 0.000138059
+OLC, 0.000138059
+IRZ, 0.000138059
+SJL, 0.000138059
+TKK, 0.000138053
+BBK, 0.000138017
+BFL, 0.000137967
+KIF, 0.000137707
+RGA, 0.000137697
+BNK, 0.000137685
+YHM, 0.00013758
+RVK, 0.000137565
+AOK, 0.000137492
+GDX, 0.000137408
+MYD, 0.00013725
+QRO, 0.000137206
+PMW, 0.000137117
+TOE, 0.00013709
+BIK, 0.000137009
+OHE, 0.000136907
+PLW, 0.000136862
+ESM, 0.000136788
+KQT, 0.000136742
+YHP, 0.000136633
+YNO, 0.000136633
+PHF, 0.000136543
+DIG, 0.000136352
+AMA, 0.000136286
+CYB, 0.000136265
+SCU, 0.000136259
+ORX, 0.000136017
+EYK, 0.000135989
+NER, 0.00013584
+BNC, 0.000135699
+TMU, 0.000135679
+KHG, 0.000135566
+HBA, 0.000135356
+BMY, 0.000135251
+BMV, 0.000135241
+BBN, 0.000135167
+LGL, 0.000135167
+ODN, 0.000135167
+LKH, 0.000135167
+DPL, 0.00013463
+RMA, 0.00013452
+TIZ, 0.00013448
+SFA, 0.000134466
+YGX, 0.000134439
+RVE, 0.000134426
+TME, 0.000134426
+NME, 0.000134393
+WNA, 0.000134393
+GNU, 0.000134393
+MLL, 0.000134393
+WTL, 0.000134393
+SDL, 0.000134098
+PCR, 0.000134096
+MVP, 0.000134096
+PDA, 0.000134096
+ALH, 0.000134044
+BQB, 0.000134044
+MOB, 0.000133978
+SZZ, 0.000133967
+IAS, 0.000133951
+LRS, 0.000133671
+ELM, 0.000133515
+PYJ, 0.000133467
+LXS, 0.000133268
+SRV, 0.000133124
+SKD, 0.000133035
+CAY, 0.000132887
+RJK, 0.000132739
+LNZ, 0.000132601
+TIV, 0.000132483
+ELG, 0.000132457
+WVB, 0.000132391
+IFJ, 0.000132136
+AEY, 0.000132136
+EGS, 0.000132136
+EBA, 0.000132077
+GES, 0.000132065
+HVG, 0.000131995
+GZT, 0.000131992
+KYU, 0.000131907
+AUX, 0.000131883
+VPS, 0.000131866
+CFC, 0.000131665
+IPN, 0.000131664
+IXA, 0.0001315
+IXS, 0.0001315
+AJL, 0.0001315
+GWT, 0.000131481
+KHZ, 0.000131428
+KKR, 0.000131428
+HAS, 0.000131416
+OCC, 0.000131351
+GFF, 0.00013124
+BHS, 0.00013124
+PKE, 0.00013124
+NRA, 0.00013124
+UTH, 0.000131162
+CXJ, 0.000131115
+MJM, 0.000131071
+KWF, 0.000131056
+HYG, 0.000131056
+MTM, 0.000131056
+KCC, 0.000131056
+KPB, 0.000131056
+VAW, 0.000131041
+IPC, 0.000130838
+YPC, 0.000130651
+YUB, 0.000130651
+ZFM, 0.000130651
+ABD, 0.00013062
+EFL, 0.000130538
+HMB, 0.000130414
+ATZ, 0.000130414
+LKL, 0.000130298
+KRL, 0.000130228
+SZE, 0.000130156
+AOQ, 0.000130051
+SWF, 0.000130014
+RCM, 0.000129933
+QJH, 0.000129881
+QFG, 0.000129881
+LBJ, 0.000129713
+YOG, 0.000129686
+APO, 0.000129404
+IBE, 0.000129404
+MTR, 0.000129404
+PQC, 0.000129258
+PDP, 0.000129225
+NKI, 0.000129132
+AZS, 0.000129045
+OSY, 0.000128998
+ECP, 0.000128978
+CMP, 0.000128878
+LTX, 0.000128835
+WRY, 0.000128742
+NRL, 0.000128742
+BFN, 0.000128556
+GRJ, 0.000128556
+KEW, 0.000128463
+QSF, 0.000128337
+KDV, 0.000128305
+LBS, 0.000128305
+GNV, 0.000128234
+ELC, 0.000128128
+MGT, 0.000128128
+CFE, 0.000128105
+BJM, 0.00012808
+IVC, 0.000127715
+CEN, 0.00012765
+HLN, 0.000127641
+OTD, 0.000127562
+PYC, 0.000127562
+PVE, 0.000127562
+BFQ, 0.000127562
+PUE, 0.000127562
+SAX, 0.000127562
+CHX, 0.000127562
+OGM, 0.000127562
+PJM, 0.000127548
+GLF, 0.000127548
+KBC, 0.000127488
+LMA, 0.000127488
+CEM, 0.000127488
+MLY, 0.000127488
+HKB, 0.000127488
+RMP, 0.000127488
+HOG, 0.000127333
+YFC, 0.000127193
+BHV, 0.000127053
+MWX, 0.000126913
+IXL, 0.000126804
+LKG, 0.000126793
+ASV, 0.000126793
+KTL, 0.000126793
+UKA, 0.000126793
+MOQ, 0.000126761
+FTU, 0.000126761
+GIZ, 0.000126565
+KCZ, 0.000126508
+GAJ, 0.000126508
+DOU, 0.000126508
+GTO, 0.000126295
+ELD, 0.000126169
+ILM, 0.000126137
+BUS, 0.000125877
+CXR, 0.000125851
+SZA, 0.000125748
+VHC, 0.000125748
+MEG, 0.000125748
+CAB, 0.000125748
+EIS, 0.000125681
+MYU, 0.000125601
+YPL, 0.000125575
+GAN, 0.000125532
+WRE, 0.000125505
+TUO, 0.000125505
+GIS, 0.000125505
+IDA, 0.000125274
+WLK, 0.0001252
+WTK, 0.0001252
+AKY, 0.000124918
+SNW, 0.000124918
+LPD, 0.000124814
+TCD, 0.000124814
+CAC, 0.000124695
+JUJ, 0.000124692
+DAX, 0.000124647
+ZCO, 0.00012462
+LCG, 0.000124567
+DGO, 0.000124539
+ZLO, 0.000124539
+XSC, 0.000124502
+HEA, 0.000124446
+ACX, 0.000124444
+RTW, 0.000124365
+HAD, 0.000124266
+JUH, 0.000124264
+DIL, 0.000124226
+YKA, 0.000124146
+HOV, 0.000124071
+LYB, 0.00012401
+BRM, 0.000123951
+MOT, 0.00012376
+LBU, 0.000123697
+SIP, 0.000123685
+JZH, 0.000123638
+MXZ, 0.000123607
+PPQ, 0.000123538
+KZO, 0.000123462
+KAE, 0.000123345
+EXI, 0.000123345
+PEC, 0.000123345
+AGN, 0.000123345
+XSB, 0.000123318
+TKG, 0.000123313
+KNS, 0.000122943
+HAA, 0.000122941
+RET, 0.000122908
+LUR, 0.000122802
+KSH, 0.000122603
+COQ, 0.000122474
+ENU, 0.000122457
+KDH, 0.000122298
+BGA, 0.00012228
+CUC, 0.00012228
+ELH, 0.000122116
+IXR, 0.00012205
+PEE, 0.000121877
+YQF, 0.000121765
+TBI, 0.000121646
+CRI, 0.000121646
+ATC, 0.000121646
+MYG, 0.000121646
+IGA, 0.000121646
+AXP, 0.000121646
+LTI, 0.000121611
+JGD, 0.000121573
+AXA, 0.000121501
+TVS, 0.000121369
+BTK, 0.000121038
+PKC, 0.000120972
+ACV, 0.000120945
+ORI, 0.000120918
+HYA, 0.000120881
+YNG, 0.000120818
+ZVK, 0.000120807
+ZUM, 0.00012078
+ATY, 0.000120771
+KNH, 0.000120702
+MZG, 0.000120702
+AUY, 0.00012069
+KVX, 0.000120551
+CCK, 0.000120496
+TRZ, 0.000120478
+TEN, 0.000120437
+GRX, 0.000120369
+INN, 0.000120367
+POR, 0.000120274
+LUZ, 0.000120116
+GCC, 0.000120051
+RKS, 0.000120051
+DLH, 0.000120036
+BTC, 0.000120024
+TRR, 0.000120024
+STS, 0.000119823
+BHK, 0.000119816
+CVU, 0.000119733
+ABA, 0.000119682
+HTS, 0.000119615
+ETZ, 0.000119573
+YGP, 0.000119537
+GFN, 0.000119423
+KSJ, 0.000119287
+VBY, 0.000119178
+GDQ, 0.000119123
+AXU, 0.000119123
+PDG, 0.000119039
+MYA, 0.000119003
+YPY, 0.000118953
+KOO, 0.00011895
+TOL, 0.00011887
+SPI, 0.000118837
+YWL, 0.000118573
+YQZ, 0.000118573
+PZH, 0.000118547
+TRI, 0.000118291
+DBO, 0.000118219
+JKH, 0.000118086
+AKX, 0.000117994
+ERF, 0.000117944
+SNU, 0.000117806
+PMZ, 0.000117757
+JIC, 0.000117704
+PZU, 0.000117476
+TCQ, 0.000117304
+PEM, 0.000117304
+PIX, 0.000117165
+TOF, 0.000117113
+LUK, 0.000117044
+MOV, 0.00011702
+YXC, 0.000116851
+PAZ, 0.000116836
+BSA, 0.000116704
+MII, 0.000116667
+GXF, 0.000116632
+VAN, 0.000116518
+KIR, 0.000116504
+ASR, 0.000116451
+SYB, 0.000116336
+ZBF, 0.000116314
+KZB, 0.000116307
+KYK, 0.000116307
+USK, 0.000116307
+BTR, 0.000116272
+GPT, 0.000116272
+EVV, 0.000116206
+JGN, 0.000116106
+ZYL, 0.000116101
+YOP, 0.000116095
+YOJ, 0.000116095
+GRB, 0.000116045
+MBS, 0.000116045
+AZO, 0.000116045
+IXC, 0.000116025
+GRQ, 0.000115933
+CBT, 0.000115315
+SVP, 0.000115315
+DCM, 0.0001152
+DSK, 0.000115189
+YKT, 0.000115187
+MJN, 0.000115095
+FNJ, 0.000115062
+PIS, 0.000115022
+ZQW, 0.000114982
+EWB, 0.000114969
+BVE, 0.000114936
+MKK, 0.00011491
+VXC, 0.000114818
+IAM, 0.000114807
+DMU, 0.000114656
+FRO, 0.000114643
+HOT, 0.000114579
+MMY, 0.000114293
+DDC, 0.000114157
+LBL, 0.000114157
+MCX, 0.000113807
+GRP, 0.000113729
+TAE, 0.000113628
+KTG, 0.00011356
+KBU, 0.000113541
+BKG, 0.000113524
+FSP, 0.000113329
+OUZ, 0.000113262
+TCZ, 0.00011315
+DLU, 0.00011313
+RDV, 0.000113087
+URG, 0.000113068
+WRL, 0.000112887
+YDQ, 0.000112808
+LDE, 0.000112493
+LSP, 0.000112132
+OSD, 0.000112109
+SJK, 0.000112099
+MQM, 0.000112091
+DIY, 0.000112091
+EZS, 0.000112091
+GNY, 0.000112091
+TAB, 0.000111838
+TMS, 0.000111698
+JKL, 0.000111657
+PET, 0.000111573
+DIW, 0.000111489
+PLX, 0.000111412
+FAY, 0.000111352
+CUF, 0.000111279
+KDO, 0.000111165
+GKK, 0.000111165
+NYA, 0.000111106
+YQG, 0.000111102
+SCE, 0.000110982
+RIB, 0.00011093
+GYA, 0.00011093
+DRV, 0.000110833
+GLH, 0.000110825
+BTJ, 0.000110805
+URT, 0.000110783
+NDB, 0.000110571
+MMB, 0.000110565
+ALS, 0.00011039
+HAQ, 0.000110383
+MOC, 0.000110338
+MOF, 0.000110212
+TMC, 0.000110212
+OMD, 0.000110051
+CJJ, 0.000110015
+GOU, 0.000109844
+RVT, 0.000109832
+HMV, 0.000109819
+AJR, 0.000109819
+BRD, 0.000109725
+INL, 0.000109725
+IMT, 0.000109725
+RHI, 0.000109725
+DNH, 0.000109668
+WUA, 0.000109666
+LUM, 0.000109645
+EOI, 0.000109556
+DMB, 0.000109506
+MWF, 0.000109483
+WLH, 0.000109483
+SSR, 0.000109483
+HUN, 0.000109461
+VGO, 0.000109425
+TNW, 0.000109317
+BQN, 0.000109304
+NDG, 0.000109106
+HLH, 0.00010903
+OPS, 0.000108999
+YLC, 0.000108979
+KVA, 0.00010896
+MKM, 0.000108884
+PGF, 0.000108778
+PSO, 0.000108686
+ITO, 0.000108608
+MGB, 0.000108549
+CXF, 0.000108496
+ENY, 0.000108431
+BLJ, 0.000108387
+TLM, 0.000108387
+BJA, 0.000108387
+CEI, 0.00010826
+VCS, 0.000108186
+GIB, 0.000108023
+TUF, 0.000107789
+RLK, 0.000107728
+NLK, 0.000107723
+PPP, 0.000107723
+HVB, 0.000107723
+KDI, 0.000107679
+KUH, 0.000107588
+GHB, 0.000107581
+HDF, 0.000107518
+YIC, 0.000107504
+JHW, 0.000107342
+BFD, 0.000107342
+DUJ, 0.000107342
+FKL, 0.000107342
+DLI, 0.000107256
+PXU, 0.000107256
+BHO, 0.000107177
+MXL, 0.000107061
+MRX, 0.000107057
+ORB, 0.000107047
+PEG, 0.000106928
+FJR, 0.000106839
+ZDY, 0.000106839
+ZSA, 0.000106811
+SOW, 0.000106786
+IXZ, 0.000106757
+IGM, 0.000106397
+SHP, 0.000106265
+JIU, 0.000106261
+GWD, 0.000106246
+TNC, 0.000106234
+JXA, 0.000106176
+EVG, 0.000106136
+MXX, 0.000106136
+XBJ, 0.00010608
+RZR, 0.00010608
+ADU, 0.00010608
+NSH, 0.00010608
+GYS, 0.000106004
+KUA, 0.000105994
+AKJ, 0.000105892
+YYG, 0.000105805
+YSJ, 0.000105805
+SLI, 0.000105717
+HFS, 0.000105641
+RLG, 0.000105637
+ATM, 0.000105561
+MEU, 0.000105561
+GNM, 0.000105411
+LOH, 0.000105397
+CUE, 0.000105397
+JST, 0.000105201
+AOO, 0.000105201
+LSA, 0.0001051
+MIS, 0.0001051
+TYF, 0.000104971
+CCM, 0.000104839
+SHC, 0.000104831
+LDY, 0.000104571
+XQP, 0.00010451
+NBS, 0.000104131
+BLE, 0.000104119
+FRW, 0.000103996
+TJQ, 0.000103983
+SAF, 0.000103751
+URJ, 0.000103696
+KUD, 0.000103573
+MLN, 0.000103438
+CPR, 0.000103371
+NYU, 0.000103294
+SCZ, 0.000103282
+JJA, 0.000103282
+RUS, 0.000103282
+ATD, 0.000103282
+FRE, 0.000103282
+CFS, 0.000103096
+WGA, 0.000103096
+ABX, 0.000103096
+MCY, 0.000103096
+AIT, 0.000103029
+MUK, 0.000103029
+MGS, 0.000103029
+MOI, 0.000103029
+HUY, 0.000102946
+URA, 0.000102917
+OZC, 0.000102895
+MPH, 0.000102895
+TAC, 0.000102895
+LGP, 0.000102895
+SUG, 0.000102895
+USU, 0.000102895
+BXU, 0.000102895
+PAG, 0.000102895
+DGT, 0.000102895
+MUN, 0.000102811
+STD, 0.000102811
+VIG, 0.000102811
+OIA, 0.0001028
+RST, 0.000102701
+SLX, 0.000102641
+AXR, 0.00010261
+RKA, 0.00010261
+HOI, 0.00010261
+SJZ, 0.000102579
+DRO, 0.00010251
+PUF, 0.00010251
+CFR, 0.000102502
+GRI, 0.00010249
+CXI, 0.000102381
+LNK, 0.000102229
+PVU, 0.000102204
+SMR, 0.00010204
+CKB, 0.000101964
+MZR, 0.000101898
+HON, 0.000101889
+BUX, 0.000101882
+FUT, 0.000101873
+LFM, 0.00010185
+PBL, 0.000101822
+AGR, 0.000101776
+DEA, 0.000101646
+CLV, 0.000101582
+PPB, 0.000101582
+IXM, 0.000101408
+CZS, 0.000101338
+YCL, 0.000101186
+HRI, 0.000101043
+LMC, 0.000101011
+RYK, 0.000100969
+HLA, 0.000100909
+EBU, 0.000100427
+JIK, 0.000100357
+IZA, 0.000100294
+CMW, 0.000100211
+GDE, 0.000100167
+UUA, 0.000100166
+PBD, 0.000100072
+LBP, 0.000100048
+CDR, 0.000100004
+WWP, 9.99084e-05
+BRA, 9.98124e-05
+CDJ, 9.96478e-05
+BMU, 9.96433e-05
+HOD, 9.9531e-05
+KDM, 9.9487e-05
+SDP, 9.94455e-05
+VDZ, 9.94455e-05
+ENA, 9.94455e-05
+ADK, 9.94455e-05
+ILI, 9.94455e-05
+HOM, 9.94455e-05
+MLU, 9.93359e-05
+GRK, 9.93359e-05
+AEX, 9.93359e-05
+LFT, 9.93359e-05
+ORU, 9.92675e-05
+DJB, 9.9261e-05
+BKS, 9.9261e-05
+HDS, 9.91407e-05
+UTN, 9.91407e-05
+KIM, 9.91407e-05
+HEK, 9.91238e-05
+ASO, 9.9087e-05
+AMH, 9.9087e-05
+PWQ, 9.90423e-05
+OMH, 9.88949e-05
+VLS, 9.88688e-05
+TGH, 9.88688e-05
+EAE, 9.88688e-05
+FAE, 9.88416e-05
+LQM, 9.87977e-05
+SBP, 9.87844e-05
+KRN, 9.87576e-05
+KRF, 9.87576e-05
+QFX, 9.86506e-05
+MGM, 9.85195e-05
+CPV, 9.84582e-05
+RMF, 9.84462e-05
+MHQ, 9.84362e-05
+LRD, 9.83399e-05
+JTY, 9.81811e-05
+LBE, 9.78379e-05
+OKL, 9.77181e-05
+WMX, 9.77181e-05
+MKQ, 9.77181e-05
+ERZ, 9.77156e-05
+MLX, 9.77156e-05
+KCM, 9.77156e-05
+MSR, 9.77156e-05
+KSY, 9.77156e-05
+BAL, 9.77156e-05
+ERC, 9.77156e-05
+TVC, 9.77145e-05
+CWA, 9.77145e-05
+EAM, 9.76462e-05
+BHH, 9.76462e-05
+ABT, 9.76462e-05
+PHB, 9.7603e-05
+KSN, 9.74742e-05
+HOF, 9.73161e-05
+KTT, 9.72806e-05
+IJK, 9.72795e-05
+TJU, 9.72795e-05
+MHC, 9.72393e-05
+CBQ, 9.71322e-05
+QRW, 9.71322e-05
+ABB, 9.71322e-05
+PHC, 9.71322e-05
+QOW, 9.71322e-05
+BNI, 9.71322e-05
+BXB, 9.7063e-05
+BKM, 9.70184e-05
+PBU, 9.67854e-05
+TOB, 9.67423e-05
+OHH, 9.66518e-05
+VKT, 9.65565e-05
+TKP, 9.653e-05
+KOK, 9.6514e-05
+RDZ, 9.64973e-05
+PUW, 9.64473e-05
+AXD, 9.64295e-05
+BSC, 9.63192e-05
+NQU, 9.63192e-05
+ULK, 9.63018e-05
+TZL, 9.62307e-05
+CEC, 9.61578e-05
+YRA, 9.60992e-05
+YLE, 9.60992e-05
+YFJ, 9.60992e-05
+YSG, 9.60992e-05
+YFS, 9.60992e-05
+OSI, 9.60439e-05
+CRP, 9.60329e-05
+NCU, 9.59791e-05
+AHU, 9.58446e-05
+AZN, 9.57818e-05
+NVI, 9.57818e-05
+KSQ, 9.57818e-05
+XGR, 9.53984e-05
+MSJ, 9.53296e-05
+ASJ, 9.53296e-05
+TNO, 9.53259e-05
+PEU, 9.5195e-05
+ARU, 9.51622e-05
+AGS, 9.50707e-05
+OAJ, 9.50707e-05
+AXM, 9.4963e-05
+REG, 9.49501e-05
+PKY, 9.49456e-05
+MLG, 9.48809e-05
+VOL, 9.48706e-05
+NGQ, 9.48587e-05
+AAQ, 9.48542e-05
+NNT, 9.46698e-05
+PHS, 9.46698e-05
+ERI, 9.45059e-05
+BSK, 9.4485e-05
+FDE, 9.4465e-05
+SRP, 9.44305e-05
+XIL, 9.41925e-05
+FNI, 9.41522e-05
+KSC, 9.40551e-05
+KLV, 9.39062e-05
+AOR, 9.38555e-05
+PMF, 9.35336e-05
+BSG, 9.35152e-05
+STW, 9.34773e-05
+RDN, 9.34439e-05
+AVA, 9.336e-05
+YAP, 9.33385e-05
+BGM, 9.32749e-05
+HRM, 9.32443e-05
+AGT, 9.32151e-05
+MMU, 9.30791e-05
+KLU, 9.3052e-05
+IQN, 9.3032e-05
+XIC, 9.29542e-05
+AGF, 9.29515e-05
+YYU, 9.2805e-05
+SNE, 9.26994e-05
+SCN, 9.26745e-05
+PJA, 9.26514e-05
+LBC, 9.25473e-05
+FRS, 9.22711e-05
+ITH, 9.22241e-05
+LKB, 9.22125e-05
+VBV, 9.22125e-05
+FUN, 9.22125e-05
+ICI, 9.22125e-05
+ULH, 9.21873e-05
+YYB, 9.19058e-05
+OUL, 9.18563e-05
+SHB, 9.16428e-05
+WKJ, 9.16428e-05
+TID, 9.16298e-05
+RIG, 9.1628e-05
+JUZ, 9.14792e-05
+DDG, 9.14755e-05
+YCD, 9.13089e-05
+YCG, 9.13089e-05
+RSA, 9.11194e-05
+PMY, 9.11194e-05
+SDE, 9.11194e-05
+CPC, 9.11194e-05
+RES, 9.11194e-05
+SFN, 9.11194e-05
+TUC, 9.11194e-05
+VDM, 9.11194e-05
+FMA, 9.11194e-05
+UAQ, 9.11194e-05
+IRJ, 9.11194e-05
+PRA, 9.11194e-05
+CTC, 9.11194e-05
+RHD, 9.11194e-05
+PSS, 9.11194e-05
+KKC, 9.10046e-05
+UBP, 9.10046e-05
+FEN, 9.10038e-05
+LLF, 9.08634e-05
+MJD, 9.08445e-05
+MPN, 9.07876e-05
+VAS, 9.05601e-05
+JNZ, 9.05476e-05
+LYR, 9.00862e-05
+TSJ, 8.99984e-05
+FUJ, 8.99984e-05
+YQU, 8.98844e-05
+YXX, 8.98844e-05
+VQS, 8.9842e-05
+HIN, 8.96312e-05
+RSU, 8.96312e-05
+KPO, 8.96312e-05
+USN, 8.96312e-05
+KWJ, 8.96312e-05
+KYA, 8.95891e-05
+AEB, 8.95702e-05
+TAP, 8.9567e-05
+LNY, 8.954e-05
+LEQ, 8.94126e-05
+MGW, 8.93805e-05
+SDN, 8.93674e-05
+FKS, 8.91331e-05
+KEM, 8.8972e-05
+SXK, 8.89538e-05
+JOL, 8.88708e-05
+WUZ, 8.87517e-05
+EUN, 8.87384e-05
+VIL, 8.87384e-05
+KIT, 8.8604e-05
+JHM, 8.81676e-05
+SFG, 8.81106e-05
+UBJ, 8.80868e-05
+HSG, 8.80868e-05
+WMR, 8.79728e-05
+DED, 8.79712e-05
+GMR, 8.78187e-05
+MKP, 8.78187e-05
+CAP, 8.77585e-05
+CLQ, 8.77196e-05
+TPQ, 8.77196e-05
+BNB, 8.76738e-05
+CAJ, 8.75484e-05
+SNV, 8.75484e-05
+SUR, 8.75336e-05
+HJR, 8.74643e-05
+JKG, 8.74348e-05
+VCL, 8.73576e-05
+TBB, 8.73576e-05
+HUI, 8.73576e-05
+UIH, 8.73576e-05
+VDH, 8.73576e-05
+GCN, 8.73291e-05
+ABS, 8.7138e-05
+AGH, 8.71063e-05
+RNB, 8.71063e-05
+KLR, 8.71063e-05
+POI, 8.70264e-05
+UYU, 8.70264e-05
+KAZ, 8.70039e-05
+NAH, 8.70039e-05
+MNA, 8.70039e-05
+WSZ, 8.69457e-05
+TIU, 8.69457e-05
+BKZ, 8.66687e-05
+YQY, 8.66082e-05
+SHD, 8.61993e-05
+HPH, 8.61838e-05
+JLR, 8.61645e-05
+IXU, 8.61645e-05
+UDR, 8.61645e-05
+BDQ, 8.61645e-05
+IXD, 8.61645e-05
+STV, 8.61645e-05
+JDH, 8.61645e-05
+SAB, 8.60387e-05
+SGU, 8.60366e-05
+JAC, 8.60366e-05
+COD, 8.60366e-05
+ROP, 8.58852e-05
+VDE, 8.58025e-05
+HBX, 8.57107e-05
+MLW, 8.56739e-05
+PLQ, 8.56598e-05
+UTP, 8.55768e-05
+SFT, 8.55326e-05
+TLN, 8.54569e-05
+DYR, 8.53154e-05
+BDH, 8.52287e-05
+YKF, 8.50457e-05
+JBQ, 8.49954e-05
+HKK, 8.49786e-05
+GAE, 8.49038e-05
+CME, 8.48819e-05
+SLW, 8.48819e-05
+HUX, 8.48819e-05
+KOZ, 8.48547e-05
+OLH, 8.48547e-05
+KKB, 8.48547e-05
+AKK, 8.48547e-05
+KLN, 8.48547e-05
+AOS, 8.48547e-05
+DNR, 8.48472e-05
+BNX, 8.48086e-05
+AKF, 8.473e-05
+ASE, 8.47079e-05
+DIK, 8.45227e-05
+ISN, 8.45227e-05
+CMU, 8.43395e-05
+MDU, 8.43395e-05
+WBM, 8.43395e-05
+BUL, 8.43395e-05
+VGA, 8.42754e-05
+DLE, 8.41481e-05
+MMJ, 8.39431e-05
+GVR, 8.38813e-05
+AAX, 8.38813e-05
+UPN, 8.38671e-05
+STC, 8.38186e-05
+PUM, 8.35007e-05
+PSJ, 8.35007e-05
+MJU, 8.35007e-05
+BUW, 8.35007e-05
+LUW, 8.35007e-05
+CJL, 8.34337e-05
+GPA, 8.33888e-05
+VIJ, 8.33226e-05
+OWB, 8.32397e-05
+OSR, 8.31571e-05
+LCK, 8.30242e-05
+KKE, 8.2769e-05
+KAT, 8.2769e-05
+WAG, 8.2769e-05
+WHK, 8.2769e-05
+LEB, 8.27312e-05
+CYO, 8.26838e-05
+BAZ, 8.26555e-05
+PIN, 8.26555e-05
+TBT, 8.26555e-05
+CIZ, 8.26555e-05
+BVB, 8.26555e-05
+BEB, 8.26392e-05
+TEB, 8.23598e-05
+IGD, 8.22635e-05
+AJI, 8.22635e-05
+BGG, 8.22635e-05
+ADF, 8.22635e-05
+LZY, 8.2225e-05
+BPX, 8.2225e-05
+KHY, 8.21373e-05
+KHD, 8.21373e-05
+GCH, 8.21373e-05
+AFZ, 8.21373e-05
+IIL, 8.21373e-05
+BXR, 8.21373e-05
+PFQ, 8.21373e-05
+YES, 8.21373e-05
+BJB, 8.21373e-05
+SDG, 8.21373e-05
+DEF, 8.21373e-05
+CSH, 8.20417e-05
+SMA, 8.19182e-05
+SDY, 8.18968e-05
+OLF, 8.18968e-05
+GDV, 8.18968e-05
+GGW, 8.18968e-05
+HVR, 8.18968e-05
+SXO, 8.17877e-05
+MEB, 8.17877e-05
+FSM, 8.15837e-05
+WEI, 8.15401e-05
+ABM, 8.15401e-05
+HID, 8.15401e-05
+GXH, 8.15249e-05
+AAN, 8.14431e-05
+PNL, 8.14175e-05
+LMP, 8.12119e-05
+ROO, 8.11875e-05
+AFL, 8.11875e-05
+OAL, 8.11875e-05
+BVH, 8.11875e-05
+JPR, 8.11875e-05
+BRL, 8.11788e-05
+DEC, 8.11788e-05
+YUM, 8.11041e-05
+VST, 8.1056e-05
+LCH, 8.10051e-05
+BRO, 8.10051e-05
+TYR, 8.10051e-05
+CLL, 8.10051e-05
+SRX, 8.10021e-05
+LAQ, 8.10021e-05
+MHK, 8.09595e-05
+CMI, 8.09595e-05
+COU, 8.09595e-05
+PUG, 8.09162e-05
+OLP, 8.09162e-05
+KGC, 8.09162e-05
+WYA, 8.09162e-05
+CPD, 8.09162e-05
+PLO, 8.09162e-05
+CED, 8.09162e-05
+IPL, 8.08981e-05
+BZG, 8.08475e-05
+LSE, 8.07987e-05
+SMX, 8.06121e-05
+BOY, 8.06066e-05
+KOV, 8.05992e-05
+LMT, 8.04564e-05
+OTH, 8.04564e-05
+KRO, 8.04504e-05
+ULV, 8.04504e-05
+PPK, 8.04479e-05
+DZN, 8.04479e-05
+LPP, 8.0374e-05
+RTA, 8.03023e-05
+HGR, 8.02582e-05
+AQI, 8.00258e-05
+WAE, 8.00258e-05
+DWD, 8.00258e-05
+SHW, 8.00258e-05
+AJF, 8.00258e-05
+URY, 8.00258e-05
+RAE, 8.00258e-05
+APN, 8.00079e-05
+AKU, 7.97773e-05
+YIN, 7.97773e-05
+NYT, 7.97685e-05
+CSY, 7.96331e-05
+SKX, 7.96331e-05
+LLK, 7.96331e-05
+PED, 7.96331e-05
+MLB, 7.94762e-05
+DAB, 7.94762e-05
+EWN, 7.94762e-05
+GRW, 7.94569e-05
+ACH, 7.93358e-05
+LMN, 7.93284e-05
+VAA, 7.92551e-05
+TMJ, 7.89527e-05
+MCN, 7.88455e-05
+MQT, 7.8832e-05
+LWB, 7.88216e-05
+ZHY, 7.87965e-05
+ULZ, 7.87515e-05
+HVD, 7.87515e-05
+ULG, 7.87515e-05
+MXV, 7.87515e-05
+ULO, 7.87515e-05
+DLZ, 7.8732e-05
+GOQ, 7.84693e-05
+MCV, 7.83659e-05
+BGF, 7.82408e-05
+ORH, 7.81829e-05
+RMI, 7.80254e-05
+NOZ, 7.80251e-05
+BAX, 7.80251e-05
+KEJ, 7.80251e-05
+UTS, 7.79621e-05
+ART, 7.77846e-05
+HRO, 7.74993e-05
+LUD, 7.74601e-05
+PVA, 7.74191e-05
+MNS, 7.73448e-05
+NVA, 7.72947e-05
+VGZ, 7.72947e-05
+BUN, 7.72947e-05
+IPI, 7.72947e-05
+VUP, 7.72947e-05
+AUC, 7.72947e-05
+RCH, 7.72947e-05
+SJE, 7.72947e-05
+PPN, 7.72947e-05
+MZL, 7.72947e-05
+EJA, 7.72947e-05
+EYP, 7.72947e-05
+CZU, 7.72947e-05
+FLA, 7.72947e-05
+PGX, 7.71287e-05
+MQF, 7.70771e-05
+PBO, 7.70752e-05
+EPR, 7.70752e-05
+DCN, 7.70752e-05
+ZNE, 7.70752e-05
+GET, 7.70752e-05
+LEA, 7.70752e-05
+OZH, 7.70228e-05
+SBY, 7.70138e-05
+OZZ, 7.68491e-05
+MKL, 7.68478e-05
+ZAT, 7.67801e-05
+HHH, 7.67399e-05
+MEC, 7.65966e-05
+ETR, 7.65966e-05
+LGQ, 7.65966e-05
+XMS, 7.65966e-05
+TUA, 7.65776e-05
+ERL, 7.65617e-05
+UKS, 7.6503e-05
+EMD, 7.64697e-05
+BCI, 7.64697e-05
+BKQ, 7.64697e-05
+BDB, 7.64697e-05
+ZBL, 7.64697e-05
+PSE, 7.64057e-05
+AQJ, 7.63786e-05
+OSM, 7.63786e-05
+AOG, 7.62717e-05
+TMT, 7.6233e-05
+ITB, 7.6233e-05
+MTE, 7.62141e-05
+NAV, 7.61849e-05
+MZH, 7.61849e-05
+DNZ, 7.61849e-05
+KET, 7.60584e-05
+AVN, 7.59556e-05
+TVF, 7.59393e-05
+PZI, 7.56989e-05
+LDS, 7.56163e-05
+GPI, 7.56007e-05
+TCO, 7.56007e-05
+TTA, 7.55881e-05
+CMG, 7.55552e-05
+CGM, 7.55259e-05
+IAO, 7.55259e-05
+MRZ, 7.54628e-05
+LSY, 7.54628e-05
+AVV, 7.54628e-05
+ARM, 7.54628e-05
+TMW, 7.54628e-05
+OAG, 7.54628e-05
+YZY, 7.54012e-05
+IBA, 7.53872e-05
+SKO, 7.53872e-05
+YOL, 7.53872e-05
+GMO, 7.53872e-05
+ILR, 7.53872e-05
+CHG, 7.52936e-05
+HZH, 7.52376e-05
+DQA, 7.52146e-05
+SZI, 7.51734e-05
+NTX, 7.50828e-05
+VPY, 7.49092e-05
+HJJ, 7.48968e-05
+NVK, 7.45754e-05
+ACI, 7.45252e-05
+LRT, 7.4393e-05
+ESU, 7.42135e-05
+EKS, 7.41404e-05
+DEE, 7.41404e-05
+BVV, 7.41404e-05
+BSS, 7.40821e-05
+KTE, 7.40771e-05
+ATA, 7.38659e-05
+CIX, 7.38659e-05
+HUU, 7.38659e-05
+TGI, 7.38659e-05
+JAU, 7.38659e-05
+AYP, 7.38659e-05
+TBP, 7.38659e-05
+ANS, 7.38659e-05
+TRU, 7.38659e-05
+CJA, 7.38659e-05
+PIU, 7.38659e-05
+RVD, 7.38368e-05
+BYO, 7.38368e-05
+AQA, 7.38368e-05
+GLN, 7.38317e-05
+TGC, 7.37648e-05
+GPB, 7.37428e-05
+MME, 7.36382e-05
+KSD, 7.36294e-05
+BMW, 7.35818e-05
+MCP, 7.35373e-05
+BVS, 7.35191e-05
+BEJ, 7.33923e-05
+RJH, 7.33528e-05
+FON, 7.33402e-05
+DRK, 7.33402e-05
+TTQ, 7.33402e-05
+NOB, 7.33402e-05
+SKU, 7.3264e-05
+YAA, 7.31858e-05
+IRP, 7.30761e-05
+GPS, 7.30103e-05
+SCY, 7.30103e-05
+EBJ, 7.28677e-05
+LXG, 7.28337e-05
+XKH, 7.28337e-05
+ODY, 7.28337e-05
+HOE, 7.28337e-05
+UNN, 7.2701e-05
+ROI, 7.2701e-05
+SNO, 7.2701e-05
+CJM, 7.2701e-05
+PRH, 7.2701e-05
+MAQ, 7.2701e-05
+LOE, 7.2701e-05
+KOP, 7.2701e-05
+NAW, 7.2701e-05
+TST, 7.2701e-05
+BFV, 7.2701e-05
+NST, 7.2701e-05
+SRA, 7.26309e-05
+MFU, 7.25822e-05
+KAA, 7.25822e-05
+CIP, 7.25822e-05
+ZOS, 7.24376e-05
+WIC, 7.2404e-05
+MSZ, 7.23053e-05
+LUO, 7.23053e-05
+SSY, 7.23053e-05
+GJA, 7.22461e-05
+UII, 7.22282e-05
+BIR, 7.21894e-05
+KEP, 7.21894e-05
+PKR, 7.21894e-05
+BDP, 7.21894e-05
+BHR, 7.21894e-05
+TMI, 7.21894e-05
+BWA, 7.21894e-05
+JKR, 7.21894e-05
+DHI, 7.21894e-05
+IKS, 7.21534e-05
+MQJ, 7.21534e-05
+CKH, 7.21534e-05
+SUK, 7.21534e-05
+CYX, 7.21534e-05
+PAV, 7.20011e-05
+LEC, 7.20011e-05
+LAZ, 7.20011e-05
+CUM, 7.18942e-05
+VLV, 7.18942e-05
+LFR, 7.18942e-05
+SOM, 7.18942e-05
+PYH, 7.18942e-05
+BNS, 7.18942e-05
+SVZ, 7.18942e-05
+CBS, 7.18942e-05
+CZE, 7.18942e-05
+MRD, 7.18942e-05
+PHW, 7.18569e-05
+MSU, 7.18569e-05
+RCB, 7.18569e-05
+PZB, 7.18569e-05
+MTS, 7.18569e-05
+MGH, 7.18569e-05
+ELL, 7.18569e-05
+UTT, 7.18569e-05
+PTG, 7.18569e-05
+DPO, 7.18425e-05
+KYP, 7.18278e-05
+RXS, 7.15787e-05
+VRC, 7.15787e-05
+CBO, 7.15787e-05
+BSO, 7.15787e-05
+TUG, 7.15787e-05
+WNP, 7.15787e-05
+CRM, 7.15787e-05
+MBT, 7.15787e-05
+LAO, 7.15787e-05
+SJI, 7.15787e-05
+CYZ, 7.15787e-05
+CYP, 7.15787e-05
+TAG, 7.15787e-05
+PBZ, 7.14933e-05
+EAS, 7.12028e-05
+BJZ, 7.12028e-05
+VUS, 7.11974e-05
+LPI, 7.10956e-05
+IWK, 7.10245e-05
+IZO, 7.10245e-05
+TTJ, 7.10245e-05
+SHM, 7.10245e-05
+TKS, 7.10245e-05
+OBO, 7.10245e-05
+MBE, 7.10245e-05
+ONJ, 7.10245e-05
+KKJ, 7.10245e-05
+IWJ, 7.10245e-05
+HAC, 7.10245e-05
+SYO, 7.10245e-05
+NTQ, 7.10245e-05
+OIM, 7.10245e-05
+IKI, 7.08832e-05
+CFN, 7.0791e-05
+WGP, 7.07027e-05
+CSK, 7.06899e-05
+POG, 7.02878e-05
+THN, 7.02876e-05
+CEG, 7.02121e-05
+TQL, 7.00931e-05
+ONQ, 7.00562e-05
+RSD, 6.99465e-05
+RCY, 6.99465e-05
+SML, 6.99465e-05
+LGI, 6.99465e-05
+NGE, 6.96434e-05
+XCR, 6.95616e-05
+GMB, 6.95348e-05
+JIM, 6.95348e-05
+BJR, 6.95348e-05
+KSF, 6.94721e-05
+KME, 6.94456e-05
+SBZ, 6.93043e-05
+YJT, 6.92605e-05
+SFL, 6.90154e-05
+MMO, 6.90154e-05
+LUG, 6.88911e-05
+LDU, 6.87996e-05
+WAT, 6.87527e-05
+SXI, 6.87493e-05
+CRA, 6.87167e-05
+PDV, 6.86876e-05
+JSR, 6.85722e-05
+CXB, 6.85722e-05
+SPD, 6.85722e-05
+BZL, 6.85722e-05
+OLL, 6.84344e-05
+PRI, 6.84298e-05
+TNJ, 6.83878e-05
+KCK, 6.8358e-05
+UKX, 6.8358e-05
+KYZ, 6.8358e-05
+ODO, 6.8358e-05
+MBI, 6.83244e-05
+MYW, 6.83244e-05
+ARK, 6.83244e-05
+ZMT, 6.81794e-05
+YPR, 6.81794e-05
+YPW, 6.81794e-05
+YZZ, 6.81794e-05
+YYF, 6.81794e-05
+QBC, 6.81794e-05
+YZP, 6.81794e-05
+ACZ, 6.81523e-05
+HDM, 6.81523e-05
+SHL, 6.78137e-05
+TGM, 6.77677e-05
+ELF, 6.77611e-05
+EGN, 6.77611e-05
+UYL, 6.77611e-05
+DEB, 6.77246e-05
+MUE, 6.7461e-05
+HNM, 6.7461e-05
+YLL, 6.73391e-05
+YQL, 6.73391e-05
+YXH, 6.73391e-05
+YBR, 6.73391e-05
+KSE, 6.71387e-05
+PAF, 6.71387e-05
+RUA, 6.71387e-05
+CVM, 6.71297e-05
+MTT, 6.71297e-05
+NLD, 6.71297e-05
+PQM, 6.71297e-05
+PDS, 6.71297e-05
+PXM, 6.71297e-05
+CTM, 6.71297e-05
+MAM, 6.71297e-05
+JAL, 6.71297e-05
+CPE, 6.71297e-05
+LZC, 6.71297e-05
+AAY, 6.71275e-05
+AXK, 6.71275e-05
+KIS, 6.68356e-05
+PJG, 6.67739e-05
+LYP, 6.67739e-05
+NGK, 6.6721e-05
+DBA, 6.6424e-05
+PPG, 6.62886e-05
+CAH, 6.62852e-05
+VKG, 6.62852e-05
+THD, 6.62852e-05
+SYQ, 6.61953e-05
+PYY, 6.61784e-05
+HGN, 6.61784e-05
+OGL, 6.61375e-05
+OGD, 6.6112e-05
+KAD, 6.59546e-05
+QUO, 6.59546e-05
+JOS, 6.59546e-05
+KCO, 6.57404e-05
+CKZ, 6.57404e-05
+TEQ, 6.57404e-05
+RAJ, 6.572e-05
+BHU, 6.572e-05
+GWL, 6.572e-05
+JGA, 6.572e-05
+BHJ, 6.572e-05
+DIU, 6.572e-05
+HDN, 6.56403e-05
+EAR, 6.56403e-05
+BFF, 6.56403e-05
+SHR, 6.56403e-05
+GUC, 6.56403e-05
+MTJ, 6.56403e-05
+AIA, 6.56403e-05
+LAR, 6.56403e-05
+MCK, 6.56403e-05
+EGE, 6.56403e-05
+RIW, 6.56403e-05
+LBF, 6.56403e-05
+PUB, 6.56403e-05
+CEZ, 6.56403e-05
+QUB, 6.56301e-05
+LTD, 6.56301e-05
+GHT, 6.56301e-05
+TML, 6.55952e-05
+NYI, 6.55952e-05
+KMS, 6.55952e-05
+TKD, 6.55952e-05
+ALW, 6.54796e-05
+EAT, 6.54796e-05
+YKM, 6.54796e-05
+DIN, 6.5282e-05
+TUR, 6.52214e-05
+RDC, 6.52214e-05
+SCT, 6.51362e-05
+THX, 6.50219e-05
+IAA, 6.50219e-05
+TGP, 6.50219e-05
+ZSE, 6.48429e-05
+RRG, 6.48429e-05
+KOS, 6.47046e-05
+KUU, 6.4654e-05
+DHM, 6.4654e-05
+KNU, 6.4654e-05
+GOP, 6.4654e-05
+LUH, 6.4654e-05
+EKO, 6.46059e-05
+TWF, 6.46059e-05
+PIH, 6.46059e-05
+CNY, 6.46059e-05
+VEL, 6.46059e-05
+BTM, 6.46059e-05
+CDC, 6.46059e-05
+WJU, 6.45032e-05
+KUV, 6.45032e-05
+TEE, 6.43016e-05
+DJG, 6.43016e-05
+MUW, 6.43016e-05
+MZW, 6.43016e-05
+TGR, 6.43016e-05
+EBH, 6.43016e-05
+ELU, 6.43016e-05
+RJA, 6.42848e-05
+TIR, 6.42848e-05
+MYQ, 6.42002e-05
+IXG, 6.42002e-05
+EUX, 6.40742e-05
+MVR, 6.40255e-05
+BLV, 6.39771e-05
+PSM, 6.39771e-05
+FVM, 6.39197e-05
+UEO, 6.39047e-05
+MSS, 6.38345e-05
+OGS, 6.38345e-05
+LAM, 6.37279e-05
+CNM, 6.37279e-05
+TCG, 6.36032e-05
+NLT, 6.36032e-05
+HTN, 6.36032e-05
+BPL, 6.36032e-05
+KCA, 6.36032e-05
+KRY, 6.36032e-05
+AAT, 6.36032e-05
+IPH, 6.35763e-05
+GAO, 6.34872e-05
+UIN, 6.34722e-05
+CGI, 6.34722e-05
+IRK, 6.34722e-05
+JBR, 6.34722e-05
+MWA, 6.34722e-05
+TBN, 6.34722e-05
+MCE, 6.32773e-05
+VIS, 6.32773e-05
+MMH, 6.32773e-05
+LTO, 6.32773e-05
+CLD, 6.32773e-05
+PRC, 6.32773e-05
+RAH, 6.32682e-05
+TUI, 6.32682e-05
+ANG, 6.32642e-05
+LAW, 6.32529e-05
+TXK, 6.32529e-05
+GCK, 6.32529e-05
+GGG, 6.32529e-05
+JLN, 6.32529e-05
+SPS, 6.32529e-05
+ACT, 6.32529e-05
+ROW, 6.32529e-05
+SJT, 6.32529e-05
+BPT, 6.32529e-05
+ABI, 6.32529e-05
+CBH, 6.31471e-05
+UST, 6.31072e-05
+HIB, 6.30921e-05
+BJI, 6.30921e-05
+ABR, 6.30921e-05
+AGX, 6.29999e-05
+YUS, 6.29953e-05
+TTT, 6.29331e-05
+CPX, 6.28403e-05
+MAZ, 6.28403e-05
+GIL, 6.28371e-05
+KDU, 6.28371e-05
+PES, 6.2804e-05
+GRV, 6.2804e-05
+PEZ, 6.2804e-05
+OGZ, 6.2804e-05
+KVK, 6.2804e-05
+GBB, 6.2804e-05
+OSW, 6.2804e-05
+ESL, 6.2804e-05
+RGK, 6.2804e-05
+LWN, 6.2804e-05
+TGK, 6.2804e-05
+PDT, 6.27761e-05
+BQK, 6.25404e-05
+MEI, 6.25404e-05
+VLD, 6.25404e-05
+DHN, 6.25404e-05
+ABY, 6.25404e-05
+GTR, 6.25404e-05
+MSL, 6.25404e-05
+CSG, 6.25404e-05
+PIB, 6.25404e-05
+LPT, 6.25132e-05
+THS, 6.25132e-05
+TDX, 6.25132e-05
+TAY, 6.24365e-05
+JYV, 6.24365e-05
+RVN, 6.24365e-05
+NRK, 6.24365e-05
+SVL, 6.24365e-05
+KUO, 6.24365e-05
+KAJ, 6.24365e-05
+JOE, 6.24365e-05
+IVL, 6.24365e-05
+KAO, 6.24365e-05
+GLO, 6.23245e-05
+ZIG, 6.23065e-05
+SVC, 6.20364e-05
+FLG, 6.20364e-05
+PQI, 6.20031e-05
+RKD, 6.20031e-05
+RUT, 6.20031e-05
+AUG, 6.20031e-05
+PVC, 6.20031e-05
+SLK, 6.20031e-05
+BHB, 6.20031e-05
+TCR, 6.20026e-05
+HOB, 6.19618e-05
+VCT, 6.19618e-05
+PAH, 6.19162e-05
+FOE, 6.19162e-05
+SUX, 6.19162e-05
+ALO, 6.19162e-05
+EAU, 6.19162e-05
+DBQ, 6.19162e-05
+MKG, 6.19162e-05
+CMX, 6.19162e-05
+MOD, 6.18899e-05
+CIC, 6.18899e-05
+RDD, 6.18899e-05
+BIM, 6.18778e-05
+TCB, 6.18778e-05
+KGP, 6.1856e-05
+FUO, 6.18404e-05
+YZR, 6.17364e-05
+YGK, 6.17364e-05
+PKB, 6.17217e-05
+APF, 6.16727e-05
+SCK, 6.15444e-05
+KHS, 6.14674e-05
+LNJ, 6.14649e-05
+WNH, 6.14649e-05
+SYM, 6.14649e-05
+BSD, 6.14649e-05
+TNN, 6.13732e-05
+TBW, 6.12359e-05
+URS, 6.12359e-05
+PWE, 6.12359e-05
+GMZ, 6.11486e-05
+PGV, 6.11454e-05
+FLO, 6.11454e-05
+LYH, 6.11454e-05
+PLN, 6.11254e-05
+ESC, 6.11254e-05
+CIU, 6.11254e-05
+IAR, 6.10387e-05
+OER, 6.10283e-05
+KID, 6.10283e-05
+EJH, 6.09672e-05
+YIE, 6.07604e-05
+SLN, 6.07518e-05
+TTU, 6.07471e-05
+ISE, 6.07327e-05
+NAJ, 6.07327e-05
+NOP, 6.07327e-05
+KZR, 6.07327e-05
+CND, 6.07327e-05
+KFS, 6.07327e-05
+MBL, 6.05493e-05
+LNS, 6.04907e-05
+BKW, 6.04907e-05
+YNY, 6.04704e-05
+LLB, 6.04139e-05
+KGT, 6.03837e-05
+DCY, 6.03837e-05
+LPY, 6.03116e-05
+AUR, 6.03116e-05
+LAI, 6.03116e-05
+UIP, 6.03116e-05
+KSO, 6.03078e-05
+PAS, 6.03078e-05
+JSY, 6.03078e-05
+JSI, 6.03078e-05
+IOA, 6.03078e-05
+MLO, 6.03078e-05
+JNX, 6.03078e-05
+KZI, 6.02928e-05
+AHN, 6.01003e-05
+HVN, 6.0078e-05
+IPT, 6.0078e-05
+URE, 6.00738e-05
+UDJ, 5.99964e-05
+VDB, 5.97615e-05
+OLA, 5.97615e-05
+BDU, 5.97615e-05
+RRS, 5.97615e-05
+EDO, 5.96617e-05
+GAF, 5.95816e-05
+LCX, 5.9532e-05
+ZQZ, 5.95179e-05
+GDZ, 5.94307e-05
+SKE, 5.94238e-05
+DOL, 5.92048e-05
+ANR, 5.92048e-05
+TRE, 5.89872e-05
+BRR, 5.89872e-05
+ILY, 5.89872e-05
+CAL, 5.89872e-05
+ENH, 5.8925e-05
+PXO, 5.87961e-05
+DIJ, 5.87731e-05
+XFW, 5.87731e-05
+BWK, 5.8677e-05
+RJL, 5.83725e-05
+PNA, 5.83725e-05
+LEH, 5.8291e-05
+KZS, 5.82749e-05
+AGB, 5.81116e-05
+CFK, 5.81116e-05
+VIN, 5.79765e-05
+BAY, 5.79386e-05
+OMR, 5.79386e-05
+SUJ, 5.79386e-05
+IFO, 5.79086e-05
+VLY, 5.7901e-05
+RNN, 5.76914e-05
+SGD, 5.76914e-05
+KRP, 5.76914e-05
+BZO, 5.74969e-05
+AOE, 5.72893e-05
+SLM, 5.70399e-05
+LEN, 5.70399e-05
+VLL, 5.70399e-05
+RGS, 5.70399e-05
+MCM, 5.69345e-05
+DND, 5.67311e-05
+BRQ, 5.67311e-05
+MHG, 5.66482e-05
+ARW, 5.66275e-05
+OMO, 5.66275e-05
+ILD, 5.64002e-05
+OST, 5.64002e-05
+STZ, 4.42096e-05
+PTJ, 4.42096e-05
+LJA, 4.42096e-05
+MSW, 4.42096e-05
+IUE, 4.42096e-05
+VDA, 4.42096e-05
+SXX, 4.42096e-05

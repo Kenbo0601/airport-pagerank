@@ -121,7 +121,7 @@ int main() {
     std::ofstream outfile("output.txt", std::ofstream::trunc); // erase the contents of the file if exists
     int count = 1;
     for(auto& itr : sorted_pagerank) {
-        outfile << "node: " << itr.first << ", pagerank: " << itr.second << "\n";
+        outfile << itr.first << ", " << itr.second << "\n";
     }
     outfile.close();
 
