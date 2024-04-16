@@ -57,7 +57,7 @@ def main():
 
 
     #espilon = 0.15
-    espilon = 0.85
+    espilon = 0.2
     avg_error = 0.00001
     n = len(nodes)
     num_iter = int(math.log(avg_error) / math.log(1 - espilon))
