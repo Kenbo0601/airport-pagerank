@@ -21,6 +21,9 @@ def main():
     edges = {}
     nodes = set()
 
+    outgoing_edges = {}  # opposite of edges, for each source, stores its respective destinations
+    duplicate_edges = {} # dictionary where key is (source, dest) and value is number of duplicate edges
+
     count = 0
     with open("source-dest.txt", encoding='utf-8') as f:
         for line in f.readlines():
@@ -33,16 +36,33 @@ def main():
             nodes.add(source)
             nodes.add(dest)
 
-            # save incoming nodes for each source node 
+            # save incoming nodes for each source node
+            ''' Thu: Do you mean incoming edges for each destination node for the above comment?
+            My assumption is that edges stores at each destination a list of source airports that point to it;
+            From that, I tried to avoid storing duplicate source airports associated with that destination airport
+            since duplicate_edges stores the number of edges from src -> dest at (source, destination)/;
+            Outgoing_edges is similar to edges but instead, stores at each source a list of destination airports 
+            it points to. I figured that len(outgoing_edges[source]) would give the total number of outgoing edges, 
+            including duplicate edges, to give the total number of edges.
+            The resulting result.txt looks similar to output.txt, although I'm not sure if that was what I should have
+            been aiming for...'''
             if dest not in edges:
                 edges[dest] = [source]
-            else:
+            elif source not in edges[dest]:
                 edges[dest].append(source)
-
+            if (source, dest) not in duplicate_edges.keys():
+                duplicate_edges[(source, dest)] = 1
+            else:
+                duplicate_edges[(source, dest)] += 1
+            if source not in outgoing_edges: # the opposite of edges, stores destinations from the source
+                outgoing_edges[source] = [dest]
+            else:
+                outgoing_edges[source].append(dest)
             count += 1
+            '''Thu: Feel free to delete any repetitive stuff I wrote, I was just trying things out to make it work!'''
 
     print("Total number of nodes: ", int(G.number_of_nodes())) 
-    print("Total number of edges: ", int(G.number_of_edges())) 
+    print("Total number of edges: ", int(G.number_of_edges()))
 
     #print(testG.out_degree('DME'))
     #print(edges)
@@ -71,8 +91,14 @@ def main():
         for node in nodes:
             sum = 0
             if node in edges:
-                for j in edges[node]:
-                    sum += pagerank[j] / G.out_degree(j)
+                for j in edges[node]: #j is sources pointing to node dest
+                    #if (j, node) in duplicate_edges.keys():
+                        #multiplier = duplicate_edges[(j, node)]
+                    #else:
+                        #multiplier = 1
+                    multiplier = duplicate_edges[(j, node)]
+                    sum += (multiplier * pagerank[j]) / (len(outgoing_edges[j]))
+                    #sum += pagerank[j]) / G.out_degree(j)
             new_pagerank[node] = ((1 - espilon) * sum) + (espilon/n)
             #print("node: ", node, " - pagerank: ",new_pagerank[node])
 

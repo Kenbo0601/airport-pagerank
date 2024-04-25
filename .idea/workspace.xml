@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f0c0b39-0f14-49da-ad0c-7f4217994296" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/extractRoutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/extractRoutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pagerank.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pagerank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/source-dest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/source-dest.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="pagerank" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.airportsLookup.executor": "Run",
+    "Python.extractRoutes.executor": "Run",
+    "Python.pagerank.executor": "Run",
+    "git-widget-placeholder": "branch__3",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
