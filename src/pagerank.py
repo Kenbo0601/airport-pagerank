@@ -27,7 +27,7 @@ def main():
 
     with open("source-dest.txt", encoding='utf-8') as f:
         for line in f.readlines():
-            line = line.split('-')
+            line = line.split(' ')
             node = format_string(line[0], line[1])
             source = node[0]
             dest = node[1]

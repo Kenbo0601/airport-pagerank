@@ -45,14 +45,10 @@ int main() {
 
     while (file >> from_id >> to_id) {
         // Process the edge here
-        if(std::find(edges[to_id].begin(), edges[to_id].end(), from_id) != edges[to_id].end()) {
-            std::cout << to_id << " already has an edge from " << from_id << std::endl;
-        } else {
-            edges[to_id].push_back(from_id);
-            out_degree[from_id]++;
-            nodes.insert(from_id);
-            nodes.insert(to_id);
-        }
+        edges[to_id].push_back(from_id);
+        out_degree[from_id]++;
+        nodes.insert(from_id);
+        nodes.insert(to_id);
     } 
 
     file.close();
@@ -63,7 +59,7 @@ int main() {
     std::cout << "Adding edges to all nodes from sink nodes ... " << std::endl;
     for(std::string node: nodes) {
         if(out_degree[node] == 0) {
-            std::cout << node << std::endl;
+            //std::cout << node << std::endl;
             for(std::string node_second : nodes) {
                 if(node != node_second) {
                     edges[node_second].push_back(node);
@@ -74,15 +70,20 @@ int main() {
     }
     std::cout << "Done adding edges." << std::endl;
 
+    int incoming = 0;
     for ( const auto &p : edges)
     {
         std::cout << p.first << " :";
         for ( const auto &s : p.second )
         {
             std::cout << ' ' << s;
+            if(p.first == "ATL")
+                incoming++;
         }
         std::cout << std::endl;
     }
+
+    std::cout << "number of incoming nodes for ATL: " << incoming << std::endl;
 
     double epsilon = 0.15, avg_error = 0.00001;
     int n = nodes.size();
