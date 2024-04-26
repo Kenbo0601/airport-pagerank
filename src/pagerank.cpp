@@ -44,11 +44,14 @@ int main() {
     std::string from_id, to_id;
 
     while (file >> from_id >> to_id) {
-        // Process the edge here
-        edges[to_id].push_back(from_id);
-        out_degree[from_id]++;
-        nodes.insert(from_id);
-        nodes.insert(to_id);
+        if(std::find(edges[to_id].begin(), edges[to_id].end(), from_id) != edges[to_id].end()) {
+            std::cout << to_id << " already has an edge from " << from_id << std::endl;
+        } else {
+            edges[to_id].push_back(from_id);
+            out_degree[from_id]++;
+            nodes.insert(from_id);
+            nodes.insert(to_id);
+        }
     } 
 
     file.close();
