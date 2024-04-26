@@ -118,7 +118,7 @@ int main() {
     pagerank.clear();
 
     // write result in a txt file and store top five nodes in a set 
-    std::ofstream outfile("output.txt", std::ofstream::trunc); // erase the contents of the file if exists
+    std::ofstream outfile("SingleEdge.txt", std::ofstream::trunc); // erase the contents of the file if exists
     int count = 1;
     for(auto& itr : sorted_pagerank) {
         outfile << itr.first << ", " << itr.second << "\n";
