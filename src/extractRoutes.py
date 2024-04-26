@@ -6,7 +6,7 @@ with open(path, encoding="utf8") as filedata:
         line = line.split(',')
         source = line[2]
         dest = line[4]
-        L.append(source + " - " + dest + "\n")
+        L.append(source + '-' + dest + '\n')
 file.writelines(L)
 file.close()
 
