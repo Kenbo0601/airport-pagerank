@@ -51,6 +51,19 @@ def main():
             else:
                 outgoing_edges[source].append(dest)
 
+    # handle sink nodes: add edges to everything else
+    '''print('Sink nodes')'''
+    for node in nodes:
+        if node not in outgoing_edges:
+            '''print(node)'''
+            # add edges to all other nodes; this should not affect duplicate_edges
+            for dest in nodes:
+                if node != dest:
+                    if node not in outgoing_edges:
+                        outgoing_edges[node] = [dest]
+                    else:
+                        outgoing_edges[node].append(dest)
+
     # values to match those of the cpp file
     espilon = 0.15
     avg_error = 0.00001
