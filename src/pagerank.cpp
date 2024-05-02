@@ -29,7 +29,7 @@ std::vector<std::pair<std::string, double> > sort_pagerank(std::map<std::string,
 
 int main() {
 
-    std::ifstream file("source-dest.txt"); // Change "edges.txt" to your file name
+    std::ifstream file("../data/source-dest.txt"); // Change "edges.txt" to your file name
     if (!file.is_open()) {
         std::cerr << "Unable to open file" << std::endl;
         return 1;
@@ -122,7 +122,7 @@ int main() {
     pagerank.clear();
 
     // write result in a txt file and store top five nodes in a set 
-    std::ofstream outfile("SingleEdge.txt", std::ofstream::trunc); // erase the contents of the file if exists
+    std::ofstream outfile("../output/SingleEdge.txt", std::ofstream::trunc); // erase the contents of the file if exists
     int count = 1;
     for(auto& itr : sorted_pagerank) {
         outfile << itr.first << ", " << itr.second << "\n";

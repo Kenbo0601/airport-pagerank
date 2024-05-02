@@ -25,7 +25,7 @@ def main():
     # dictionary where key is (source, dest) and value is number of duplicate edges
     duplicate_edges = {}
 
-    with open("source-dest.txt", encoding='utf-8') as f:
+    with open("../data/source-dest.txt", encoding='utf-8') as f:
         for line in f.readlines():
             line = line.split(' ')
             node = format_string(line[0], line[1])
@@ -89,7 +89,7 @@ def main():
 
     sorted_pagerank = sorted(pagerank.items(), key=lambda item: item[1], reverse=True) 
 
-    with open("MultEdges.txt", "w") as out:
+    with open("../output/MultEdges.txt", "w") as out:
         for i in sorted_pagerank:
             L = [i[0], ":", str(i[1]), "\n"]
             out.writelines(L)

@@ -1,10 +1,10 @@
 import csv
 
 # Path to the input text file
-input_file_path = 'source-dest.txt'
+input_file_path = '../data/source-dest.txt'
 
 # Path to the output CSV file
-output_file_path = 'source-dest.csv'
+output_file_path = '../data/source-dest.csv'
 
 col_names = ["source", "target"]
 

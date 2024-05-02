@@ -1,6 +1,5 @@
 # Analysis of airports using Pagerank algorithm 
-
-## Installation 
+SDSU CS696 - Algorithms for big data: Group project
 
 ## Usage
 
