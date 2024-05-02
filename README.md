@@ -2,6 +2,7 @@
 SDSU CS696 Algorithms for big data - Group project
 
 ## Folder structure 
+```
 airport-pagerank 
 ├── data/
 │   ├── airports.txt
@@ -17,6 +18,7 @@ airport-pagerank
     ├── generateCSV.py
     ├── pagerank.cpp
     └── pagerank.py
+```
 ## Build
 Option 1: Single-edge pagerank 
 ```
