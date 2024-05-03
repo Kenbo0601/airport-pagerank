@@ -1,5 +1,5 @@
 # Analysis of airports using Pagerank algorithm 
-SDSU CS696 Algorithms for big data - Group project
+SDSU CS696 Algorithms for big data - Group project\
 In this project, we analyzed and ranked airports in the world using pagerank algorithm, developed by Larry Page. 
  - Number of nodes (airports): 3425
  - Option1: only one edge btween source and dest 
